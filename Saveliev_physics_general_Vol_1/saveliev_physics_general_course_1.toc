@@ -1,0 +1,61 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Preface}{v}{chapter*.1}% 
+\contentsline {chapter}{Introduction}{1}{chapter*.3}% 
+\contentsline {part}{A\hspace {1em}THE PHYSICAL FUNDAMENTALS OF MECHANICS}{7}{part.1}% 
+\contentsline {chapter}{\numberline {1}KINEMATICS}{9}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Mechanical motion}{9}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Vectors}{12}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Velocity and Speed}{28}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Acceleration}{34}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Circular Motion}{38}{section.1.5}% 
+\contentsline {chapter}{\numberline {2}DYNAMICS OF A POINT PARTICLE}{43}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Classical Mechanics. Range of Its Applicability}{43}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Newton's First Law. Inertial Reference Frames}{44}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Mass and Momentum of a Body}{45}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Newton's Second Law}{47}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Units and Dimensions of Physical Quantities}{48}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Newton's Third Law}{52}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Galileo's Relativity Principle}{54}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Forces}{56}{section.2.8}% 
+\contentsline {section}{\numberline {2.9}Elastic Forces}{57}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}Friction Forces}{61}{section.2.10}% 
+\contentsline {section}{\numberline {2.11}Force of Gravity and Weight}{65}{section.2.11}% 
+\contentsline {section}{\numberline {2.12}Practical Application of Newton's Laws}{67}{section.2.12}% 
+\contentsline {chapter}{\numberline {3}LAWS OF CONSERVATION}{69}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Quantities Obeying the Laws of Conservation}{69}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Kinetic Energy}{70}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Work}{72}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Conservative Forces}{76}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}Potential Energy in an External Force Field}{81}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}Potential Energy of Interaction}{87}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}Law of Conservation of Energy}{92}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}Energy of Elastic Deformation}{94}{section.3.8}% 
+\contentsline {section}{\numberline {3.9}Equilibrium Conditions of a Mechanical System}{95}{section.3.9}% 
+\contentsline {section}{\numberline {3.10}Law of Momentum Conservation}{97}{section.3.10}% 
+\contentsline {section}{\numberline {3.11}Collision of Two Bodies}{100}{section.3.11}% 
+\contentsline {section}{\numberline {3.12}Law of Angular Momentum Conservation}{102}{section.3.12}% 
+\contentsline {section}{\numberline {3.13}Motion in a Central Force Field}{109}{section.3.13}% 
+\contentsline {section}{\numberline {3.14}Two-Body Problem}{114}{section.3.14}% 
+\contentsline {chapter}{\numberline {4}NON-INERTIAL REFERENCE FRAMES}{117}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Forces of Inertia}{117}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Centrifugal Force of Inertia}{120}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Coriolis Force}{123}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Laws of Conservation in Non-Inertial Reference Frames}{130}{section.4.4}% 
+\contentsline {chapter}{\numberline {5}MECHANICS OF A RIGID BODY}{133}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Motion of a Body}{133}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Motion of the Centre of Mass of a Body}{135}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Rotation of a Body about a Fixed Axis}{136}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Moment of Inertia}{143}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Concept of Inertia Tensor}{148}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Kinetic Energy of a Rotating Body}{155}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Kinetic Energy of a Body in Plane Motion}{159}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}Application of the Laws of Dynamics of a Body}{160}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}Gyroscopes}{166}{section.5.9}% 
+\contentsline {chapter}{\numberline {6}UNIVERSAL GRAVITATION}{173}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Law of Universal Gravitation}{173}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Gravitational Field}{175}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}The Equivalence Principle}{179}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Orbital and Escape Velocities}{183}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}OSCILLATORY MOTION}{187}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}General}{187}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Small-Amplitude Oscillations}{188}{section.7.2}% 
