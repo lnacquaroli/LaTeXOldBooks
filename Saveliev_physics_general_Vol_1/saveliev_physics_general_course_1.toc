@@ -59,3 +59,25 @@
 \contentsline {chapter}{\numberline {7}OSCILLATORY MOTION}{187}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}General}{187}{section.7.1}% 
 \contentsline {section}{\numberline {7.2}Small-Amplitude Oscillations}{188}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Complex Numbers}{192}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Linear Differential Equations}{194}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Harmonic Oscillations}{197}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}The Pendulum}{202}{section.7.6}% 
+\contentsline {section}{\numberline {7.7}Vector Diagram}{205}{section.7.7}% 
+\contentsline {section}{\numberline {7.8}Beats}{207}{section.7.8}% 
+\contentsline {section}{\numberline {7.9}Addition of Mutually Perpendicular Oscillations}{209}{section.7.9}% 
+\contentsline {section}{\numberline {7.10}Damped Oscillations}{212}{section.7.10}% 
+\contentsline {section}{\numberline {7.11}Auto-Oscillations}{216}{section.7.11}% 
+\contentsline {section}{\numberline {7.12}Forced Oscillations}{217}{section.7.12}% 
+\contentsline {section}{\numberline {7.13}Parametric Resonance}{223}{section.7.13}% 
+\contentsline {chapter}{\numberline {8}RELATIVISTIC MECHANICS}{225}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}The Special Theory of Relativity}{225}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Lorentz Transformations}{228}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Corollaries of the Lorentz Transformations}{233}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Interval}{237}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Transformation and Addition of Velocities}{239}{section.8.5}% 
+\contentsline {section}{\numberline {8.6}Relativistic Expression for the Momentum}{240}{section.8.6}% 
+\contentsline {section}{\numberline {8.7}Relativistic Expression for the Energy}{242}{section.8.7}% 
+\contentsline {section}{\numberline {8.8}Transformations of Momentum and Energy}{246}{section.8.8}% 
+\contentsline {section}{\numberline {8.9}Relation Between Mass and Energy}{248}{section.8.9}% 
+\contentsline {section}{\numberline {8.10}Particles with a Zero Rest Mass}{250}{section.8.10}% 
