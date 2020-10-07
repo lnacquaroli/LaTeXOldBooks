@@ -1,3 +1,3 @@
-# DigitizeBooks
+# LatexedOldBooks
 
-Collection of old scientific books digitized into LaTeX.
+Collection of old scientific old books digitized into LaTeX.
