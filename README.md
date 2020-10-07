@@ -1,6 +1,6 @@
 # LaTeXOldBooks
 
-Collection of old scientific old books digitized into LaTeX.
+Collection of scientific old books digitised into LaTeX.
 
 The books digitised are inside each corresponding folder. The tex along with the figures are also included for compilation or customisation.
 
