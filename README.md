@@ -1,8 +1,8 @@
 # LaTeXOldBooks
 
-Collection of scientific old books digitised into LaTeX.
+Collection of scientific old books digitised into LaTeX. 
 
-The books digitised are inside each corresponding folder. The tex along with the figures are also included for compilation or customisation.
+In principle this project is fixated with books from the MIR Publisher. But any other book would do. The books digitised are inside each corresponding folder. The tex along with the figures are also included for compilation or customisation.
 
 If you find any error or inconsistency, feel free to create an issue or a PR.
 
