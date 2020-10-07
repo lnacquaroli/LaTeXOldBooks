@@ -1,7 +1,7 @@
 \babel@toc {english}{}
 \contentsline {chapter}{Preface}{v}{chapter*.1}% 
 \contentsline {chapter}{Introduction}{1}{chapter*.3}% 
-\contentsline {part}{A\hspace {1em}THE PHYSICAL FUNDAMENTALS OF MECHANICS}{7}{part.1}% 
+\contentsline {part}{I\hspace {1em}THE PHYSICAL FUNDAMENTALS OF MECHANICS}{7}{part.1}% 
 \contentsline {chapter}{\numberline {1}KINEMATICS}{9}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Mechanical motion}{9}{section.1.1}% 
 \contentsline {section}{\numberline {1.2}Vectors}{12}{section.1.2}% 
@@ -40,7 +40,7 @@
 \contentsline {section}{\numberline {4.1}Forces of Inertia}{117}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Centrifugal Force of Inertia}{120}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}Coriolis Force}{123}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}Laws of Conservation in Non-Inertial Reference Frames}{130}{section.4.4}% 
+\contentsline {section}{\numberline {4.4}Laws of Conservation in Non-Inertial Reference Frames}{129}{section.4.4}% 
 \contentsline {chapter}{\numberline {5}MECHANICS OF A RIGID BODY}{133}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Motion of a Body}{133}{section.5.1}% 
 \contentsline {section}{\numberline {5.2}Motion of the Centre of Mass of a Body}{135}{section.5.2}% 
@@ -81,3 +81,78 @@
 \contentsline {section}{\numberline {8.8}Transformations of Momentum and Energy}{246}{section.8.8}% 
 \contentsline {section}{\numberline {8.9}Relation Between Mass and Energy}{248}{section.8.9}% 
 \contentsline {section}{\numberline {8.10}Particles with a Zero Rest Mass}{250}{section.8.10}% 
+\contentsline {chapter}{\numberline {9}HYDRODYNAMICS}{253}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Streamlines and Flow Tubes. Flow Continuity}{253}{section.9.1}% 
+\contentsline {section}{\numberline {9.2}Bernoulli's Equation}{255}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Flow of a Liquid from a Hole}{258}{section.9.3}% 
+\contentsline {section}{\numberline {9.4}Forces of Internal Friction}{260}{section.9.4}% 
+\contentsline {section}{\numberline {9.5}Laminar and Turbulent Flows}{262}{section.9.5}% 
+\contentsline {section}{\numberline {9.6}Flow of a Liquid in a Round Pipe}{264}{section.9.6}% 
+\contentsline {section}{\numberline {9.7}Motion of Bodies in Fluids}{266}{section.9.7}% 
+\contentsline {part}{II\hspace {1em}MOLECULAR PHYSICS AND THERMODYNAMICS}{271}{part.2}% 
+\contentsline {chapter}{\numberline {10}GENERAL INFORMATION}{273}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Statistical Physics and Thermodynamics}{273}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}Mass and Size of Molecules}{274}{section.10.2}% 
+\contentsline {section}{\numberline {10.3}State of a System. Process}{276}{section.10.3}% 
+\contentsline {section}{\numberline {10.4}Internal Energy of a System}{278}{section.10.4}% 
+\contentsline {section}{\numberline {10.5}The First Law of Thermodynamics}{279}{section.10.5}% 
+\contentsline {section}{\numberline {10.6}Work Done by a Body upon Changes in Volume}{281}{section.10.6}% 
+\contentsline {section}{\numberline {10.7}Temperature}{284}{section.10.7}% 
+\contentsline {section}{\numberline {10.8}Equation of State of an Ideal Gas}{286}{section.10.8}% 
+\contentsline {section}{\numberline {10.9}Internal Energy and Heat Capacity of an Ideal Gas}{288}{section.10.9}% 
+\contentsline {section}{\numberline {10.10}Equation of Adiabat of an Ideal Gas}{291}{section.10.10}% 
+\contentsline {section}{\numberline {10.11}Polytropic Processes}{294}{section.10.11}% 
+\contentsline {section}{\numberline {10.12}Work of an Ideal Gas in Different Processes}{295}{section.10.12}% 
+\contentsline {section}{\numberline {10.13}Van der Waals Gas}{297}{section.10.13}% 
+\contentsline {section}{\numberline {10.14}The Barometric Formula}{300}{section.10.14}% 
+\contentsline {chapter}{\numberline {11}STATISTICAL PHYSICS}{303}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Information from the Theory of Probability}{303}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}Nature of the Thermal Motion of Molecules}{306}{section.11.2}% 
+\contentsline {section}{\numberline {11.3}Number of Collisions of Molecules with a Wall}{309}{section.11.3}% 
+\contentsline {section}{\numberline {11.4}Pressure of a Gas on a Wall}{313}{section.11.4}% 
+\contentsline {section}{\numberline {11.5}Mean Energy of Molecules}{315}{section.11.5}% 
+\contentsline {section}{\numberline {11.6}The Maxwell Distribution}{323}{section.11.6}% 
+\contentsline {section}{\numberline {11.7}Experimental Verification of the Maxwell Distribution Law}{332}{section.11.7}% 
+\contentsline {section}{\numberline {11.8}The Boltzmann Distribution}{335}{section.11.8}% 
+\contentsline {section}{\numberline {11.9}Determination of the Avogadro Constant by Perrin}{337}{section.11.9}% 
+\contentsline {section}{\numberline {11.10}Macro- and Microstates. Statistical Weight}{339}{section.11.10}% 
+\contentsline {section}{\numberline {11.11}Entropy}{345}{section.11.11}% 
+\contentsline {chapter}{\numberline {12}THERMODYNAMICS}{355}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}Fundamental Laws}{355}{section.12.1}% 
+\contentsline {section}{\numberline {12.2}The Carnot Cycle}{360}{section.12.2}% 
+\contentsline {section}{\numberline {12.3}The Thermodynamic Temperature Scale}{364}{section.12.3}% 
+\contentsline {section}{\numberline {12.4}Examples of Calculating the Entropy}{367}{section.12.4}% 
+\contentsline {section}{\numberline {12.5}Some Applications of Entropy}{369}{section.12.5}% 
+\contentsline {section}{\numberline {12.6}Thermodynamic Potentials}{371}{section.12.6}% 
+\contentsline {chapter}{\numberline {13}THE CRYSTALLINE STATE}{377}{chapter.13}% 
+\contentsline {section}{\numberline {13.1}Features of the Crystalline State}{377}{section.13.1}% 
+\contentsline {section}{\numberline {13.2}Classification of Crystals}{379}{section.13.2}% 
+\contentsline {section}{\numberline {13.3}Physical Kinds of Crystal Lattices}{380}{section.13.3}% 
+\contentsline {section}{\numberline {13.4}Defect in Crystals}{383}{section.13.4}% 
+\contentsline {section}{\numberline {13.5}Heat Capacity of Crystals}{385}{section.13.5}% 
+\contentsline {chapter}{\numberline {14}THE LIQUID STATE}{387}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}The Structure of Liquids}{387}{section.14.1}% 
+\contentsline {section}{\numberline {14.2}Surface Tension}{388}{section.14.2}% 
+\contentsline {section}{\numberline {14.3}Pressure under a Curved Liquid Surface}{392}{section.14.3}% 
+\contentsline {section}{\numberline {14.4}Phenomena on Liquid-Solid Interface}{394}{section.14.4}% 
+\contentsline {section}{\numberline {14.5}Capillary Phenomena}{397}{section.14.5}% 
+\contentsline {chapter}{\numberline {15}PHASE EQUILIBRIA AND TRANSITIONS}{399}{chapter.15}% 
+\contentsline {section}{\numberline {15.1}Introduction}{399}{section.15.1}% 
+\contentsline {section}{\numberline {15.2}Evaporation and Condensation}{400}{section.15.2}% 
+\contentsline {section}{\numberline {15.3}Equilibrium Between a Liquid and Its Saturated Vapour}{402}{section.15.3}% 
+\contentsline {section}{\numberline {15.4}The Critical State}{404}{section.15.4}% 
+\contentsline {section}{\numberline {15.5}Supersaturated Vapour and Superheated Liquid}{406}{section.15.5}% 
+\contentsline {section}{\numberline {15.6}Melting and Crystallization}{409}{section.15.6}% 
+\contentsline {section}{\numberline {15.7}The Clapeyron-Clausius Equation}{411}{section.15.7}% 
+\contentsline {section}{\numberline {15.8}Triple Point. Phase Diagram}{413}{section.15.8}% 
+\contentsline {chapter}{\numberline {16}PHYSICAL KINETICS}{417}{chapter.16}% 
+\contentsline {section}{\numberline {16.1}Transport Phenomena}{417}{section.16.1}% 
+\contentsline {section}{\numberline {16.2}Mean Free Path}{421}{section.16.2}% 
+\contentsline {section}{\numberline {16.3}Diffusion in Gases}{425}{section.16.3}% 
+\contentsline {section}{\numberline {16.4}Thermal Conductivity of Gases}{428}{section.16.4}% 
+\contentsline {section}{\numberline {16.5}Viscosity of Gases}{431}{section.16.5}% 
+\contentsline {section}{\numberline {16.6}Ultrararefied Gases}{434}{section.16.6}% 
+\contentsline {chapter}{APPENDICES}{437}{appendix*.218}% 
+\contentsline {section}{\numberline {A.1}List of Symbols}{437}{section.Alph0.1}% 
+\contentsline {section}{\numberline {A.2}Calculation of Selected Integrals}{440}{section.Alph0.2}% 
+\contentsline {section}{\numberline {A.3}The Stirling Formula}{441}{section.Alph0.3}% 
