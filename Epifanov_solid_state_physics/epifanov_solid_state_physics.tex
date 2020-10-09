@@ -1,0 +1,243 @@
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, twoside, fleqn]{book}
+
+%\flushbottom declaration makes all text pages the same height, adding extra vertical space when necessary to fill out the page.
+\flushbottom
+
+%The \raggedbottom declaration makes all pages the height of the text on that page. No extra vertical space is added.
+
+% preamble should include, in this order:
+\usepackage[T1]{fontenc}
+% load babel here
+\usepackage[english]{babel}
+\usepackage[p,osf,swashQ,sups]{cochineal}
+\usepackage[varqu,varl,var0]{inconsolata}
+\usepackage[scale=.95,type1]{cabin}
+\usepackage[cochineal,vvarbb,slantedGreek]{newtxmath}
+% Other possibilities for slanted greeks https://ctan.math.ca/tex-archive/fonts/newtx/doc/newtxdoc.pdf
+\usepackage[cal=boondoxo]{mathalfa}
+\usepackage{amsmath}
+%\usepackage{amssymb}
+\numberwithin{equation}{chapter}
+
+\usepackage{xcolor}
+\definecolor{brownfigs}{rgb}{0.7607843137254902,0.5607843137254902,0.2823529411764706}
+\definecolor{bluefigs}{rgb}{0.2392156862745098,0.403921568627451,0.4823529411764706}
+\definecolor{greyfigs}{rgb}{0.6509803921568627,0.6549019607843137,0.6392156862745098}
+
+\let\oldvec=\vec % \oldvec tiene la flecha
+\renewcommand{\vec}[1]{\boldsymbol{#1}}
+%\renewcommand{\sen}[1]{\mathrm{sen\,#1}}
+\newcommand{\vecuni}[1]{\hat{\boldsymbol{e}}_{#1}}
+\newcommand{\hatvec}[1]{\hat{\boldsymbol{#1}}}
+\newcommand{\final}{\text{final}}
+\newcommand{\inicial}{\text{inicial}}
+\newcommand{\fig}[1]{Fig.~\ref{fig:#1}}
+\newcommand{\eqn}[1]{Eq.~\eqref{eq:#1}}
+\newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
+\newcommand{\vecdotind}[4]{\boldsymbol{#1}_{#2}\boldsymbol{\cdot}\boldsymbol{#3}_{#4}}
+\newcommand{\vecunidot}[2]{\hat{\boldsymbol{e}}_{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
+\newcommand{\vecprod}[2]{\boldsymbol{#1}\times\boldsymbol{#2}}
+\newcommand{\vecprodind}[4]{\boldsymbol{#1}_{#2}\times\boldsymbol{#3}_{#4}}
+\newcommand{\vecuniprod}[2]{\hat{\boldsymbol{e}}_{#1}\times\hat{\boldsymbol{e}}_{#2}}
+\newcommand{\vecmix}[3]{\boldsymbol{#1}\!\boldsymbol{\cdot}\!(\boldsymbol{#2}\times\boldsymbol{#3})}
+\newcommand{\ie}{\textit{i.e.}}
+\newcommand{\upd}{\mathrm{d}}
+\newcommand{\deriv}[1]{\upd#1}
+\newcommand{\derivp}[1]{\upd'\!#1}
+\newcommand{\Deltap}[1]{\Delta'\!#1}
+\newcommand{\diffin}[2]{\upd#1/\upd#2}
+\newcommand{\diff}[2]{\frac{\upd#1}{\upd#2}}
+\newcommand{\diffsec}[2]{\frac{\upd^2#1}{\upd#2^2}}
+\newcommand{\diffinpartial}[2]{\uppartial#1/\uppartial#2}
+\newcommand{\diffpartial}[2]{\frac{\uppartial#1}{\uppartial#2}}
+\newcommand{\diffsecpartial}[2]{\frac{\uppartial^2#1}{\uppartial#2^2}}
+\newcommand{\mr}{m_{\text{r}}}
+\newcommand{\bra}[1]{\left.\left\langle #1 \right.\right|}
+\newcommand{\ket}[1]{\left|\left\. #1 \right\rangle\right.}
+\newcommand{\average}[1]{\left\langle #1 \right\rangle}
+\newcommand{\enlevel}[3]{$#1\text{#2}_{#3}$}
+\newcommand{\reynolds}{R\hspace{-1pt}e}
+\newcommand{\amu}{m_{\text{un}}}
+\newcommand{\amr}{A_{\text{r}}}
+\newcommand{\mmr}{M_{\text{r}}}
+
+\usepackage[a5paper]{geometry}
+\geometry{textheight=17cm, textwidth=10.8cm, top=1.5cm, left=1.6cm, right=0.9cm, bottom=1.0cm}
+
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage[version=4]{mhchem}
+
+\usepackage{tikz-cd}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[group-separator = {,}, input-protect-tokens]{siunitx}
+\DeclareSIUnit\kgf{kgf}
+\DeclareSIUnit\calorie{cal}
+\DeclareSIUnit\mercury{Hg}
+\DeclareSIUnit\atm{atm}
+\DeclareSIUnit\gf{gf}
+\DeclareSIUnit\dyne{dyn}
+\DeclareSIUnit\erg{erg}
+\DeclareSIUnit\hp{hp}
+\DeclareSIUnit\poise{P}
+\usepackage{nicefrac}
+\usepackage{soul}
+
+\renewcommand\thesection{\arabic{chapter}.\arabic{section}}
+%\renewcommand\thechapter{\Roman{chapter}}
+\renewcommand\thepart{\Alph{part}}
+
+\usepackage{etoolbox}
+% Hacer fancyhdr la pagina del chapter
+\patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
+
+\usepackage{fancyhdr}
+\fancyhead{} % clear all header fields
+\fancyfoot{}
+%\fancyhead[LE]{\thepage\quad\nouppercase\leftmark}
+%\fancyhead[LE]{\thepage\quad\sc\leftmark}
+\fancyhead[LE]{\thepage}
+\fancyhead[CE]{\leftmark}
+%\fancyhead[RO]{\rightmark\quad\thepage}
+\fancyhead[RO]{\thepage}
+\fancyhead[CO]{\rightmark}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\ #1}{}}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}
+
+\usepackage{titlesec}
+%\titleformat{\part}
+%{\sffamily\Huge\color{black!70}\uppercase}
+%{\thepart}{1em}{}
+
+\titleformat{\part}[display]
+%{\filcenter\sffamily\Huge\color{black!70}\bfseries}
+{\filcenter\Huge\color{black!70}\bfseries}
+{\thispagestyle{empty} PART~~\thepart}{30pt}{}
+% Saca numero de la pagina de las partes
+
+\titleformat{\chapter}[display]
+%{\sffamily\huge\color{black!70}\bfseries}
+{\huge\color{black!70}\bfseries}
+%{\MakeUppercase{\chaptertitlename}\ \thechapter}{10pt}{}
+{\chaptertitlename\ \thechapter}{10pt}{}
+
+%\titleformat{\chapter}
+%  {\sffamily\huge\color{black!70}\uppercase}
+%  {Cap\'itulo~~\thechapter:}{1em}{}
+\titleformat{\section}
+%  {\normalfont\sffamily\large\color{black!80}}
+{\normalfont\large\color{black!70}}{}{0pt} {\thesection.~}
+%\setlength{\parskip}{0.5\baselineskip}
+
+% Espacio entre renglones
+\renewcommand{\baselinestretch}{1.0}
+
+%% for no dots in toc
+%\makeatletter
+%\renewcommand{\@dotsep}{10000} 
+%\makeatother
+
+\setlength{\parskip}{0pt}
+\setcounter{secnumdepth}{1}
+
+\usepackage{caption}
+\usepackage[font={color=black!70,small,bf},figurename=Fig.]{caption}
+
+\usepackage[shortlabels]{enumitem}
+\setlist{nosep}
+% \setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+\setlength{\parskip}{0pt}
+
+\usepackage[colorlinks=true]{hyperref}
+\hypersetup{
+  colorlinks,
+  linkcolor=brownfigs,
+  linktoc=all
+}
+
+% Suppresses page numbers and headings from appearing on empty pages
+\usepackage{emptypage}
+\usepackage{pdfpages}
+
+\newcommand*\figr[1]{\hyperref[#1]{Figure~\ref{#1}}}
+%\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
+
+% Resetea el figure numbering para cada seccion
+\usepackage{chngcntr}
+\counterwithin{figure}{chapter}
+
+\usepackage{dialogue}
+\usepackage{lips}
+
+\title{Physics, A General Course, Volume 1}
+\author{I. V. Savelyev}
+\date{2020}
+
+%\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% Reducir espacio entre texto y ecuaciones
+\setlength{\abovedisplayskip}{3pt}
+\setlength{\belowdisplayskip}{3pt}
+\setlength{\abovedisplayshortskip}{3pt}
+\setlength{\belowdisplayshortskip}{3pt}
+
+\frontmatter
+
+\includepdf{figures/pgc_1_fc.pdf}
+\cleardoublepage
+\input{00_title}
+\cleardoublepage
+\input{00_preface}
+\cleardoublepage
+%\pagestyle{empty}
+%\tableofcontents
+{\hypersetup{linkcolor=black!80}
+	% or \hypersetup{linkcolor=black}, if the colorlinks=true option of hyperref is used
+	\tableofcontents
+}
+\cleardoublepage
+
+\mainmatter
+
+\input{00_introduction}
+\cleardoublepage
+
+\part{THE PHYSICAL FUNDAMENTALS OF MECHANICS}\label{part:A}
+\cleardoublepage
+\input{01_kinematics}
+\cleardoublepage
+\input{02_dynamics_point_particle}
+\cleardoublepage
+\input{03_laws_of_conservation}
+\cleardoublepage
+\input{04_non_inertial_reference_frames}
+\cleardoublepage
+\input{05_mechanics_of_a_rigid_body}
+\cleardoublepage
+\input{06_universal_gravitation}
+\cleardoublepage
+\input{07_oscillatory_motion}
+\cleardoublepage
+\input{08_relativistic_mechanics}
+\cleardoublepage
+\input{09_hydrodynamics}
+
+\part{MOLECULAR PHYSICS AND THERMODYNAMICS}\label{part:B}
+\cleardoublepage
+\input{10_general_information}
+
+\cleardoublepage
+\includepdf{figures/pgc_1_bc.pdf}
+\end{document}
+
+% Local Variables:
+% TeX-engine: pdflatex
+% End:
