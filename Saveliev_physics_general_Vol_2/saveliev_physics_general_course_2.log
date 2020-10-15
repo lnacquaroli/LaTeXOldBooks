@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.12)  12 OCT 2020 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.12)  14 OCT 2020 23:41
 entering extended mode
 **./saveliev_physics_general_course_2.tex
 (saveliev_physics_general_course_2.tex
@@ -1284,7 +1284,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \mylenprt=\skip122
 \mylenchp=\skip123
 LaTeX Font Info:    Try loading font information for T1+Cochineal-TLF on input 
-line 201.
+line 212.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\t1cochineal-tlf
 .fd
@@ -1292,10 +1292,10 @@ File: T1Cochineal-TLF.fd 2019/06/21 (msharpe) Font definitions for T1/Cochineal
 -TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 201.
+(Font)              scaled to size 10.95pt on input line 212.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 201.
-Package caption Info: We need package `newfloat' on input line 218.
+(Font)              scaled to size 10.95pt on input line 212.
+Package caption Info: We need package `newfloat' on input line 229.
  (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\newfloat.sty
 Package: newfloat 2019/09/01 v1.1k Defining new floating environments (AR)
 Package newfloat Info: Document class `book' detected.
@@ -1415,7 +1415,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip125
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 229.
+Package hyperref Info: Option `colorlinks' set `true' on input line 240.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/emptypage\emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
@@ -1464,7 +1464,7 @@ Package: lips 2001/08/31 v2.1 Chicago Manual text ellipses (Frankenstein's lips
 )
 )
 LaTeX Font Info:    Try loading font information for T1+Cochineal-OsF on input 
-line 247.
+line 258.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\t1cochineal-osf
 .fd
@@ -1472,61 +1472,61 @@ File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal
 -OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 247.
+(Font)              scaled to size 10.95pt on input line 258.
  (saveliev_physics_general_course_2.aux)
 \openout1 = `saveliev_physics_general_course_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zcochmi/m/it on input line 247.
+LaTeX Font Info:    Checking defaults for OML/zcochmi/m/it on input line 258.
 LaTeX Font Info:    Try loading font information for OML+zcochmi on input line 
-247.
+258.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\omlzcochmi.fd
 File: omlzcochmi.fd 2015/06/23 Fontinst v1.933 font definitions for OML/zcochmi
 .
 )
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 247.
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 247.
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 247.
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 247.
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 247.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 247
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 258.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 258
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 247.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 247.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 258.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 258.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 247.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 24
-7.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 258.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 25
+8.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 258.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 2
-47.
+58.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 247.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 247.
-LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
 \c@mv@tabular=\count346
 \c@mv@boldtabular=\count347
 
@@ -1595,7 +1595,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `newtx' on line 247.
+Package chemgreek Info: Activating mapping `newtx' on line 258.
 
 ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
@@ -1611,7 +1611,7 @@ ions.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring ON on input line 247.
+Package hyperref Info: Link coloring ON on input line 258.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1620,9 +1620,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count354
 )
-LaTeX Info: Redefining \ref on input line 247.
-LaTeX Info: Redefining \pageref on input line 247.
-LaTeX Info: Redefining \nameref on input line 247.
+LaTeX Info: Redefining \ref on input line 258.
+LaTeX Info: Redefining \pageref on input line 258.
+LaTeX Info: Redefining \nameref on input line 258.
 
 (saveliev_physics_general_course_2.out) (saveliev_physics_general_course_2.out)
 \@outlinefile=\write4
@@ -1637,7 +1637,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 LaTeX Font Info:    Try loading font information for OT1+Cochineal-TLF on input
- line 247.
+ line 258.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\ot1cochineal-tl
 f.fd
@@ -1645,86 +1645,86 @@ File: OT1Cochineal-TLF.fd 2016/01/19 (msharpe) Font definitions for OT1/Cochine
 al-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 247.
+(Font)              scaled to size 10.95pt on input line 258.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 247.
+(Font)              scaled to size 8.0pt on input line 258.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 6.1pt on input line 247.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 247
+(Font)              scaled to size 6.1pt on input line 258.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 258
 .
  (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 247
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 258
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 247
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 258
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line
- 247.
+ 258.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 247.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 258.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 10.40245pt on input line 247.
+(Font)              scaled to size 10.40245pt on input line 258.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 247.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 258.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 7.59998pt on input line 247.
+(Font)              scaled to size 7.59998pt on input line 258.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 247.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 258.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 5.79498pt on input line 247.
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 247.
+(Font)              scaled to size 5.79498pt on input line 258.
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 258.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.95pt on input line 247.
+(Font)              scaled to size 10.95pt on input line 258.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 8.0pt on input line 247.
+(Font)              scaled to size 8.0pt on input line 258.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.1pt on input line 247.
-<figures/pgc_2_fc.pdf, id=34, 421.10078pt x 597.50786pt>
+(Font)              scaled to size 6.1pt on input line 258.
+<figures/pgc_2_fc.pdf, id=74, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf>
-Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 268.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf>
-Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 268.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_2_fc.pdf, id=37, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_2_fc.pdf, id=77, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 268.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 268.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 268.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 268.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 257.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 268.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 
 [1
@@ -1749,7 +1749,7 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 23.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 31.
-<figures/mirlogo.pdf, id=52, 314.37184pt x 365.51457pt>
+<figures/mirlogo.pdf, id=92, 314.37184pt x 365.51457pt>
 File: figures/mirlogo.pdf Graphic file (type pdf)
 <use figures/mirlogo.pdf>
 Package pdftex.def Info: figures/mirlogo.pdf  used on input line 46.
@@ -1843,7 +1843,7 @@ tended by van-ish-ing of the charges
  []
 
 [4]
-<figures/ch_01/fig_1_1.pdf, id=126, 103.7391pt x 215.73282pt>
+<figures/ch_01/fig_1_1.pdf, id=186, 103.7391pt x 215.73282pt>
 File: figures/ch_01/fig_1_1.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_1.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_1.pdf  used on input line 42.
@@ -1854,18 +1854,18 @@ LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 52.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 6.1pt on input line 52.
-<figures/ch_01/fig_1_2.pdf, id=128, 132.22054pt x 62.57596pt>
+<figures/ch_01/fig_1_2.pdf, id=188, 132.22054pt x 62.57596pt>
 File: figures/ch_01/fig_1_2.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_2.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_2.pdf  used on input line 57.
 (pdftex.def)             Requested size: 132.2202pt x 62.57579pt.
-<figures/ch_01/fig_1_3.pdf, id=129, 132.54642pt x 27.79088pt>
+<figures/ch_01/fig_1_3.pdf, id=189, 132.54642pt x 27.79088pt>
 File: figures/ch_01/fig_1_3.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_3.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_3.pdf  used on input line 65.
 (pdftex.def)             Requested size: 132.54608pt x 27.7908pt.
 
-Overfull \hbox (3.285pt too wide) in paragraph at lines 55--71
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 55--71
 [][]   []
  []
 
@@ -1897,62 +1897,538 @@ LaTeX Warning: Reference `sec:2_8' on page 7 undefined on input line 120.
 
 LaTeX Warning: Reference `sec:A_3' on page 8 undefined on input line 163.
 
-) [8]
-<figures/pgc_2_bc.pdf, id=179, 421.10078pt x 597.50786pt>
+[8]
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 167.
+
+
+LaTeX Warning: Reference `sec:6_2' on page 9 undefined on input line 167.
+
+<figures/ch_01/fig_1_4.pdf, id=240, 110.80475pt x 66.43896pt>
+File: figures/ch_01/fig_1_4.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_4.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_4.pdf  used on input line 173.
+(pdftex.def)             Requested size: 110.80446pt x 66.43878pt.
+[9 <./figures/ch_01/fig_1_4.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 242.
+LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 242.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 242.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
+(Font)              scaled to size 8.54997pt on input line 242.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 242.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
+(Font)              scaled to size 6.93497pt on input line 242.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.0pt on input line 242.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 7.3pt on input line 242.
+LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 242.
+LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
+(Font)              scaled to size 7.3pt on input line 242.
+LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
+(Font)              scaled to size 5.5pt on input line 242.
+
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+ [11]
+<figures/ch_01/fig_1_5.pdf, id=288, 113.91933pt x 75.6155pt>
+File: figures/ch_01/fig_1_5.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_5.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_5.pdf  used on input line 267.
+(pdftex.def)             Requested size: 113.91904pt x 75.6153pt.
+<figures/ch_01/fig_1_6.pdf, id=289, 167.70515pt x 78.5894pt>
+File: figures/ch_01/fig_1_6.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_6.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_6.pdf  used on input line 275.
+(pdftex.def)             Requested size: 167.70474pt x 78.58919pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 265--281
+[][]   []
+ []
+
+<figures/ch_01/fig_1_7.pdf, id=291, 141.45197pt x 125.61609pt>
+File: figures/ch_01/fig_1_7.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_7.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_7.pdf  used on input line 297.
+(pdftex.def)             Requested size: 141.45161pt x 125.61578pt.
+[12 <./figures/ch_01/fig_1_5.pdf> <./figures/ch_01/fig_1_6.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_6.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./figures/ch_01/fig_1_7.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Overfull \hbox (3.29828pt too wide) in paragraph at lines 451--452
+[]\T1/Cochineal-OsF/m/n/10.95 Let us con-sider a sys-tem con-sist-ing of $\OML/
+zcochmi/m/it/10.95 N$ \T1/Cochineal-OsF/m/n/10.95 point charges $\OML/zcochmi/m
+/it/10.95 q[]; q[]; [] ; q[]$\T1/Cochineal-OsF/m/n/10.95 . We showed
+ []
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+<figures/ch_01/fig_1_8.pdf, id=388, 118.50418pt x 118.50417pt>
+File: figures/ch_01/fig_1_8.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_8.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_8.pdf  used on input line 603.
+(pdftex.def)             Requested size: 118.50388pt x 118.50386pt.
+<figures/ch_01/fig_1_9.pdf, id=389, 143.23924pt x 153.99619pt>
+File: figures/ch_01/fig_1_9.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_9.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_9.pdf  used on input line 611.
+(pdftex.def)             Requested size: 136.07649pt x 146.29552pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 601--617
+[][]   []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+[20 <./figures/ch_01/fig_1_8.pdf> <./figures/ch_01/fig_1_9.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_9.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_10.pdf, id=409, 106.03017pt x 35.43358pt>
+File: figures/ch_01/fig_1_10.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_10.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_10.pdf  used on input line 659.
+(pdftex.def)             Requested size: 106.02989pt x 35.43347pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./figures/ch_01/fig_1_10.pdf>]
+<figures/ch_01/fig_1_11.pdf, id=439, 138.77548pt x 120.71887pt>
+File: figures/ch_01/fig_1_11.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_11.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_11.pdf  used on input line 727.
+(pdftex.def)             Requested size: 138.77513pt x 120.71855pt.
+<figures/ch_01/fig_1_12.pdf, id=440, 166.84691pt x 75.53166pt>
+File: figures/ch_01/fig_1_12.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_12.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_12.pdf  used on input line 735.
+(pdftex.def)             Requested size: 166.8465pt x 75.53146pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 725--741
+[][]   []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+<figures/ch_01/fig_1_13.pdf, id=459, 136.4954pt x 70.3257pt>
+File: figures/ch_01/fig_1_13.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_13.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_13.pdf  used on input line 775.
+(pdftex.def)             Requested size: 136.49506pt x 70.32552pt.
+<figures/ch_01/fig_1_14.pdf, id=460, 170.61754pt x 96.88815pt>
+File: figures/ch_01/fig_1_14.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_14.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_14.pdf  used on input line 783.
+(pdftex.def)             Requested size: 170.61711pt x 96.88791pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 773--789
+[][]   []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./figures/ch_01/fig_1_11.pdf> <./figures/ch_01/fig_1_12.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_12.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 4156) has occurred while \output is active []
+
+ [24 <./figures/ch_01/fig_1_13.pdf> <./figures/ch_01/fig_1_14.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_14.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_15.pdf, id=494, 144.28006pt x 80.57397pt>
+File: figures/ch_01/fig_1_15.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_15.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_15.pdf  used on input line 837.
+(pdftex.def)             Requested size: 144.2797pt x 80.57376pt.
+ [25 <./figures/ch_01/fig_1_15.pdf>]
+<figures/ch_01/fig_1_16.pdf, id=507, 159.37883pt x 115.48895pt>
+File: figures/ch_01/fig_1_16.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_16.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_16.pdf  used on input line 860.
+(pdftex.def)             Requested size: 151.40901pt x 109.71387pt.
+ [26 <./figures/ch_01/fig_1_16.pdf>]
+<figures/ch_01/fig_1_17.pdf, id=524, 88.72223pt x 53.31479pt>
+File: figures/ch_01/fig_1_17.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_17.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_17.pdf  used on input line 911.
+(pdftex.def)             Requested size: 88.722pt x 53.31464pt.
+<figures/ch_01/fig_1_18.pdf, id=525, 164.78131pt x 87.39697pt>
+File: figures/ch_01/fig_1_18.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_18.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_18.pdf  used on input line 919.
+(pdftex.def)             Requested size: 164.7809pt x 87.39674pt.
+
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 909--925
+[][]   []
+ []
+
+
+Underfull \vbox (badness 4872) has occurred while \output is active []
+
+ [27 <./figures/ch_01/fig_1_17.pdf> <./figures/ch_01/fig_1_18.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_18.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Overfull \hbox (2.09505pt too wide) in paragraph at lines 951--952
+\T1/Cochineal-OsF/m/n/10.95 theorems---the Ostrogradsky-Gauss the-o-rem (some-t
+imes called Gauss's di-ver-gence
+ []
+
+<figures/ch_01/fig_1_19.pdf, id=546, 102.16637pt x 125.20792pt>
+File: figures/ch_01/fig_1_19.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_19.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_19.pdf  used on input line 975.
+(pdftex.def)             Requested size: 102.1661pt x 125.20761pt.
+[28] [29 <./figures/ch_01/fig_1_19.pdf>]
+<figures/ch_01/fig_1_20.pdf, id=573, 102.66112pt x 98.68344pt>
+File: figures/ch_01/fig_1_20.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_20.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_20.pdf  used on input line 1035.
+(pdftex.def)             Requested size: 97.5275pt x 93.74872pt.
+ [30 <./figures/ch_01/fig_1_20.pdf>]
+<figures/ch_01/fig_1_21.pdf, id=592, 69.47272pt x 156.49016pt>
+File: figures/ch_01/fig_1_21.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_21.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_21.pdf  used on input line 1071.
+(pdftex.def)             Requested size: 65.99869pt x 148.6648pt.
+<figures/ch_01/fig_1_22.pdf, id=593, 165.25703pt x 138.44614pt>
+File: figures/ch_01/fig_1_22.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_22.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_22.pdf  used on input line 1079.
+(pdftex.def)             Requested size: 156.99329pt x 131.52307pt.
+
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 1069--1085
+[][]   []
+ []
+
+[31 <./figures/ch_01/fig_1_21.pdf> <./figures/ch_01/fig_1_22.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_22.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_23.pdf, id=616, 131.09377pt x 99.25198pt>
+File: figures/ch_01/fig_1_23.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_23.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_23.pdf  used on input line 1101.
+(pdftex.def)             Requested size: 131.09344pt x 99.25172pt.
+ [32 <./figures/ch_01/fig_1_23.pdf>]
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 1128.
+<figures/ch_01/fig_1_24.pdf, id=641, 156.49016pt x 85.70926pt>
+File: figures/ch_01/fig_1_24.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_24.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_24.pdf  used on input line 1143.
+(pdftex.def)             Requested size: 156.48976pt x 85.70905pt.
+<figures/ch_01/fig_1_25.pdf, id=642, 133.26431pt x 122.42986pt>
+File: figures/ch_01/fig_1_25.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_25.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_25.pdf  used on input line 1151.
+(pdftex.def)             Requested size: 133.26398pt x 122.42953pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1141--1157
+[][]   []
+ []
+
+[33]
+Overfull \hbox (7.767pt too wide) in paragraph at lines 1183--1185
+\T1/Cochineal-OsF/m/n/10.95 Similar rea-son-ing al-lows us to ob-tain the fol-l
+ow-ing ex-pres-sions for the fluxes through
+ []
+
+[34 <./figures/ch_01/fig_1_24.pdf> <./figures/ch_01/fig_1_25.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_25.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+<figures/ch_01/fig_1_26.pdf, id=679, 113.99318pt x 74.75777pt>
+File: figures/ch_01/fig_1_26.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_26.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_26.pdf  used on input line 1225.
+(pdftex.def)             Requested size: 113.99289pt x 74.75757pt.
+
+[36 <./figures/ch_01/fig_1_26.pdf>]
+<figures/ch_01/fig_1_27.pdf, id=691, 173.56061pt x 134.21397pt>
+File: figures/ch_01/fig_1_27.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_27.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_27.pdf  used on input line 1254.
+(pdftex.def)             Requested size: 164.88162pt x 127.50253pt.
+<figures/ch_01/fig_1_28.pdf, id=692, 130.95602pt x 132.78598pt>
+File: figures/ch_01/fig_1_28.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_28.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_28.pdf  used on input line 1262.
+(pdftex.def)             Requested size: 124.4075pt x 126.14595pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1252--1268
+[][]   []
+ []
+
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
+ [37 <./figures/ch_01/fig_1_27.pdf> <./figures/ch_01/fig_1_28.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_28.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_29.pdf, id=715, 133.45714pt x 126.694pt>
+File: figures/ch_01/fig_1_29.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_29.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_29.pdf  used on input line 1304.
+(pdftex.def)             Requested size: 133.4568pt x 126.69366pt.
+ [38 <./figures/ch_01/fig_1_29.pdf>]
+<figures/ch_01/fig_1_30.pdf, id=737, 86.25378pt x 86.79935pt>
+File: figures/ch_01/fig_1_30.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_30.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_30.pdf  used on input line 1342.
+(pdftex.def)             Requested size: 86.25356pt x 86.79913pt.
+<figures/ch_01/fig_1_31.pdf, id=738, 103.83585pt x 85.35826pt>
+File: figures/ch_01/fig_1_31.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_31.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_31.pdf  used on input line 1350.
+(pdftex.def)             Requested size: 103.83559pt x 85.35805pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+[40 <./figures/ch_01/fig_1_30.pdf> <./figures/ch_01/fig_1_31.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_31.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \vbox (badness 4899) has occurred while \output is active []
+
+ [43]
+<figures/ch_01/fig_1_32.pdf, id=811, 108.1073pt x 103.05849pt>
+File: figures/ch_01/fig_1_32.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_32.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_32.pdf  used on input line 1547.
+(pdftex.def)             Requested size: 108.10703pt x 103.05821pt.
+<figures/ch_01/fig_1_33.pdf, id=812, 96.66982pt x 117.96579pt>
+File: figures/ch_01/fig_1_33.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_33.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_33.pdf  used on input line 1555.
+(pdftex.def)             Requested size: 96.66956pt x 117.96548pt.
+
+Underfull \vbox (badness 1286) has occurred while \output is active []
+
+ [44 <./figures/ch_01/fig_1_32.pdf> <./figures/ch_01/fig_1_33.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_33.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_34.pdf, id=848, 132.49132pt x 64.49106pt>
+File: figures/ch_01/fig_1_34.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_34.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_34.pdf  used on input line 1572.
+(pdftex.def)             Requested size: 123.21564pt x 59.97604pt.
+<figures/ch_01/fig_1_35.pdf, id=849, 73.96036pt x 75.3298pt>
+File: figures/ch_01/fig_1_35.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_35.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_35.pdf  used on input line 1581.
+(pdftex.def)             Requested size: 68.7824pt x 70.05597pt.
+<figures/ch_01/fig_1_36.pdf, id=850, 118.50418pt x 118.50417pt>
+File: figures/ch_01/fig_1_36.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_36.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_36.pdf  used on input line 1590.
+(pdftex.def)             Requested size: 112.57831pt x 112.5783pt.
+
+Overfull \hbox (5.04477pt too wide) in paragraph at lines 1611--1612
+[]\T1/Cochineal-OsF/m/n/10.95 Now let us as-sume that a closed sur-face sur-rou
+nds $\OML/zcochmi/m/it/10.95 N$ \T1/Cochineal-OsF/m/n/10.95 point charges $\OML
+/zcochmi/m/it/10.95 q[]; q[]; [] ; q[]$\T1/Cochineal-OsF/m/n/10.95 .
+ []
+
+[45 <./figures/ch_01/fig_1_34.pdf> <./figures/ch_01/fig_1_35.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_35.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./figures/ch_01/fig_1_36.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_36.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+<figures/ch_01/fig_1_37.pdf, id=876, 157.33997pt x 124.28566pt>
+File: figures/ch_01/fig_1_37.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_37.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_37.pdf  used on input line 1685.
+(pdftex.def)             Requested size: 157.33957pt x 124.28535pt.
+<figures/ch_01/fig_1_38.pdf, id=877, 88.20354pt x 121.97826pt>
+File: figures/ch_01/fig_1_38.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_38.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_38.pdf  used on input line 1693.
+(pdftex.def)             Requested size: 88.20331pt x 121.97795pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1683--1699
+[][]   []
+ []
+
+[47]
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
+(Font)              scaled to size 4.01501pt on input line 1715.
+ [48 <./figures/ch_01/fig_1_37.pdf> <./figures/ch_01/fig_1_38.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_38.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_39.pdf, id=928, 145.10905pt x 145.10905pt>
+File: figures/ch_01/fig_1_39.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_39.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_39.pdf  used on input line 1728.
+(pdftex.def)             Requested size: 145.10869pt x 145.10869pt.
+<figures/ch_01/fig_1_40.pdf, id=929, 148.8901pt x 141.83714pt>
+File: figures/ch_01/fig_1_40.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_40.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_40.pdf  used on input line 1736.
+(pdftex.def)             Requested size: 148.88972pt x 141.83678pt.
+
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1726--1742
+[][]   []
+ []
+
+
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+ [49 <./figures/ch_01/fig_1_39.pdf> <./figures/ch_01/fig_1_40.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_40.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_41.pdf, id=941, 33.87836pt x 165.54326pt>
+File: figures/ch_01/fig_1_41.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_41.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_41.pdf  used on input line 1765.
+(pdftex.def)             Requested size: 33.87825pt x 165.54283pt.
+<figures/ch_01/fig_1_42.pdf, id=942, 233.90082pt x 159.85985pt>
+File: figures/ch_01/fig_1_42.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_42.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_42.pdf  used on input line 1773.
+(pdftex.def)             Requested size: 222.2045pt x 151.86598pt.
+
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 1763--1779
+[][]   []
+ []
+
+
+Overfull \hbox (5.75797pt too wide) in paragraph at lines 1783--1784
+[]\T1/Cochineal-OsF/m/n/10.95 The field of a neg-a-tively charged cylin-der dif
+-fers from that of a pos-i-tively charged
+ []
+
+<figures/ch_01/fig_1_43.pdf, id=947, 140.76082pt x 118.3876pt>
+File: figures/ch_01/fig_1_43.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_43.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_43.pdf  used on input line 1795.
+(pdftex.def)             Requested size: 140.76047pt x 118.38731pt.
+
+Underfull \vbox (badness 3668) has occurred while \output is active []
+
+ [50 <./figures/ch_01/fig_1_41.pdf> <./figures/ch_01/fig_1_42.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_42.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>] [51 <./figures/ch_01/fig_1_43.pdf>]) [52]
+<figures/pgc_2_bc.pdf, id=1022, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf>
-Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 324.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf>
-Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 324.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_2_bc.pdf, id=182, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_2_bc.pdf, id=1025, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 324.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 324.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 324.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 324.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 313.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 324.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
- [9
+ [53
 
 
  <./figures/pgc_2_bc.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
- (saveliev_physics_general_course_2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+
+(saveliev_physics_general_course_2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
 Package rerunfilecheck Info: File `saveliev_physics_general_course_2.out' has n
 ot changed.
-(rerunfilecheck)             Checksum: 853AE3D3A39D6004F429FF6A7DD67B8C;442.
+(rerunfilecheck)             Checksum: 3F737D23FD8037C313AEB3C9EEF09689;1271.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 38108 strings out of 492895
- 744770 string characters out of 3133476
- 784397 words of memory out of 3000000
- 41347 multiletter control sequences out of 15000+200000
- 1246879 words of font info for 312 fonts, out of 3000000 for 9000
+ 38961 strings out of 492895
+ 761415 string characters out of 3133476
+ 797275 words of memory out of 3000000
+ 41948 multiletter control sequences out of 15000+200000
+ 1433838 words of font info for 433 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,18n,94p,1228b,950s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,18n,94p,1297b,986s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochineal/coch_er
 myhb.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochineal/
 coch_crbsby.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/coc
@@ -1961,16 +2437,20 @@ ips/cochineal/coch_in37z4.enc}<C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts
 /type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/flvisa/AppData/Roaming/MiK
 TeX/2.9/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/flvisa/AppD
 ata/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Use
-rs/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/cochBMI.pfb><
-C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/cochMI.
-pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/txexs.
-pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/txmiaX
-.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/txsys
-.pfb>
-Output written on saveliev_physics_general_course_2.pdf (17 pages, 238514 bytes
+rs/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/NewTXMI.pfb><C:/U
+sers/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/cochBMI.pfb
+><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/cochM
+I.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/
+cochMRM.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newt
+x/txbsys.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/new
+tx/txexs.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/new
+tx/txmiaX.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/tx
+fonts/txsya.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
+newtx/txsys.pfb>
+Output written on saveliev_physics_general_course_2.pdf (61 pages, 700099 bytes
 ).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1135 PDF objects out of 1200 (max. 8388607)
+ 244 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

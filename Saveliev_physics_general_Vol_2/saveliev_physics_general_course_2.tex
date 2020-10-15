@@ -42,6 +42,8 @@
 \newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
 \newcommand{\vecdotind}[4]{\boldsymbol{#1}_{#2}\boldsymbol{\cdot}\boldsymbol{#3}_{#4}}
 \newcommand{\vecunidot}[2]{\hat{\boldsymbol{e}}_{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
+\newcommand{\vectordotunit}[2]{\vec{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
+\newcommand{\unitdotvector}[2]{\hat{\boldsymbol{e}}_{#1}\!\boldsymbol{\cdot}\!\vec{#2}}
 \newcommand{\vecprod}[2]{\boldsymbol{#1}\times\boldsymbol{#2}}
 \newcommand{\vecprodind}[4]{\boldsymbol{#1}_{#2}\times\boldsymbol{#3}_{#4}}
 \newcommand{\vecuniprod}[2]{\hat{\boldsymbol{e}}_{#1}\times\hat{\boldsymbol{e}}_{#2}}
@@ -52,11 +54,11 @@
 \newcommand{\derivp}[1]{\upd'\!#1}
 \newcommand{\Deltap}[1]{\Delta'\!#1}
 \newcommand{\diffin}[2]{\upd#1/\upd#2}
-\newcommand{\diff}[2]{\frac{\upd#1}{\upd#2}}
-\newcommand{\diffsec}[2]{\frac{\upd^2#1}{\upd#2^2}}
+\newcommand{\diff}[2]{\dfrac{\upd#1}{\upd#2}}
+\newcommand{\diffsec}[2]{\dfrac{\upd^2#1}{\upd#2^2}}
 \newcommand{\diffinpartial}[2]{\uppartial#1/\uppartial#2}
-\newcommand{\diffpartial}[2]{\frac{\uppartial#1}{\uppartial#2}}
-\newcommand{\diffsecpartial}[2]{\frac{\uppartial^2#1}{\uppartial#2^2}}
+\newcommand{\diffpartial}[2]{\dfrac{\uppartial#1}{\uppartial#2}}
+\newcommand{\diffsecpartial}[2]{\dfrac{\uppartial^2#1}{\uppartial#2^2}}
 \newcommand{\mr}{m_{\text{r}}}
 \newcommand{\bra}[1]{\left.\left\langle #1 \right.\right|}
 \newcommand{\ket}[1]{\left|\left\. #1 \right\rangle\right.}
@@ -71,6 +73,13 @@
 \newcommand{\parenthesis}[1]{\left(#1\right)}
 \newcommand{\bracket}[1]{\left[#1\right]}
 \newcommand{\bracet}[1]{\left\{#1\right\}}
+\newcommand{\ccdot}{\vec{\cdot}}
+\newcommand{\divop}[1]{\nabla\ccdot\,#1}
+\newcommand{\curlop}[1]{\nabla\times#1}
+\newcommand{\gradop}[1]{\nabla#1}
+\newcommand{\diverg}[1]{\text{div~}#1}
+\newcommand{\curl}[1]{\text{curl~}#1}
+\newcommand{\grad}[1]{\text{grad~}#1}
 
 \newcommand{\sect}[1]{Sec.~\ref{sec:#1}}
 \newcommand{\app}[1]{Appendix.~\ref{sec:#1}}
@@ -98,6 +107,8 @@
 \DeclareSIUnit\hp{hp}
 \DeclareSIUnit\poise{P}
 \DeclareSIUnit\faraday{F}
+\newcommand{\cgse}[1]{\text{~cgse$_{#1}$}}
+
 \usepackage{nicefrac}
 \usepackage{soul}
 
