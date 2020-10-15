@@ -547,9 +547,13 @@ Here $(\vec{b},\vec{c})$ is the angle between $\vec{b}$ and $\vec{c}$, and $(\ve
 \noindent
 Thus, a scalar triple product permits cyclic transposition of the multipliers, \ie, substitution for each of the multipliers of the one following it in the cycle:
 \begin{equation*}
-\begin{tikzcd}
-\vec{a}\arrow[rd] &\\
-\vec{c}\arrow[u] & \arrow[l] \vec{b}
+% \begin{tikzcd}
+% \vec{a}\arrow[rd] &\\
+% \vec{c}\arrow[u] & \arrow[l] \vec{b}
+% \end{tikzcd}
+\begin{tikzcd}[column sep=small]
+             & \vec{a} \arrow[rd] &              \\
+\vec{c} \arrow[ru] &              & \vec{b} \arrow[ll]
 \end{tikzcd}
 \end{equation*}
 
