@@ -1,1348 +1,747 @@
-% !TEX root = saveliev_physics_general_course_1.tex
+% !TEX root = epifanov_solid_state_physics.tex
 %!TEX TS-program = pdflatex
 %!TEX encoding = UTF-8 Unicode
 
 
-\chapter{KINEMATICS}\label{chap:1}
+\chapter[Bonding. The Internal Structure of Solids]{Bonding.\\The Internal Structure of Solids}\label{chap:1}
+\chaptermark{Bonding. The Internal Structure of Solids}
 
-\section{Mechanical motion}\label{sec:1_1}
+Matter can exist in the solid state only because there are forces of interaction acting between the structural particles when the latter are brought sufficiently close together. For the solid to have a stable structure the forces of interaction between the particles should be of two types: of attraction, to prevent the particles from moving away from each other, and of repulsion, to prevent the particles from merging.
 
-Mechanical motion is the simplest form of motion of matter. It consists in the movement of bodies or their parts relative to one another. We can see movements of bodies everywhere in our ordinary life. This is why mechanical notions are so clear. This also explains the fact that mechanics was the first of all the natural sciences to be developed very broadly.
+Let us discuss briefly the nature of these forces.
 
-A combination of bodies separated for consideration is called a \textbf{mechanical system}. The bodies to be included in a system depend on the nature of the problem being solved. In a particular case, a system may consist of a single body.
+\section{The van der Waals forces}\label{sec:1_1}
 
-It was indicated above that motion in mechanics is defined as the change in the mutual arrangement of bodies. If we imagine a separate isolated body in a space where no other bodies are present, then we cannot speak of the motion of the body because there is nothing with respect to which the body could change its position. It thus follows that if we intend to study the motion of a body, then we must indicate with respect to what other bodies the given motion occurs.
-
-Motion occurs both in space and in time (space and time are inalienable forms of existence of matter). Consequently, to describe motion, we must also determine time. We use a timepiece (watch or clock) for this purpose.
-
-A combination of bodies that are stationary relative to one another with respect to which motion is being considered and a timepiece indicating the time forms a \textbf{reference frame}.
-
-The motion of the same body relative to different reference frames may have a different nature. For example, let us imagine a train gaining speed. Suppose that a passenger is walking with a constant velocity along the corridor of one of the cars of the train. The motion of the passenger relative to the ear will be uniform, and relative to the Earth's surface it will be accelerated.
-
-To describe the motion of a body means to indicate for every moment of time the position of the body in space and its velocity. To set the state of a mechanical system, we must indicate the positions and the velocities of all the bodies forming the system. A typical problem of mechanics consists in determining the states of a system at all the following moments of time $t$ when we know the state of the system at a certain initial moment $t_0$ and also the laws governing the motion.
-
-It must be noted that no physical problem can be solved absolutely exactly. An approximate solution is always obtained. The degree of approximation is determined by the nature of the problem and the object to be achieved. In solving a problem approximately, we disregard the factors that are not significant in the given case. For example, we may often disregard the dimensions of the body whose motion is being studied. For instance, it is quite possible to disregard the Earth's dimensions when treating its motion about the Sun. This allows us to considerably simplify our description of the motion because the Earth's position in space can be determined by a single point.
-
-A body whose dimensions may be disregarded in the conditions of a given problem is called a \textbf{point particle} (or simply a \textbf{particle}). Whether or not we may consider a given body as a particle depends not on the dimensions of the body, but on the conditions of the problem. The same body in some cases may be treated as a particle, but in others it must be considered as an extended body.
-
-When speaking about a body as a particle, we disengage ourselves from its dimensions. Another abstraction which we have to do with in mechanics is a perfectly rigid body. Absolutely undeformable bodies do not exist in nature. Any body deforms to a greater or smaller extent, \ie, changes its shape and dimensions, under the action of forces applied to it. The deformations of bodies when considering their movements may often be disregarded, however. If this is done, then the body is called perfectly rigid. Thus, a body whose deformations may be disregarded in the conditions of a given problem is called a \textbf{perfectly rigid}, or simply a \textbf{rigid body}.
-
-Any motion of a rigid body can be resolved into two basic kinds of motion---\textbf{transla\-tional motion} and \textbf{circular motion}.
-
-Translational motion (translation) is defined as motion in which any straight line associated with the moving body remains parallel to itself (\fig{1_1}).
-
-In circular motion (rotation), all the points of a body move in circles whose centers are on a single straight line called the axis of rotation (\fig{1_2}). The axis of rotation can be outside a body (see \fig{1_2}b).
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_1.pdf}
-			\caption[]{}
-			\label{fig:1_1}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_2.pdf}
-			\caption[]{}
-			\label{fig:1_2}
-		\end{center}
-	\end{minipage}
-%\vspace{-0.5cm}
-\end{figure}
-
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=0.95]{figures/cap_01/fig_1_3.pdf}
-		\caption[]{}
-		\label{fig:1_3}
-	\end{center}
-	\vspace{-0.8cm}
-\end{figure}
-
-Since when treating a body as a particle we ignore its length, the concept of circular motion about an axis passing through such a body cannot be applied to it.
-
-To acquire the possibility of describing motion quantitatively, we have to associate a \textbf{coordinate system} (for example a Cartesian one) with the bodies forming a reference frame. Hence, the position of a particle can be determined by setting the three numbers $x$, $y$, and $z$---the Cartesian coordinates of the particle. A coordinate system can be made by forming a rectangular lattice from identical rods or rules graduated to a definite scale: (\fig{1_3}). Identical clocks synchronized with one another must be placed at the lattice points. The position of a particle and the moment of time corresponding to this position are recorded on the graduated rods and the clock closest to the particle.
-
-It is simpler to treat a point particle than an extended body. We shall therefore first study the mechanics of a particle, and then go over to the mechanics of a rigid body. We shall start with kinematics, and then delve into dynamics. We remind our reader that \textbf{kinematics} studies the motion of bodies without regard to what causes this motion. \textbf{Dynamics} studies the motion of bodies with a view to what causes this motion to have the nature it does, \ie, with a view to the interactions between bodies.
-
-\section{Vectors}\label{sec:1_2}
-
-\textbf{Definition of a Vector.} Vectors are defined as quantities characterized by a numerical value and a direction and also as ones that are added according to the triangle or parallelogram method\footnote{According to a stricter definition, a vector is a combination of three quantities that transform when the coordinate axes rotate according to a definite law.}. The last requirement is a very significant one. We can indicate quantities characterized by a numerical value and a sense of direction but that are added in a different way than vectors. We shall take as an example the rotation of a body about an axis through the finite angle $\varphi$. Such rotation can be depicted in the form of a segment of length $\varphi$ directed along the axis about which rotation is occurring and pointing in a direction associated with that of rotation according to the right-hand screw rule. The top portion of \fig{1_4} shows two consecutive turns of the sphere through the angles $\pi/2$ depicted by the segments $\varphi_1$ and $\varphi_2$. The first turn about axis $1$---$1$ transfers point $A$ of the sphere to position $A'$, and the second turn about axis $2$---$2$ transfers it to position $A''$. The same result, \ie, transfer of point $A$ to position $A''$, can be achieved by turning the sphere about axis $3$---$3$ (see the bottom portion of \fig{1_4}) through the angle $\pi$. Hence, such a turn should be considered as the sum of the turns <p1 and <p 2 • It cannot be obtained from the segments $\varphi_1$ and $\varphi_2$, however, by adding them according to the parallelogram method. Such addition gives a segment of length $\pi/\sqrt{2}$ instead of the required length $\pi$. Rotation through the angle $\pi/\sqrt{2}$ transfers point $A$ to point $A'''$. It thus follows that the turns through finite angles depicted by the directed segments do not have the properties of vectors.
-
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=0.9]{figures/cap_01/fig_1_4.pdf}
-		\caption[]{}
-		\label{fig:1_4}
-	\end{center}
-\vspace{-0.8cm}
-\end{figure}
-
-The numerical value of a vector is called its magnitude. Figuratively speaking, the magnitude of a vector indicates its length. The magnitude of a vector is a scalar, and always a positive one.
-
-Vectors are represented graphically by arrows. The length of an arrow determines to the established scale the magnitude of the relevant vector, and the arrow points in the direction of the vector.
-
-Vectors are customarily distinguished by setting their symbols in boldface type, for example, $\vec{a}$, $\vec{b}$, $\vec{v}$ and $\vec{F}$. The same symbols set in italics signify the magnitude of the relevant vectors, for example, $a$ is the magnitude of the vector $\vec{a}$\footnote{In handwriting, vectors are denoted by arrows over their symbols (for example, $\oldvec{a}$. In this case, the same letter without the arrow stands for the magnitude of the vector.}. It is sometimes necessary to express the magnitude by placing a vertical bar (an absolute value sign) on each side of the symbol for the vector. Thus, $|a|$ is the magnitude of the vector $\vec{a}$. This representation is used, for example, to show the magnitude of the sum of the vectors $\vec{a}_1$ and $\vec{a}_2$:
+The most general type of bond existing between any two atoms, or molecules, is due to van der Waals forces. Those forces were first introduced to explain the equation of state of real gases, the \textit{van der Waals equation}:
 \begin{equation}\label{eq:1_1}
-	|\vec{a}_1 + \vec{a}_2| = \text{magnitude of the vector } (\vec{a}_1 + \vec{a}_2).
+	\parenthesis{p + \frac{a}{V^2}}(V - b) = RT
 \end{equation}
 
 \noindent
-In this case, the notation $a_1+a_2$ signifies the sum of the magnitudes of the vectors being added, which in general does not equal the magnitude of the sum of the vectors (the two sums will be equal only when the vectors being added have the same direction).
+where the correction terms $a/V^2$ and $b$ account, respectively, for the effect of the forces of attraction and repulsion acting between the molecules of a real gas. These forces manifest themselves in an almost ideal form in the interaction between the molecules with saturated chemical bonds (\ce{O2}, \ce{H2}, \ce{N2}, \ce{CH4}, etc.), as well as between the atoms of inert gases, making possible their existence in the liquid and solid states.
 
-Vectors directed along parallel straight lines (in the same or in opposite directions) are called \textbf{collinear}. Vectors in parallel planes are called \textbf{coplanar}. Collinear vectors can be arranged along the same straight line and coplanar vectors can be brought into one plane by parallel translation.
+As a general case, the van der Waals bond is made up of the dispersion, orientational and induction interactions. Let's consider them separately.
 
-Collinear vectors equal in magnitude and having the same direction are considered to equal each other\footnote{What is meant are the so-called \textbf{free vectors}, \ie, vectors that can be drawn from any point in space. Also distinguished are \textbf{slip vectors} whose tail can be placed at any point on the straight line along which the vector is directed, and localized vectors, which are applied to a definite point. The last two kinds of vectors can be expressed through free vectors. This is why vector calculus is based on the concept of the free vector, usually called simply a vector.}.
-
-\textbf{Vector Addition and Subtraction.} It is more convenient to add vectors in practice without constructing a parallelogram. Examination of \fig{1_5} shows that we can achieve the same result if we bring the tail of the second vector in contact with the tip of the first one, and then draw the resultant vector from the tail of the first vector to the tip of the second one. It is very good to use this procedure when we have to add more than two vectors (\fig{1_6}).
+\textbf{Dispersion interaction.} Consider the simplest example of two interacting helium atoms shown in \fig{1_1}. The electron density distribution in a helium atom is spherically symmetrical and for this reason its electric moment is zero. But this means only that the average electric moment of the atom is zero. At every moment of time the electrons occupy particular points in space, thereby creating instantaneous rapidly changing electric dipoles. When two helium atoms are brought together, the motion of their electrons becomes correlated and this leads to the forces of interaction. The forces can be of two types. If the motion of the electrons is correlated, as shown in \fig{1_1}(a), the instantaneous dipoles attract each other; if the correlation is as shown in \fig{1_1}(b), the resulting interaction is repulsion. Since the realization of the arrangement of \fig{1_1}(a) leads to a reduction in the energy of the system, this arrangement is more probable and is realized more frequently. This is in effect the cause of the constantly existing force of attraction between helium atoms.
 
 \begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_5.pdf}
-			\caption[]{}
-			\label{fig:1_5}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_6.pdf}
-			\caption[]{}
-			\label{fig:1_6}
-		\end{center}
-	\end{minipage}
-\vspace{-0.7cm}
-\end{figure}
-
-The difference of two vectors $\vec{a}$ and $\vec{b}$ is defined as such a vector $\vec{c}$ which when added to the vector $\vec{b}$ gives the vector $\vec{a}$ (\fig{1_7}---the vector $-\vec{b}$ depicted by a dash line will be treated below The magnitude of the difference of two vectors, like the magnitude of a sum [see \eqn{1_1}], may be written only with the aid of vertical bars:
-\begin{equation}\label{eq:1_2}
-|\vec{a}_1 - \vec{a}_2| = \text{magnitude of the vector } (\vec{a}_1 - \vec{a}_2),
-\end{equation}
-
-\noindent
-because the notation $a_1-a_2$ signifies the difference of the magnitudes of the vectors $\vec{a}_1$ and $\vec{a}_2$, which, generally speaking, does not equal the magnitude of the vector difference.
-
-\textbf{Multiplication of a Vector by a Scalar.} Multiplication of the vector $\vec{a}$ by the scalar $\alpha$ yields a new vector $\vec{b}=\alpha\,\vec{a}$ whose magnitude is $|\alpha|$ times that of the vector a (\ie, $b=|\alpha|a$). The direction of the vector $\vec{b}$ either coincides with that of the vector $\vec{a}$ (if $\alpha>0$), or is opposite to it (if $\alpha<0$). It follows from the above that multiplication by $-1$ reverses the direction of a vector. Consequently, the vectors $\vec{a}$ and $-\vec{a}$ have the same magnitudes, but are opposite in direction. It is simple to see with the aid of  \fig{1_7} that subtraction of the vector $\vec{b}$ from the vector $\vec{a}$ is equivalent to addition of the vector $-\vec{b}$ to the vector $\vec{a}$.
-
-It follows from our definition of multiplication of a vector by a scalar that any vector $\vec{a}$ can be represented in the form
-\begin{equation}\label{eq:1_3}
-\vec{a} = a\,\vecuni{a},
-\end{equation} 
-
-\noindent
-where $a$ is the magnitude of the vector $\vec{a}$ and $\vecuni{a}$, is vector with a magnitude of unity and of the same direction as $\vec{a}$ (\fig{1_8}).
-
-The vector $\vecuni{a}$ is called the unit vector of the vector $\vec{a}$. The unit vector can be represented in the form
-\begin{equation}\label{eq:1_4}
-\vecuni{a} = \frac{\vec{a}}{a},
-\end{equation}
-
-\noindent
-whence it follows that it is a dimensionless quantity.
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.9]{figures/cap_01/fig_1_7.pdf}
-			\caption[]{}
-			\label{fig:1_7}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_8.pdf}
-			\caption[]{}
-			\label{fig:1_8}
-		\end{center}
-	\end{minipage}
-\vspace{-0.6cm}
-\end{figure}
-
-Unit vectors can be compared not only with vectors, but also with any direction in space. For example, $\vecuni{x}$ is the unit vector of the coordinate axis $x$, $\vecuni{n}$ is the unit vector of a normal to a curve or surface, and $\vecuni{\tau}$ is the unit vector of a tangent to a curve.
-
-\textbf{Linear Relation Between Vectors.} Let us consider three non-collinear vectors $\vec{a}$, $\vec{b}$ and $\vec{c}$ that are in one plane. A glance at \fig{1_9} shows that any of them (for instance, $\vec{c}$) can be expressed through the other two with the aid of the relation
-\begin{equation}\label{eq:1_5}
-\vec{c} = \alpha\vec{a} + \beta\vec{b},
-\end{equation}
-
-\noindent
-where $\alpha$ and $\beta$ are scalars (for the case shown in the figure, $\alpha>1$ and $-1<\beta<0$). Hence, we conclude that any vector $\vec{c}$ that is in the same plane as the non-collinear vectors $\vec{a}$ and $\vec{b}$ can be expressed through the latter with the aid of linear relation~\eqref{eq:1_5}. When the vectors $\vec{a}$ and $\vec{b}$ are fixed, any third vector is unambiguously determined by the two quantities $\alpha$ and $\beta$.
-
-Assume that we have three vectors $\vec{a}$, $\vec{b}$ and $\vec{c}$, each of which is not coplanar with the other two.\footnote{Two vectors are always coplanar. This follows from the fact that their tails can he made to coincide by translation, and they will thus be in one plane.} By analogy with \eqn{1_5}, we can see quite easily that any vector $\vec{d}$ can be represented as a linear combination of the given vectors:
-\begin{equation}\label{eq:1_6}
-\vec{d} = \alpha\vec{a} + \beta\vec{b} + \gamma\vec{c},
-\end{equation}
-
-\noindent
-When the vectors $\vec{a}$, $\vec{b}$ and $\vec{c}$ are fixed, any vector $\vec{d}$ is unambiguously determined by the three quantities $\alpha$, $\beta$ and $\gamma$, each of which may be either positive or negative.
-
-\textbf{Projection of a Vector.} Let us consider a direction in space that we shall set by the axis $l$ (\fig{1_10}). Let the vector $\vec{a}$ make the angle $\varphi$ with the axis $l$\footnote{If the straight line along which the vector $\vec{a}$ is directed and the axis $l$ do not intersect, the angle $\varphi$ should be found by drawing a straight line parallel to the vector $\vec{a}$ and intersecting the axis $l$. The angle between this line and the axis $l$ will be the angle $\varphi$ we are interested in.}. The quantity
-\begin{equation}\label{eq:1_7}
-a_l = a\, \cos\varphi
-\end{equation}
-
-\noindent
-(where $a$ is the magnitude of the vector) is called the projection of the vector $\vec{a}$ onto the axis$l$. A projection is designated by the same symbol as its vector, with the addition of a subscript showing the direction onto which the vector has been projected. 
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_9.pdf}
-			\caption[]{}
-			\label{fig:1_9}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_10.pdf}
-			\caption[]{}
-			\label{fig:1_10}
-		\end{center}
-	\end{minipage}
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_1.pdf}
+		\caption[]{Dispersion interaction. The interaction between helium atoms is due to the correlation in the motion of electrons resulting in the appearance of instantaneous dipoles: (a) --- correlation resulting in attraction; (b) --- correlation resulting in repulsion.}
+		\label{fig:1_1}
+	\end{center}
 	\vspace{-0.7cm}
 \end{figure}
 
-A projection of a vector is an algebraic quantity. If the vector makes an acute angle with the given direction, then $\cos\varphi>0$, and the projection is positive. If the angle $\varphi$ is obtuse, then $\cos\varphi<0$, and, consequently, the projection is negative. When a vector is at right angles to a given axis, its projection equals zero.
-
-The projection of a vector has a simple geometrical meaning. It equals the distance between the projections of the tail and the tip of the segment depicting the given vector onto the given axis. When $\varphi<\pi/2$, this distance is assumed to be positive, and when $\varphi>\pi/2$, it is negative.
-
-Let $\vec{a} = \vec{a}_1+\vec{a}_2+\vec{a}_3+\vec{a}_4$ (\fig{1_11}). It is easy to see from the figure that the projection of the resultant vector a onto a direction $l$ equals the sum of the projections of the separate vectors being added:
-\begin{equation}\label{eq:1_8}
-a_l = a_{1l}+a_{2l}+a_{3l}+a_{4l}.
+The bonds discussed above that owe their existence to a correlation in motion of the electrons in adjacent atoms are termed \textit{dispersion forces}. They were first calculated by F. London in 1930. The calculation was based on the following model: the instantaneous electric dipole of one atom causes the other atom to be polarized and it becomes an induced dipole leading to the realization of the arrangement in \fig{1_1}(a), which corresponds to attraction. The calculation had as its final result the following expression for the energy of the dispersion interaction of two particles:
+\begin{equation}\label{eq:1_2}
+	\ab{U}{d} = - \frac{3}{4}\frac{\alpha^2 \ab{E}{exc}}{r^6}
 \end{equation}
 
 \noindent
-We must remind our reader that when adding the projections of the vectors shown in \fig{1_11}, the distances $0$---$1$, $1$---$2$, and $2$---$3$ have to be taken with the plus sign, and the distance $3$---$4$ with the minus sign. Equation~\eqref{eq:1_8} holds for any number of addends.
+where $\alpha$ is the polarizability of the particles\footnote{Let us recall the physical meaning of $\alpha$. The charges in the molecule are displaced under the action of an external field of intensity $\mathscr{E}$. This leads to a dipole moment $M$ proportional to $\mathscr{E}: M = \alpha\mathscr{E}$, the proportionality factor $\alpha$ being the \textit{polarizability} of the molecule.}, $\ab{E}{exc}$ their energy of excitation, and $r$ the distance between them.
 
-\textbf{Expressing a Vector Through Its Projections onto the Coordinate Axes.} Let us take Cartesian coordinate axes and consider the vector $\vec{a}$ in a plane at right angles to the $z$-axis (\fig{1_12}). We shall introduce the unit vectors of the coordinate axes, \ie, the unit vectors $\vecuni{x}$, $\vecuni{y}$ and $\vecuni{z}$ ($\vecuni{z}$ is not shown in the drawing, it is perpendicular to the plane of the drawing and directed toward us). It must be noted that these three unit vectors completely determine a system of coordinates and are therefore called the \textbf{basis of the coordinate system}.
+\textbf{Orientational interaction.} Should the molecules possess a constant dipole moment $M$, that is, should they be polar molecules, an electrostatic interaction would be established between them tending to arrange the molecules in a strict order (\fig{1_2}), since that order corresponds to the minimum energy of the system. The correct orientation of the molecules is disturbed by thermal motion. Therefore, the energy of the system due to the mutual orientation of the molecules is strongly dependent on temperature. At low temperatures, when the orientation of the molecules is perfect, the interaction energy is determined from the expression
+\vspace{-12pt}
+\begin{equation}\label{eq:1_3}
+	\ab{U}{or} = - \frac{M^2}{2\pi\varepsilon_0 r^3}
+\end{equation}
+
+\noindent
+where $r$ is the distance between the molecules, and $\varepsilon_0$ the permittivity of free space.
+
+In the high temperature range the energy of interaction of polar molecules, as had been demonstrated by W. H. Keesom, is of the following form:
+\begin{equation}\label{eq:1_4}
+	\ab{U}{or} = - \frac{M^4}{24\pi^2\varepsilon_0^2 \ab{k}{B} T r^6}.
+\end{equation}
+
+\noindent
+where $\ab{k}{B}$ is the Boltzmann constant and  $T$ the temperature.
+
+The type of interaction discussed above is termed \textit{orientational interaction}.
 
 \begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
+	\begin{minipage}[t]{0.48\linewidth}
 		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_11.pdf}
-			\caption[]{}
-			\label{fig:1_11}
+			\includegraphics[scale=0.95]{figures/ch_01/fig_1_2.pdf}
+			\caption[]{Orientational interaction of polar molecules.}
+			\label{fig:1_2}
 		\end{center}
 	\end{minipage}
 	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
+	\begin{minipage}[t]{0.48\linewidth}
 		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_12.pdf}
-			\caption[]{}
-			\label{fig:1_12}
-		\end{center}
-	\end{minipage}
-	\vspace{-0.8cm}
-\end{figure}
-
-Inspection of \fig{1_12} shows that the vector $\vec{a}$ can be represented in the form of a linear combination of the unit vectors $\vecuni{x}$ and $\vecuni{y}$ [see \eqn{1_5}]:
-\begin{equation*}
-\vec{a} = a_x \vecuni{x} + a_y \vecuni{y}.
-\end{equation*}
-
-\noindent
-The projections of the vector onto the coordinate axes play the part of the coefficients $\alpha$ and $\beta$. In the example being considered, the projection $a_x$ is negative, therefore the vector $a_x\vecuni{x}$ has a direction opposite to that of the unit vector $\vecuni{x}$.
-
-We took the vector $\vec{a}$ perpendicular to the $z$-axis owing to which $a_z=0$. In the general case when all three projections of a vector differ from zero, we have
-\begin{equation}\label{eq:1_9}
-\vec{a} = a_x \vecuni{x} + a_y \vecuni{y} + a_z \vecuni{z},
-\end{equation}
-
-\noindent
-Thus, any vector can be expressed through its projections onto the coordinate axes and the unit vectors of these axes. Therefore, the projections of a vector onto the coordinate axes are called its \textbf{components}.
-
-The components $a_x$, $a_y$, $a_z$ equal (with an accuracy to the sign) the sides of a right parallelepiped in which the vector $\vec{a}$ is the major diagonal (\fig{1_13}). We therefore have
-\begin{equation}\label{eq:1_10}
-a^2 = a_x^2 + a_y^2 + a_z^2.
-\end{equation}
-
-Assume that $\vec{c}=\vec{a}+\vec{b}$. Representing each of these vectors in accordance with \eqn{1_9}, we get
-\begin{equation*}
-c_x\vecuni{x} + c_y\vecuni{y} + a_z\vecuni{z} = (a_x+b_x)\vecuni{x} + (a_y+b_y)\vecuni{y} + (a_z+b_z)\vecuni{z}
-\end{equation*}
-
-\noindent
-(we have factored out $\vecuni{x}$, $\vecuni{y}$, and $\vecuni{z}$)· Equal vectors have identical projections onto the coordinate axes. On these grounds, we can write that
-\begin{equation}\label{eq:1_11}
-c_x=a_x+b_x,\quad c_y=a_y+b_y,\quad a_z=a_z+b_z
-\end{equation}
-
-\noindent
-[compare with \eqn{1_8}]. Equations~\eqref{eq:1_11} express analytically the rule of vector addition. They hold for any number of addends.
-
-\textbf{Position Vector.} The position vector (or radius vector) $\vec{r}$ of a point is defined as the vector drawn from the origin of coordinates to the given point (\fig{1_14}). Its projections onto the coordinate axes equal the Cartesian coordinates of the given point:
-\begin{equation}\label{eq:1_12}
-r_x=x,\quad r_y=y,\quad r_z=z.
-\end{equation}
-
-\noindent
-Consequently, in accordance with \eqn{1_9}, the position vector can be represented in the form
-\begin{equation}\label{eq:1_13}
-\vec{r} = x\vecuni{x} + y\vecuni{y} + z\vecuni{z}.
-\end{equation}
-
-\noindent
-By \eqn{1_10}, we have
-\begin{equation}\label{eq:1_14}
-r^2 = x^2 + y^2 + z^2.
-\end{equation}
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_13.pdf}
-			\caption[]{}
-			\label{fig:1_13}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_14.pdf}
-			\caption[]{}
-			\label{fig:1_14}
+			\includegraphics[scale=0.95]{figures/ch_01/fig_1_3.pdf}
+			\caption[]{Induction interaction of molecules (dashed lines show the induced dipoles).}
+			\label{fig:1_3}
 		\end{center}
 	\end{minipage}
 \vspace{-0.3cm}
 \end{figure}
 
+\textbf{Induction interaction.} Lastly, in case of polar molecules of high polarizability an induced moment due to the action of the field of constant dipoles may be established (\fig{1_3}; the induced dipoles are shown by dashed lines). The energy of mutual attraction due to the interaction of the rigid dipole of the first molecule and the induced dipole of the second molecule, as has been shown by Debye, is independent of temperature and is given by the expression
+\begin{equation}\label{eq:1_5}
+	\ab{U}{in} = - \frac{\alpha M^2}{8\pi\varepsilon_0^2}\frac{1}{r^6}
+\end{equation}
+
+\noindent
+where, as before, $M$ is the constant dipole moment of the molecule, and $\alpha$ its polarizability.
+
+Such interaction is termed \textit{induction}, or \textit{deformation}, interaction.
+
+In general, when two molecules are brought close together all three types of interaction may be established, the interaction energy being the sum of the energies of the dispersion ($\ab{U}{d}$), orientational
+($\ab{U}{or}$), and induction ($\ab{U}{in}$) types of interaction:
+\begin{equation*}
+	U = \ab{U}{d} + \ab{U}{or} + \ab{U}{in}.
+\end{equation*}
+
+Table \ref{table:1_1} shows the relative magnitude (in percent) of each of those components of the total bonding energy for water, ammonia, hydrogen chloride and carbon monoxide. The data presented in Table \ref{table:1_1} show the induction interaction for all the substances to be weak. Three quarters or a half of the bond energy in substances made up of polar molecules is due to the energy of orientational interaction; while in materials made up of nonpolar molecules almost all of the bond energy is due to the dispersion interaction.
+
+\begin{table}[!b]
+	\renewcommand{\arraystretch}{1.2}
+	\caption{}
+	\vspace{-0.6cm}
+	\label{table:1_1}
+	\begin{center}\resizebox{0.84\linewidth}{!}{
+			\begin{tabular}{lccc}
+				\toprule[1pt]
+				\multirow{2}{*}{\textbf{Substance}} & \multicolumn{3}{c}{\textbf{Type of interaction}}\\
+				\cline{2-4}
+				& \textbf{Dispersion} & \textbf{Induction} & \textbf{Orientational}\\
+				\midrule[0.5pt]\midrule[0.5pt]
+				Water & $19$ & $4$ & $77$\\
+				Ammonia & $50$ & $5$ & $45$\\
+				Hydrogen chloride & $81$ & $4$ & $15$\\
+				Carbon monoxide & $100$ & &\\
+				\bottomrule[1pt]
+			\end{tabular}
+	}\end{center}
+\end{table}
+
+Table \ref{table:1_2} shows the values of the bond energy for some molecular crystals held together by van der Waals forces.
+
+\begin{table}[!b]
+	\renewcommand{\arraystretch}{1.2}
+	\caption{}
+	\vspace{-0.6cm}
+	\label{table:1_2}
+	\begin{center}\resizebox{0.58\linewidth}{!}{
+			\begin{tabular}{lc}
+				\toprule[1pt]
+				\textbf{Substance} & $\ab{U}{b}, \bracket{\SI{e3}{\joule\per\mole}}$\\
+				\midrule[0.5pt]\midrule[0.5pt]
+				Neon (\ce{Ne}) & $1.90$ \\
+				Argon (\ce{Ar}) & $8.40$\\
+				Nitrogen (\ce{N2}) & $6.60$\\
+				Carbon monoxide (\ce{CO}) & $8.40$\\
+				Oxygen (\ce{O2}) & $8.20$\\
+				Methane (\ce{CH4}) & $10.8$\\
+				\bottomrule[1pt]
+			\end{tabular}
+	}\end{center}
+\end{table}
+
+\section{The ionic bond}\label{sec:1_2}
+
+Atoms that occupy places in the Mendeleev periodic table next to inert gases tend to assume the electronic configuration of these gases either by giving away or accepting electrons. The valence electron of alkali metals, which immediately follow the inert gases, moves outside the closed shell and is only weakly connected with the nucleus. The halides, which immediately precede the inert gases, lack one electron to complete a stable shell characteristic of an inert gas. Therefore, they exhibit high affinity to an excess electron.
+
+Such atoms, that is, typical metals and halides, are bonded in the following way. First a recharging of the atoms takes place. The electron from the metal moves over to the halide. This turns the metal atom into a positively charged ion and the haloid atom into a negatively charged one. These ions interact according to the Coulomb law as two opposite charges. Such a bond became known as an \textit{ionic bond}.
+
+The energy of attraction of two ions separated by the distance $r$ is
+\begin{equation}\label{eq:1_6}
+	\ab{U}{att} = - \frac{q^2}{4\pi\varepsilon_0 r}
+\end{equation}
+
+\noindent
+where $q$ is the charge of the ions.
+
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.95]{figures/cap_01/fig_1_15.pdf}
-		\caption[]{}
-		\label{fig:1_15}
+		\includegraphics[scale=0.95]{figures/ch_01/fig_1_4.pdf}
+		\caption[]{Dependence of energy of interacting ions on the distance between them: $1$ --- energy of attraction, $2$ --- energy of repulsion, $3$ --- total energy of interaction.}
+		\label{fig:1_4}
 	\end{center}
-	\vspace{-1.0cm}
+	\vspace{-0.7cm}
 \end{figure}
 
-\textbf{The Scalar Product of Vectors.} Two vectors $\vec{a}$ and $\vec{b}$ can be multiplied by each other in two ways. One of them results in a scalar quantity, and the other in a certain new vector. Accordingly, two products of vectors are distinguished---the scalar product and the vector product. It must be noted that \textit{the operation of dividing a vector by a vector does not exist}.
-
-The scalar product of the vectors $\vec{a}$ and $\vec{b}$ is defined as the scalar quantity equal to the product of the magnitudes of these vectors and the cosine of the angle $\alpha$ between them:
-\begin{equation}\label{eq:1_15}
-\vecdot{a}{b} = ab\sin\alpha
+The curve $1$ in \fig{1_4} shows the dependence of $\ab{U}{att}$ on $r$. As $r$ decreases the absolute value of the energy increases monotonically, tending to infinity as $r\to 0$. The force of attraction tends to bring the ions together as close as possible. This, however, is
+prevented by the forces of repulsion, which begin to make themselves felt at small distances and rise very rapidly with the decrease in distance. The repulsion energy $\ab{U}{rep}$ is shown in \fig{1_4} by the curve $2$. Max Born and other scientists expressed the repulsion energy in the form
+\begin{equation}\label{eq:1_7}
+	\ab{U}{rep} = \frac{B}{r^n}
 \end{equation}
 
 \noindent
-(\fig{1_15}). When writing a scalar product, the symbols of the vectors being multiplied are usually written next to each other with dot between them (this is why a scalar product is also called a dot product; sometimes nothing is used between the symbols)\footnote{The dot symbol between vectors is preferred in the \LaTeX version to adopt a more modern approach.}. Equation~\eqref{eq:1_15} expresses an algebraic quantity: when $\alpha$ is acute, we have $\vecdot{a}{b}>0$, and when it is obtuse, we have $\vecdot{a}{b}<0$. The scalar product of mutually perpendicular vectors ($\alpha=\pi/2$) equals zero.
+where $B$ and $n$ are constants.
 
-It must be noted that by the square of a vector is always meant the scalar product of this vector by itself:
-\begin{equation}\label{eq:1_16}
-\vec{a}^2 = \vecdot{a}{a} = aa\cos\alpha = a^2.
+The resulting interaction energy of two ions is
+\begin{equation}\label{eq:1_8}
+	U = \ab{U}{rep} + \ab{U}{att} = \frac{B}{r^n} - \frac{q^2}{4\pi\varepsilon_0 r}.
+\end{equation}
+
+This energy is shown in \fig{1_4} by the curve $3$ which has a minimum at $r=r_0$; the depth of this minimum determines the bond energy $\ab{U}{b}$, and $r_0$ determines the distance between the ions in the molecule. Making use of the fact that in equilibrium (at $r=r_0$) the force of attraction, $\ab{F}{att}=-(\diffin{\ab{U}{att}}{r})_{r=r_0}$, equals the force of repulsion, $\ab{F}{rep}=-(\diffin{\ab{U}{rep}}{r})_{r=r_0}$, we can easily express \eqref{eq:1_8} as
+\begin{equation}\label{eq:1_9}
+	\ab{U}{b} = - \frac{q^2}{4\pi\varepsilon_0 r_0} \parenthesis{1 - \frac{1}{n}}.
+\end{equation}
+
+The energy of the lattice made up of $N$ such molecules is
+\begin{equation}\label{eq:1_10}
+	\ab{U}{lattice} = - NA \frac{q^2}{4\pi\varepsilon_0 r_0} \parenthesis{1 - \frac{1}{n}}
 \end{equation}
 
 \noindent
-Thus, the square of a vector equals the square of its magnitude. In particular, the square of any unit vector equals unity:
-\begin{equation}\label{eq:1_17}
-\vecuni{x}^2 = \vecuni{y}^2 = \vecuni{z}^2 = 1.
-\end{equation}
+where $A$ is the \textit{Madelung constant}, which takes account of the energy of interaction of the given molecule with all its neighbouring molecules in the crystal.
 
-\noindent
-We shall note in passing that owing to the unit vectors being mutually perpendicular, scalar products such as $\vecunidot{i}{k}$, equal zero if $i\neq k$.
+Table \ref{table:1_3} shows by way of an example the experimental values of the bond energy of some ionic crystals and its values calculated with the aid of \eqref{eq:1_10}. The discrepancies do not exceed $1$-$2$ percent, which is proof of good agreement between theory and experiment.
 
-The Kronecker symbol or delta $\delta_{ik}$ is very convenient. It is determined as follows:
-\begin{equation}\label{eq:1_18}
-\delta_{ik} = \begin{cases}
-1, &\mbox{if } i = k, \\
-0, &\mbox{if } i\neq k. \end{cases}
-\end{equation}
+\begin{table}[!b]
+	\renewcommand{\arraystretch}{1.2}
+	\caption{}
+	\vspace{-0.6cm}
+	\label{table:1_3}
+	\begin{center}\resizebox{0.68\linewidth}{!}{
+			\begin{tabular}{lcc}
+				\toprule[1pt]
+				\multirow{2}{*}{\textbf{Crystal}} & \multicolumn{2}{c}{$\ab{U}{b}, \bracket{\SI{e3}{\joule\per\mole}}$}\\
+				\cline{2-3}
+				& \textbf{Experiment} & \textbf{Theory}\\
+				\midrule[0.5pt]\midrule[0.5pt]
+				Sodium chloride (\ce{NaCl}) & $752$ & $754$\\
+				Potassium iodine (\ce{KI}) & $650$ & $630$\\
+				Rubidium bromide (\ce{RbBr}) & $635$ & $645$\\
+				Caesium iodine (\ce{CsI}) & $595$ & $585$\\
+				\bottomrule[1pt]
+			\end{tabular}
+	}\end{center}
+\end{table}
 
-\noindent
-When this symbol is used, the properties of the scalar products of the coordinate axis unit vectors established above can be expressed by a single formula:
-\begin{equation}\label{eq:1_19}
-\vecunidot{i}{k} = \delta_{ik}\quad (i, k = x, y, z)
-\end{equation}
+\section{The covalent bond}\label{sec:1_3}
 
-\noindent
-where the subscripts $i$ and $k$ can assume any of the values $x$, $y$ and $z$ independently of each other.
+The ionic and van der Waals bonds are unable to account for the existence of such compounds as \ce{H2}, \ce{O2}, \ce{N2}, etc., as well as for bonds in atomic crystals of the diamond type. Evidently, atoms of one kind cannot form oppositely charged ions by changing the distribution of valence electrons, as was the case in the metal-halide interaction. On the other hand, the bond in the \ce{H2}, \ce{O2} and \ce{N2} molecules is much stronger than that which could be attributed to the van der Waals forces. For such compounds the role of the van der Waals forces is that of a small correction to the bond mainly responsible for the strength of the compounds. This bond became known as the \textit{covalent bond}.
 
-It follows from the definition~\eqref{eq:1_15} that a scalar product is commutative, \ie, it does not depend on the sequence of the multipliers:
-\begin{equation}\label{eq:1_20}
-\vecdot{a}{b} = \vecdot{b}{a}.
-\end{equation}
+Let us consider the nature of this type of bond using the hydrogen molecule as an example.
 
-\noindent
-Equation~\eqref{eq:1_15} can be written in several ways:
-\begin{equation*}
-\vecdot{a}{b} = ab\cos\alpha = (a\cos\alpha)\,b = a\,(b\cos\alpha).
-\end{equation*}
+Suppose that two hydrogen atoms are at a rather great distance $r$ from one another. The atom A consists of the nucleus a and the electron $1$ and the atom B consists of the nucleus b and the electron $2$ (\fig{1_5}). Since the density of the electron cloud which describes the electron state in an atom falls off very rapidly as the distance from the nucleus increases, the probabilities to discover electron $1$ near nucleus b and electron $2$ near nucleus a are very small. Calculation shows that for $r\approx\SI{50}{\angstrom}$ each electron can visit the other nucleus on the average only once in \num{e12} years. Because of that atoms A and B may be regarded as isolated atoms and the energy of the system made up of such atoms may be taken to be equal to $2E_0$, where $E_0$ is the energy of the isolated atom in the ground state.
 
-\noindent
-Examination of \fig{1_15} shows that $a\cos\alpha$ equals $a_b$---the projection of the vector $\vec{a}$ onto the direction of the vector $\vec{b}$. Similarly, $b\cos\alpha= b_a$---the projection of the vector $\vec{b}$ onto the direction of the vector $\vec{a}$. We can therefore say that the scalar product of two vectors is defined as the scalar quantity equal to the product of the magnitude of one of the vectors being multiplied and the projection of the second vector onto the direction of the first one:
-\begin{equation}\label{eq:1_21}
-\vecdot{a}{b} = a_b b = a b_a.
-\end{equation}
-
-Taking into account that the projection of the sum of vectors equals the sum of the projections of the vectors being added, we can write that
-\begin{equation}\label{eq:1_22}
-\vec{a}\boldsymbol{\cdot}(\vec{b}+\vec{c}+\ldots) = a(\vec{b}+\vec{c}+\ldots)_a = a(b_a+c_a+\ldots) = ab_a+ac_a+\ldots = ab+ac+\ldots .
-\end{equation}
-
-\noindent
-Hence, it follows that the scalar product of vectors is distributive---the product of the vector $\vec{a}$ and the sum of several vectors equals the sum of the products of the vector $\vec{a}$ and each of the added vectors taken separately.
-
-Let us represent the vectors being multiplied in the form of \eqn{1_9} and take advantage of the distributive nature of a scalar product. We get
-\begin{align*}
-\vecdot{a}{b} &= (a_x\vecuni{x} + a_y\vecuni{y} + a_z\vecuni{z})(b_x\vecuni{x} + b_y\vecuni{y} + b_z\vecuni{z})\\
-&= a_xb_x\vecunidot{x}{x} + a_xb_y\vecunidot{x}{y} + a_xb_z\vecunidot{x}{z} + a_yb_x\vecunidot{y}{x} + a_yb_y\vecunidot{y}{y}\\
-&\,+ a_yb_z\vecunidot{y}{z}+ a_zb_x\vecunidot{z}{x} + a_zb_y\vecunidot{z}{y} + a_zb_z\vecunidot{z}{z}.
-\end{align*}
-
-\noindent
-Now let us take \eqn{1_19} into consideration. As a result, we get an expression for a scalar product through the projections of the vectors being multiplied:
-\begin{equation}\label{eq:1_23}
-\vecdot{a}{b} = a_xb_x + a_yb_x + a_zb_z.
-\end{equation}
-
-\noindent
-It must be noted that when the coordinate axes are rotated, the projections of vectors onto these axes change. The quantity $ab\cos\alpha$ does not depend on the choice of the axes, however. We thus conclude that the changes in the projections of the vectors $\vec{a}$ and $\vec{b}$, when the axes are rotated, are of a nature such that their combination of the form of \eqn{1_23} remains invariant (unchanged):
-\begin{equation}\label{eq:1_24}
-\vecdot{a}{b} = a_xb_x + a_yb_x + a_zb_z = \mathrm{inv}.
-\end{equation}
-
-It is a simple matter to see that the projection of the vector $\vec{a}$ onto the direction $l$ [see \eqn{1_7}] can be represented in the form
-\begin{equation}\label{eq:1_25}
-a_l = \vec{a}\boldsymbol{\cdot}\vecuni{l},
-\end{equation}
-
-\noindent
-where $\vecuni{l}$ is the unit vector of the direction $l$. Similarly,
-\begin{equation}\label{eq:1_26}
-a_x = \vec{a}\boldsymbol{\cdot}\vecuni{x},\quad  a_y = \vec{a}\boldsymbol{\cdot}\vecuni{y}, \quad  a_z=\vec{a}\boldsymbol{\cdot}\vecuni{z}.
-\end{equation}
-
-\textbf{The Vector Product.} The vector product of the vectors $\vec{a}$ and $\vec{b}$ is defined as the vector $\vec{c}$ determined by the equation
-\begin{equation}\label{eq:1_27}
-\vec{c} = ab\sin(\alpha)\hatvec{n},
-\end{equation}
-
-\noindent
-where $a$ y $b$ magnitudes of the vectors being multiplied, $\alpha$, is the angle between the vectors, $\hatvec{n}$, is the unit vector of a normal\footnote{The symbol $\hatvec{n}$ is simpler and more illustrative than $vecuni{n}$.} to the plane containing the vectors $\vec{a}$ and $\vec{b}$ (\fig{1_16}).
-
-The direction of $\hatvec{n}$ is chosen so that the sequence of the vectors $\vec{a}$, $\vec{b}$, $\hatvec{n}$ forms a right-handed system. This signifies that if we look along the vector $\hatvec{n}$, then the shortest path in rotation from the first multiplier to the second one will be clockwise. In \fig{1_16}, the vector $\hatvec{n}$ is directed beyond the drawing, and it is therefore depicted by a circle with a cross\footnote{We shall depict vectors perpendicular to the plane of a drawing by a circle with a cross in it if the vector is directed away from us, and by a circle with a point at its centre if the vector is directed toward us. For clarity, we can imagine a vector in the form of an arrow with a tapered tip and cross-shaped feathers on its tail. Thus, when the vector is directed toward us (the arrow is flying toward us), we see a circle with a point; when the vector is directed away from us (the arrow is flying away from us), we see a circle with a cross.}. The direction of the vector $\vec{c}$ coincides with that of $\hatvec{n}$.
-
-%\begin{figure}[t]
-%	\begin{center}
-%		\includegraphics[scale=1]{figures/cap_01/fig_1_16.pdf}
-%		\caption[]{}
-%		\label{fig:1_16}
-%	\end{center}
-%	\vspace{-0.7cm}
-%\end{figure}
-
-A vector product is usually designated in one of two ways:
-\begin{equation*}
-[\vec{a},\vec{b}]\quad\text{or }\quad \vec{a}\times\vec{b}
-\end{equation*}
-
-\noindent
-the latter notation resulting in the term cross product sometimes being used to signify a vector product. We shall use the latter notation\footnote{To avoid confusion, in the \LaTeX version, we shall use the cross product symbol.}. Thus, according to \eqn{1_27}, we have
-\begin{equation}\label{eq:1_28}
-\vecprod{a}{b} = (ab\sin\alpha)\hatvec{n}.
-\end{equation}
-
-A glance at \fig{1_16} shows that the magnitude of a vector product has a simple geometrical meaning---the expression $ab\sin\alpha$ numerically equals the area of a parallelogram constructed on the vectors being multiplied.
-
-We determined the direction of the vector $\vecprod{a}{b}$ by relating it to the direction of rotation from the first multiplier to the second one. When considering vectors such as the position vector $\vec{r}$, the velocity $\vec{v}$, and the force $\vec{F}$, the choice of their direction is quite obvious---it follows from the nature of these quantities themselves. Such vectors are called \textbf{polar} or \textbf{true}. Vectors of the type $\vecprod{a}{b}$ whose direction is related to that of rotation are called axial or \textbf{pseudovectors}. When conditions change, for example, upon going over from a right-hand system of coordinates to a left-hand one, the directions of pseudovectors are reversed, while those of true vectors remain unchanged.
-
-It must be borne in mind that a vector product will be a pseudovector only when both of the vectors being multiplied are true (or both are pseudovectors). The vector product of a true vector and a pseudovector will be true. Reversing of a condition determining the direction of a pseudovector will lead in this case to a change in the sign in front of the vector product and also to a change in the sign of one of the multipliers. As a result, the quantity expressed
-by the vector product remains unchanged.
-
-Since the direction of a vector product is determined by the direction of rotation from the first multiplier to the second one, the result of vector multiplication depends on the order of the multipliers. Transposition of the multipliers leads to reversing of the direction of the resultant vector. Thus, a vector product does not have the property of commutativity:
-\begin{equation}\label{eq:1_29}
-\vecprod{a}{b} = -\vecprod{b}{a}.
-\end{equation}
-
-\noindent
-A vector product can be proved to be distributive, \ie, it can be shown that
-\begin{equation}\label{eq:1_30}
-\vec{a}\times(\vec{b}_1+\vec{b}_2+\ldots)] = \vec{a}\times\vec{b}_1 + \vec{a}\times\vec{b}_2 + \ldots.
-\end{equation}
-
-%\begin{figure}[t]
-%	\begin{center}
-%		\includegraphics[scale=1]{figures/cap_01/fig_1_17.pdf}
-%		\caption[]{}
-%		\label{fig:1_17}
-%	\end{center}
-%	\vspace{-1.0cm}
-%\end{figure}
 \begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_5.pdf}
+		\caption[]{Calculating covalent bond between hydrogen atoms: A, B --- hydrogen atoms; a, b --- their nuclei; 1 --- electron of atom A; 2 --- electron of atom B; $\ab{r}{a$1$}, \ab{r}{b$2$}$ --- distances of electrons from their nuclei; $r_{12}$ --- distance between electrons; $\ab{r}{a$2$}$ --- distance of electron $2$ from nucleus a; $\ab{r}{b$1$}$ --- distance of electron $1$ from nucleus b; $r$ --- distance between nuclei.}
+		\label{fig:1_5}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+When the atoms are brought closer together, the probability of the electrons going over to nuclei other than their own increases. For $r\approx\SI{2}{\angstrom}$ the electron clouds begin to overlap noticeably and the transition frequency rises up to \SI{e14}{\per\second}. If the atoms are brought still closer together, the frequency of the electron exchange rises so that it becomes meaningless to speak of electron $1$ as belonging to the atom A and of electron $2$ as belonging to atom B. This corresponds to a new state that is not characteristic for a system made up of two isolated atoms. A remarkable property of this new state is that the electrons in it belong simultaneously to both nuclei, in other words, are \textit{collectivized}.
+
+The collectivization of the electrons is accompanied by a change in the electron density distribution $\absolute{\psi}^2$ and in the energy of the system as compared to the total energy $2E_0$ of the isolated atoms. The lines $1$ in \fig{1_6} show the electron cloud density of the isolated atoms, the line $2$ shows the total density obtained by simple superposition of the electron clouds of isolated atoms, and the line $3$ the actual density distribution along the axis joining the nuclei a and b brought about by the collectivization of the electrons. The figure shows that the collectivization of the electrons results in the electron clouds being drawn into the space between the two nuclei: at a small distance from the nucleus outside this space the density of the clouds falls off, as compared with the density in isolated atoms, at the same time rising in the space between the nuclei above the sum of the densities of isolated atoms. The appearance of a state with an electron cloud of increased density that fills the space between the nuclei always results in a decrease in the system's energy and in the appearance of forces of attraction between the atoms. Speaking figuratively, we may say that the electron cloud formed in the space between the nuclei by a collectivized pair of electrons draws the nuclei together, striving to bring them as close together as possible.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_6.pdf}
+		\caption[]{Electron density distribution in a system of two hydrogen atoms: $1$ --- electron density distribution in isolated hydrogen atoms, $2$ --- electron density resulting from simple overlapping of electron clouds of isolated atoms brought together to within a distance of $r$, $3$ --- actual electron density distribution in a hydrogen molecule.}
+		\label{fig:1_6}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+Such is the qualitative picture of the origin of the covalent bond. Quantitative calculations of the hydrogen molecule were first performed by W. H. Heitler and F. London in 1927. Those calculations have shown that a system consisting of two closely spaced atoms of hydrogen can have two energy values depending on the direction of the electron spins in the atoms:
+\begin{equation}\label{eq:1_11}
+	\ab{U}{s} = 2 E_0 + \frac{(K + A)}{(1 + S^2)}
+\end{equation}
+
+\noindent
+when the spins are antiparallel, and
+\begin{equation}\label{eq:1_12}
+	\ab{U}{a} = 2 E_0 + \frac{(K + A)}{(1 - S^2)}
+\end{equation}
+
+\noindent
+when the spins are parallel. Here $2E_0$ is the total energy of the two isolated atoms, $K$ is the \textit{energy of the electrostatic interaction} of the electrons with the nuclei, of the electrons with one another, and of the nuclei. Another name for it is \textit{Coulomb energy}. Its sign is negative. By $A$ we denote the \textit{energy of exchange interaction} due to the atoms exchanging electrons. This is the additional energy that appears as the result of the change in the electron density distribution in the process of the formation of the molecule. Its sign is negative and its absolute value is much larger than $K$ ($|A|\gg |K|$). $S$ is the \textit{overlap integral} whose value lies within the limits $0\leqslant S\leqslant 1$.
+
+The state with the energy $\ab{U}{s}$ is termed \textit{symmetric} and with $\ab{U}{a}$ \textit{antisymmetric}. Since both $K$ and $A$ are negative and $S\leqslant 1$, the energy of the system in the symmetric state is less than the energy of two isolated atoms:
+\begin{equation}\label{eq:1_13}
+	\ab{U}{s} < 2 E_0.
+\end{equation}
+
+\noindent
+This corresponds to the appearance of forces of attraction. Since the absolute value of the exchange energy $A$ is considerably greater than that of the Coulomb energy $K$ the decrease in the system's energy is mainly due to $A$. For this reason the force of attraction that appears between the atoms is termed the \textit{exchange force}.
+
+For the same reason, that is, because $|A|\gg |K|$, the formation of the antisymmetric state leads to an increase in the system's energy. This corresponds to the appearance of repulsive forces.
+
+Figure \ref{fig:1_7} shows the dependence of $\ab{U}{s}$ and $\ab{U}{a}$ on $r/a$, where $r$ is the distance between the atoms, and $a=\SI{0.529}{\angstrom}$ is the radius of the first Bohr orbit (the \textit{Bohr radius}). The zeroth energy level has been fixed at $2E_0$. Figure \ref{fig:1_7} shows that in the antisymmetric state the system's energy rises steadily as the atoms are brought closer together (curve $7$), this corresponding to the mutual repulsion of the atoms. Therefore a hydrogen molecule cannot be formed in such a state. In the symmetric state (curve $2$) the system's energy at first falls as the distance $r$ between the atoms decreases, attaining its minimum value at $r=r_0$.
+As the distance $r$ decreases still further, the energy begins to rise because of the appearance of strong repulsive forces. The existence of a minimum on the potential energy curve makes the existence of a stable system of two hydrogen atoms, that is, a hydrogen molecule, possible. To destroy this system work must be performed equal to the depth of the potential well, $\ab{U}{b}$.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_7.pdf}
+		\caption[]{Interaction energy of two hydrogen atoms: $1$ --- antisymmetric state, $2$ --- symmetric state.}
+		\label{fig:1_7}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+Calculation provides the following values of $\ab{U}{b}$ and $r_0$: $\ab{U}{b}=\SI{4.37}{\electronvolt}, r_0=\SI{0.735}{\angstrom}$; the experimental values are $\ab{U}{b}=\SI{4.38}{\electronvolt}, r_0=\SI{0.753}{\angstrom}$. The agreement between theory and experiment
+is quite good.
+
+Table~\ref{table:1_4} shows the values of the bond energy for some covalent compounds---the molecules of \ce{H2}, \ce{N2}, \ce{O2}, \ce{CO}---and for diamond, silicon and germanium crystals in which the bonding is due to covalent forces.
+
+\begin{table}[!b]
+	\renewcommand{\arraystretch}{1.2}
+	\caption{}
+	\vspace{-0.6cm}
+	\label{table:1_4}
+	\begin{center}\resizebox{0.58\linewidth}{!}{
+			\begin{tabular}{lc}
+				\toprule[1pt]
+				\textbf{Gas} & $\ab{U}{b}, \bracket{\SI{e5}{\joule\per\mole}}$\\
+				\midrule[0.5pt]\midrule[0.5pt]
+				Carbon monoxide (\ce{CO}) & $10.8$\\
+				Nitrogen (\ce{N2}) & $9.50$\\
+				Oxygen (\ce{O2}) & $5.00$\\
+				Hydrogen (\ce{H2}) & $4.40$ \\
+				Diamond (\ce{C}) & $6.80$\\
+				Silicon (\ce{Si}) & $4.40$\\
+				Germanium (\ce{Ge}) & $3.50$\\
+				\bottomrule[1pt]
+			\end{tabular}
+	}\end{center}
+\end{table}
+
+Characteristic properties of the covalent bond, which distinguish it from the bonds of other types, are its \textit{saturability} and \textit{directionality}.
+
+Saturability means that each atom can form covalent bonds only with a limited number of its neighbours. This means that each hydrogen atom can form covalent bonds only with one of its neighbours. The electron pair constituting such a bond has antiparallel spins and occupies one quantum cell. A third atom in this case instead of being attracted will be repelled.
+
+The valence bond is formed in the direction of the greatest density of the electron cloud corresponding to the valence electrons. In this case there is maximum overlapping of the electron clouds of the bonding electrons, which implies that the valence bond is directional.
+
+\section{The metallic bond}\label{sec:1_4}
+
+There is a special group of substances, called metals, that occupy places at the beginning of every period of the Mendeleev table. The formation of the metallic bond cannot be explained by the presence of the ionic or the covalent bond. Indeed, the ionic bond appears only between atoms having different affinities to the additional electron, for instance, between the atoms of a metal and a halide. Evidently, such bond between kindred atoms of a metal having identical affinity to the electron is impossible. On the other hand, metallic atoms do not have enough valence electrons to form valence bonds with their nearest neighbours. For instance, the copper atom has one valence electron and can form a valence bond only with a single atom. But in the copper lattice every atom is surrounded by twelve neighbours with which it must be connected by lines of force. This points to the fact that in metals there is a special type of bonding known as the \textit{metallic bond}. Let us consider the nature of this bond.
+
+In metallic atoms the external valence electrons are rather weakly coupled to the nucleus. In the liquid and solid states the atoms come so close together that the valence electrons are able to leave their respective atoms and wander throughout the lattice. This leads to an extremely homogeneous distribution of the negative charge in the crystal lattice. This conclusion is supported by direct experiments. Figure \ref{fig:1_8} shows an experimental curve of the electron density distribution between the sites of the aluminium lattice obtained by means of X-ray photography. Most part of the distance between the sites the electron concentration remains constant. Only quite close to the sites it rises sharply because of the presence of internal shells of the aluminium atoms.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=0.85]{figures/ch_01/fig_1_8.pdf}
+		\caption[]{Electron density distribution in the aluminium lattice obtained by X-ray photography.}
+		\label{fig:1_8}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+In the lattice of a metal the bond is due to the interaction of the positive ions with the electron gas. The electrons moving between the ions compensate the forces of repulsion existing between the positively charged ions and draw them closer together. As the distance between the ions becomes smaller the density of the electron gas rises and this leads to an increase in the force drawing the ions together. On the other hand, in this case the repulsive forces acting between the ions tend to move them away from each other. When the distance between the ions becomes such that the forces of attraction are compensated by the forces of repulsion, a stable lattice is formed.
+
+It appears that the metallic bond is somewhat similar to the valence bond, since they are both based on the collectivization of external valence electrons. However, in case of the valence bond only atoms that form pairs of nearest neighbours take part in the collectivization of electrons, and the respective electrons always remain between the atoms. In case of the metallic bond all atoms of the crystal take part in the collectivization of electrons, and the collectivized electrons are no longer localized near their respective atoms but move freely inside the lattice.
+
+\section{The hydrogen bond}\label{sec:1_5}
+
+The \textit{hydrogen bond} is formed between an atom of hydrogen and an extremely electronegative atom, for instance, an atom of oxygen, fluorine, nitrogen, chlorine. Such an atom attracts the bonding electrons and becomes negatively charged; the hydrogen atom after losing the bonding electron assumes a positive charge. The hydrogen bond is a result of electrostatic attraction of those charges.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=0.85]{figures/ch_01/fig_1_9.pdf}
+		\caption[]{Hydrogen bond between water molecules.}
+		\label{fig:1_9}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+As a typical example we may cite the hydrogen bond between molecules of water (\fig{1_9}). The \ce{O-H} bond between an oxygen atom of one molecule and a hydrogen atom of another behaves as a tiny dipole with a $-\delta$ charge on the oxygen atom and a $+\delta$ charge on the hydrogen atom. The force of attraction between those charges is the cause of the hydrogen bond shown by dots in \fig{1_9}. The attraction is enhanced by the small dimensions of the hydrogen atom that enable it to come close to the electronegative atom. Still, this distance $r_{\ce{OH}}=\SI{2.76}{\angstrom}$ is much greater than the radius of the covalent bond \ce{H-O}, $r_0$, in the water molecule itself, which is equal to \SI{0.96}{\angstrom}. This is quite natural since the energy of the covalent bond is about an order of magnitude higher than that of the hydrogen bond. Its value for water is \SIrange{21e3}{25e3}{\joule\per\mole}.
+
+The hydrogen bond is the cause of association of molecules of liquids (water, acids, spirits, etc.), which results in greater viscosity, higher boiling point, abnormal thermal expansion, etc. Water may serve best to illustrate this. Should there be no hydrogen bonds between the molecules of water, its boiling point at atmospheric pressure would be not $+\SI{100}{\degreeCelsius}$ but $-\SI{80}{\degreeCelsius}$ and its viscosity would be lower by almost an order of magnitude. When water is heated above \SI{0}{\degreeCelsius}, the hydrogen bond is destroyed. Since the hydrogen bond is responsible for the loose structure of associated complexes, in which the water molecules are rather far apart (\SI{2.76}{\angstrom}), the destruction of such a loose structure should result in an increase in the density of water. On the other hand, an increase in the temperature of water and a corresponding increase in the intensity of thermal motion of its molecules should lead to thermal expansion and a decrease in its density. Experiment shows that in the temperature range \SIrange{0}{4}{\degreeCelsius} the first factor---the increase in density due to the disruption of the hydrogen bonds---is the prevalent one. Because of that within this range the density of water rises upon heating. Above \SI{4}{\degreeCelsius} the other factor---thermal expansion---prevails. This is why when water is heated above \SI{4}{\degreeCelsius} its density decreases, as is the case with other (normal) liquids.
+
+\section{Comparison between bonds of various kinds}\label{sec:1_6}
+
+The van der Waals bond is the most universal one. It exists in all cases without exception. At the same time this is the weakest, having an energy of the order of \SI{e4}{\joule\per\mole}. Ideally, it operates between neutral atoms, or molecules, with closed inner electron shells. Specifically, the van der Waals forces are responsible for the existence of the liquid and solid states of inert gases, hydrogen, oxygen, nitrogen and many other organic and inorganic compounds. They also, as we will see later, form bonds in many of the molecular valence crystals. Because of low energy values of the van der Waals bond all structures based on it are unstable, volatile and have low melting points.
+
+The ionic bond is a typical chemical bond very frequent among the inorganic compounds such as metal-halide compounds, metallic oxides, sulfides and other polar compounds. The ionic bond is also a feature of numerous intermetallic compounds (carbides, nitrides, selenides, etc.). The energy of the ionic bond is much higher than that of the van der Waals bond and may be as high as \SI{e6}{\joule\per\mole}. Because of that solids based on the ionic bond have high sublimation heat values and high melting points.
+
+The covalent bond is extremely widespread among organic compounds, but is also present in inorganic compounds, in some metals and in numerous intermetallic compounds. This bond is responsible for the existence of valence crystals of the diamond, germanium and other types, as will be discussed below. The energy of the covalent bond is also high ($\sim\!\SI{e6}{\joule\per\mole}$), which stems from the fact that the solids with this type of bond have high melting points and high heats of sublimation.
+
+The metallic bond formed as a result of the collectivization of the valence electrons is characteristic of typical metals and numerous intermetallic compounds. The order of magnitude of the energy of this type of bond is comparable to that of the energy of covalent bond.
+
+Lastly, the hydrogen bond, although relatively weak, still plays an important part in nature.
+
+It should be pointed out that in real solids no types of bonds discussed above ever exist purely by themselves. Practically, there is always a superposition of two types of bonds or more. One of them, as a rule, plays a dominant part in determining the structure and the properties of the solid.
+
+\section{Forces of repulsion}\label{sec:1_7}
+
+For the formation of a stable system of interacting atoms or molecules, together with forces of attraction there should be forces of repulsion, which would prevent the complete merging of the particles.
+
+The origin of the forces of repulsion is first of all the interaction of the nuclei each of which carries a considerable positive charge. The energy of this interaction, $\ab{U}{rep}'$ depends on the distance between the nuclei and on the degree of screening by their internal electron shells.
+
+The following expression for $\ab{U}{rep}'$ may be obtained from quantum mechanical calculations:
+\begin{equation}\label{eq:1_14}
+	\ab{U}{rep}' \propto e^{-r/a}
+\end{equation}
+
+\noindent
+where $r$ is the distance between the nuclei, and $a=\SI{0.529}{\angstrom}$ the Bohr radius.
+
+This dependence of $\ab{U}{rep}'$ on $r$ determines the nature of the forces of repulsion: they attain enormous values at short distances and
+fall off abruptly as $r$ increases. For instance, when the distance between a proton and a hydrogen atom decreases from $r=2a$ to $r=a/2$ ($4$ times), the repulsive energy increases almost $300$-fold.
+
+The repulsive forces due to the interaction of the nuclei play a dominant role when light atoms, whose nuclei are rather poorly screened by the electron shells, are brought together. In all other cases the dominant part is played by repulsion due to the overlapping of closed electron shells of the atoms being brought together. Consider by way of an example the interaction between a chlorine ion with a closed \enlevel{3}{p}{} shell and a sodium ion with a closed \enlevel{2}{p}{} shell. When the ions are brought together to a distance at which the \enlevel{3}{p}{} and \enlevel{2}{p}{} shells overlap, the number of electrons in each of them begins to exceed that which is compatible with the Pauli exclusion principle. Because of that some of the electrons are forced to go to higher energy levels (for instance, \enlevel{3}{d}{} or \enlevel{4}{s}{}). This results in an increase in the system's energy and, consequently, in the appearance of forces of repulsion. Quantum mechanical calculations show the energy of such repulsion to have an exponential dependence on the distance, as well:
+\begin{equation}\label{eq:1_15}
+	\ab{U}{rep}'' \propto e^{-r/\rho}
+\end{equation}
+
+\noindent
+where $\rho$ is a constant usually obtained experimentally.
+
+Often the repulsion energy is expressed in the form \eqref{eq:1_7}. This expression gives a less steep decline of $\ab{U}{rep}$ with the increase in $r$ and is less consistent with experiment than \eqref{eq:1_14} or \eqref{eq:1_15} but is nevertheless widely used by researchers.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=0.95]{figures/ch_01/fig_1_10.pdf}
+		\caption[]{Interaction between approaching particles: (a) --- interaction forces, $1$ --- force of attraction, $2$ --- repulsive force, $3$ --- resultant force; (b) --- interaction energy.}
+		\label{fig:1_10}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+\section{Crystal lattice}\label{sec:1_8}
+
+No matter what the origin of forces appearing when particles are brought together is, their general nature is the same [\fig{1_10}(a)]: at comparatively large distances forces of attraction $\ab{F}{att}$ increase rapidly as the distance between the particles decreases (curve $1$); at small distances forces of repulsion $\ab{F}{rep}$ come into being and with a further decrease in $r$ they increase much more rapidly than $\ab{F}{att}$ (curve $2$). At the distance $r=r_0$ the repulsive forces counterbalance the forces of attraction, the resultant force of interaction $F$ vanishes (curve $3$), and the energy attains its minimum value $\ab{U}{b}$ [\fig{1_10}(b)]. Because of this the particles brought together to a distance $r_0$ are in a state of stable equilibrium. By the same reason the free particles should arrange themselves in a strict
+order at a distance $r_0$ from one another thus forming a body with a regular internal structure---a crystal. Such a structure will remain stable until the absolute value of the bond energy remains greater than the energy of thermal motion of the particles. The particles constituting
+the crystal cannot freely leave their equilibrium sites because this involves an increase in their energy and leads to the appearance of forces tending to return them to their equilibrium sites. One may say that the particles are fixed in their equilibrium sites. The only form of motion allowed to them are random vibrations around their equilibrium sites.
+
+To describe the regular internal structure of crystals one may conveniently use the concept of the crystal lattice. There are lattices of two types---the translational Bravais lattice and the lattice with a basis.
+
+\textbf{Bravais lattice.} From the geometrical point of view a regular periodic arrangement of particles may be described with the aid of a translation. Figure \ref{fig:1_11}(a) shows a lattice obtained with the aid of translation of a particle along the three axes: $0X$ over the sections $a, 2a, 3a,\ldots, ma, \ldots$; $0Y$ over the sections $b, 2b, 3b, \ldots, nb, \ldots$; $0Z$ over the sections $c, 2c, 3c, \ldots, pc, \ldots$ ($m, n, p$ are integers). The position of any particle in this lattice is described by the vector
+\begin{equation}\label{eq:1_16}
+	\vec{r} = m\vec{a} + n\vec{b} + p\vec{c}.
+\end{equation}
+
+\noindent
+The vectors $\vec{a}, \vec{b}, \vec{c}$ are termed the \textit{translation vectors} and their numerical values the \textit{translation periods}.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_11.pdf}
+		\caption[]{Crystal lattice: (a) --- Bravais lattice, (b) --- unit cell of Bravais lattice.}
+		\label{fig:1_11}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+A lattice built with the aid of translation of any site along the three directions is termed a \textit{Bravais lattice}. The smallest parallelepiped built on the vectors $\vec{a}, \vec{b}, \vec{c}$ is termed the \textit{unit cell} of the crystal (\fig{1_11}(b)). The shape and the volume of all the unit cells comprising the lattice are identical. All cell apexes are occupied by identical atoms or groups of atoms and are therefore equivalent. They are termed \textit{lattice sites}.
+
+To discribe a unit cell, six quantities should generally be stated: three edges of the cell ($a, b, c$) and three angles between them ($\alpha, \beta, \gamma$). Those quantities are termed the \textit{parameters} of the unit cell. Often the sections $a, b, c$ are used as units of length in lattices instead of the metre. They are termed \textit{axial units}.
+
+Unit cells with particles only at the vertices are known as \textit{primitive cells}. There is only one particle to each such cell.
+
+In some cases to express the lattice symmetry more fully the unit cells are built so that they contain particles not only in their apexes but at other points as well. Such cells are termed \textit{complex cells}. The most widespread types of such cells are (\fig{1_12}) the body-centered (BC), the face-centered (FC), and the base-centered (BaseC) cells. It may be shown that such cells may easily be reduced to primitive cells. Because of that they are Bravais-type cells.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1]{figures/ch_01/fig_1_12.pdf}
+		\caption[]{Typical crystal structures: (a) --- base-centered (BaseC); (b) --- body-centered (BC); (c) --- face-centered (FC).}
+		\label{fig:1_12}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+\textbf{A lattice with a basis.} Not every type of lattice may be obtained by translation of a single site. Figure \ref{fig:1_13} shows a two-dimensional lattice with a general-type basis. It may easily be seen that it is impossible to describe the unit cell of such a lattice in terms of a single-site unit cell. Such a lattice may be imagined as consisting of two Bravais lattices, $1$ and $2$, each determined by the basis vectors $\vec{a}$ and $\vec{b}$ and inserted into each other. The relative displacement of the lattices is described by an additional basis vector $\vec{A}$. The number of such basis vectors may be arbitrary.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=0.95]{figures/ch_01/fig_1_13.pdf}
+		\caption[]{Two-dimensional lattice with a basis: $\vec{A}$ --- basis vector.}
+		\label{fig:1_13}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+The lattice of this type is termed the \textit{lattice with a basis}. It may be built with the aid of the same translations as can be used to build any of the Bravais lattices that make it up. However, in this case
+we shall have to translate not one site but several sites---the \textit{basis}, defined by the totality of the basis vectors. Thus, the two-dimensional lattice shown in \fig{1_13} may be obtained by a translation of the basis made up of two sites: $0$ and $0'$. An example of a three-dimensional lattice with a basis is the diamond lattice shown in \fig{1_14}(a). It maybe obtained by inserting one FCC (face-centered
+cubic) lattice into another FCC lattice displaced along the space diagonal by one-fourth of its length. Figure \ref{fig:1_14}(b) shows a tetrahedron designated by a dotted line in \fig{1_14}(a). It may be seen from \fig{1_14}(b) that in the diamond lattice every atom is surrounded by four nearest neighbours in the apexes of the tetrahedron whose edge is $a/2$.
+
+\begin{figure}[t]
+	\begin{minipage}[t]{0.6\linewidth}
 		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_16.pdf}
-			\caption[]{}
-			\label{fig:1_16}
+			\includegraphics[scale=0.9]{figures/ch_01/fig_1_14.pdf}
+			\caption[]{Diamond lattice: (a) --- spatial arrangement of atoms in the lattice; (b) --- tetrahedral pattern of atoms in the lattice.}
+			\label{fig:1_14}
 		\end{center}
 	\end{minipage}
 	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
+	\begin{minipage}[t]{0.33\linewidth}
 		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_17.pdf}
-			\caption[]{}
-			\label{fig:1_17}
+			\includegraphics[scale=0.92]{figures/ch_01/fig_1_15.pdf}
+			\caption[]{Indices of a crystal lattice site.}
+			\label{fig:1_15}
 		\end{center}
 	\end{minipage}
-	\vspace{-0.3cm}
+\vspace{-0.3cm}
 \end{figure}
 
-Let us consider the vector products of the unit vectors of the coordinate axes (\fig{1_17}). In accordance with the definition~\eqref{eq:1_28}, we have
-\begin{align}
-\vecuniprod{x}{x} &= \vecuniprod{y}{y} = \vecuniprod{z}{z} = 0,\nonumber\\
-\vecuniprod{x}{y} &= -\vecuniprod{y}{x} = \vecuni{z},\label{eq:1_31}\\
-\vecuniprod{y}{z} &= -\vecuniprod{z}{y} = \vecuni{x},\nonumber\\
-\vecuniprod{z}{x} &= -\vecuniprod{x}{z} = \vecuni{y}.\nonumber
-\end{align}
+\section{Notation to describe sites, directions, and planes in a crystal}\label{sec:1_9}
+
+Let us mention briefly the notation conventionally used to describe sites, directions and planes in a lattice, the \textit{Miller indices}.
+
+\textbf{Site indices.} The position of any lattice site relative to the chosen origin of coordinates is defined by three of its coordinates (\fig{1_15}): $x, y, z$. These coordinates may be expressed in the following form:
+\begin{equation*}
+	x = ma,\quad y = nb,\quad z = pc
+\end{equation*}
 
 \noindent
-Representing the vectors being multiplied in the form of \eqn{1_9} and taking advantage of the distributivity of a vector product, we get:
-\begin{align*}
-\vecprod{a}{b} &= (a_x\vecuni{x}+a_y\vecuni{y}+a_z\vecuni{z})\times(b_x\vecuni{x}+b_y\vecuni{y}+b_z\vecuni{z})\\
-&= a_xb_x\vecuniprod{x}{x} + a_xb_y\vecuniprod{x}{y} + a_xb_z\vecuniprod{x}{z}\\
-&+ a_yb_x\vecuniprod{y}{x} + a_yb_y\vecuniprod{y}{y} + a_yb_z\vecuniprod{y}{z}\\
-&+ a_zb_x\vecuniprod{z}{x} + a_zb_y\vecuniprod{z}{y} + a_zb_z\vecuniprod{z}{z}
-\end{align*}
+where $a, b, c$ are the lattice parameters, and $m, n, p$ are integers.
 
-\noindent
-Taking into account relation~\eqref{eq:1_31}, we arrive at the following expression:
-\begin{equation}\label{eq:1_32}
-\vecprod{a}{b} = \vecuni{x}(a_yb_z - a_zb_y) + \vecuni{y}(a_zb_x - a_xb_z) + \vecuni{z}(a_xb_y - a_yb_x).
-\end{equation}
+Should we use lattice parameters as units of length along the respective axes we would obtain the lattice coordinates simply in the form of numbers $m, n, p$. These numbers are termed \textit{site indices} and are written in the form $[[mnp]]$. For a negative index the minus sign is written above the index. For instance, for a site with coordinates $x=-2a, y =-lb, z=3c$ the indices are written in the form $[\bar{21}3]$.
 
-\noindent
-The above expression can be represented in the form of a determinant
-\begin{equation}\label{eq:1_33}
-\vecprod{a}{b} = \begin{vmatrix}
-\vecuni{x} & \vecuni{y} & \vecuni{z}\\
-a_x & a_y & a_z\\
-b_x & b_y & b_z
-\end{vmatrix}.
-\end{equation}
+\textbf{Indices of direction.} To describe a direction in a crystal a straight line passing through the origin is chosen. The position of this is uniquely defined by the indices of the first site through which it passes (\fig{1_15}). Therefore the indices of the site are at the same time the indices of the direction. The usual notation for a direction is $[mnp]$. The indices of direction are, by definition, the three smallest integers that describe the position of the site nearest to the origin which lies on the given direction. For instance, the indices of the direction that passes through the origin and the site $[[435]]$ are $[435]$. Figure \ref{fig:1_16} shows the principal directions (crystallographic orientations) in a cubic crystal and their notation.
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=1]{figures/cap_01/fig_1_18.pdf}
-		\caption[]{}
+		\includegraphics[scale=1.1]{figures/ch_01/fig_1_16.pdf}
+		\caption[]{Indices of principal directions in a cubic crystal.}
+		\label{fig:1_16}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_17.pdf}
+		\caption[]{Indices of principal planes in a cubic crystal.}
+		\label{fig:1_17}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+\textbf{Plane indices.} The position of a plane is defined by the choice of three sections $A, B, C$ it cuts off when it intersects with the three coordinate axes. The procedure of finding the indices of such a plane is as follows.
+
+The sections $ABC$ are expressed in axial units and the reciprocal quantities are written as $1/A, 1/B, 1/C$. A common denominator is found for all the three fractions. Suppose it is $D$. Then the integers $h=D/A, k=D/B, I=D/C$ will be the plane indices. They are written in the form $(hkl)$.
+
+Determine, for example, the indices of a plane that cuts off the sections $A=1/2, B=2, C=1/3$ on the $x,y,z$ axes respectively. The ratios $1/A \div 1/B \div 1/C = 1/(1/2) \div 1/2 \div 1/(1/3) = 2 \div
+1/2 \div 3$. The common denominator is $D=2$. The indices of the plane are $h=2/(1/2)=4, k=2/2=1, l=3/(1/2)=6$. The plane is denoted $(416)$. Figure \ref{fig:1_17} shows the principal planes of the cubic lattice.
+
+It may easily be shown that in a cubic crystal the distances between the planes belonging to a given family may be expressed with the aid of the indices of these planes in the following way:
+\begin{equation}\label{eq:1_17}
+	d = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+\end{equation}
+
+\noindent
+where $a$ is the lattice parameter. This formula shows that the greater are the plane indices the shorter is the distance between the planes.
+
+To denote the planes in a hexagonal crystal a four-axis coordinate system is used (\fig{1_18}): three axes $(a_1, a_2, a_3)$ make angles of \ang{120} with one another and lie in the base of a hexagonal prism, the fourth axis, $c$, being perpendicular to the base plane. Every plane is denoted by four indices: $hkil$. The additional label $i$ occupies the third place and is calculated with the aid of $h$ and $k$: $i=-(h+k)$. The base plane parallel to the axes $a_1, a_2, a_3$ has the indices $(0001)$. The planes parallel to the lateral faces of the prism have indices of the $(1010)$ type. There are three such planes (not parallel to one another). They are termed \textit{first-order planes}.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_18.pdf}
+		\caption[]{Indices of principal planes in a hexagonal crystal.}
 		\label{fig:1_18}
 	\end{center}
 	\vspace{-0.7cm}
 \end{figure}
 
-\textbf{Scalar Triple Product.} A scalar triple product of three vectors is defined as the expression $\vecmix{a}{b}{c}$, \ie, the scalar product of the vector $\vec{a}$ and the vector product of the vectors $\vec{b}$ and $\vec{c}$. According to the definitions~\eqref{eq:1_15} and~\eqref{eq:1_28}, we have
-\begin{equation*}
-\vecmix{a}{b}{c} = a\{bc\sin(\vec{b}, \vec{c})\}\cos(\vec{a},\hatvec{n}).
-\end{equation*}
+\section{Classification of solids based on the nature of bonds}\label{sec:1_10}
 
-\noindent
-Here $(\vec{b},\vec{c})$ is the angle between $\vec{b}$ and $\vec{c}$, and $(\vec{a},\hatvec{n})$ is the angle between the vector $\vec{a}$ and the unit vector $\hatvec{n}$ determining the direction of the vector $\vecprod{b}{c}$. Inspection of \fig{1_18} shows that the expression $bc\sin(\vec{b},\vec{c})$ numerically equals the area of the base of a parallelepiped constructed on the vector being multiplied, while the expression $a\cos(\vec{a},\hatvec{n})$ numerically equals the altitude of this parallelepiped taken with the plus sign if the angle $(\vec{a},\hatvec{n})$ is acute, and with the minus sign if it is obtuse. Consequently, the expression $\vecmix{a}{b}{c}$ has a simple geometrical meaning---it numerically equals the volume of a parallelepiped constructed on the vectors being multiplied [taken with the plus or minus sign depending on the value of the angle $(\vec{a},\hatvec{n})$]. In calculating the volume of a parallelepiped, the result cannot depend on which of its faces is taken as the base. Hence, it follows that
-\begin{equation}\label{eq:1_34}
-\vecmix{a}{b}{c} = \vecmix{b}{c}{a} = \vecmix{c}{a}{b}.
-\end{equation}
+The nature of the crystal structure is primarily dictated by the nature of bonding forces acting between the structural particles (atoms, ions, molecules) which make up the solid. In accordance with the five existing types of bonds there are five principal types of crystal lattices: \textit{ionic}, or \textit{coordination}, \textit{lattices}, with the ionic bond playing the main part; \textit{molecular lattices}, with the van der Waals forces mainly responsible for the bonding; \textit{atomic lattices}, with bonds of a distinctly covalent type; \textit{metallic lattices}, with characteristic metallic bonds; and lattices with the \textit{hydrogen bond}.
 
-\noindent
-Thus, a scalar triple product permits cyclic transposition of the multipliers, \ie, substitution for each of the multipliers of the one following it in the cycle:
-\begin{equation*}
-\begin{tikzcd}
-\vec{a}\arrow[rd] &\\
-\vec{c}\arrow[u] & \arrow[l] \vec{b}
-\end{tikzcd}
-\end{equation*}
+Let us analyze from this viewpoint the crystal structure of chemical elements and of typical chemical compounds (see Appendix \sect{A_iv}, Table~\ref{table:A_1}).
 
-\textbf{Vector Triple Product.} Let us consider a vector triple product of the three vectors $\vec{a}$, $\vec{b}$ and $\vec{c}$
-\begin{equation*}
-\vec{d} = \vec{a}\times\vecprod{b}{c}.
-\end{equation*}
+The chemical elements may be roughly divided into four classes according to the type of crystal structure. The analysis may best be started with Class IV.
 
-\noindent
-Any vector product is perpendicular to both multipliers. Therefore, the vector $\vec{d}$ is perpendicular to the unit vector $\hatvec{n}$ determining the direction of the vector $\vecprod{b}{c}$. Hence, it follows that the vector $\vec{d}$ is in the plane formed by the vectors $\vec{b}$ and $\vec{c}$ and, consequently, can be represented as a linear combination of these vectors:
-\begin{equation*}
-\vec{d} = \alpha\vec{b} + \beta\vec{c}
-\end{equation*}
+\textbf{Class IV.} This class includes all the inert gases. In the process of compression and crystallization of these gases only comparatively weak van der Waals forces act between the atoms, which have spherically symmetrical electron shells. Acted upon by these forces the symmetrical atoms draw together to form a most tightly packed face-centered cubic lattice. Every atom is surrounded by $12$ nearest neighbours. The number of nearest neighbours is usually termed the \textit{coordination number} of the lattice.
 
-\noindent
-[see \eqn{1_5}]. We find from the relevant calculations that $\alpha=\vecdot{a}{c}$ and $\beta=-\vecdot{a}{b}$. Thus,
-\begin{equation}\label{eq:1_35}
-\vec{a}\times\vecprod{b}{c} = \vec{b}(\vecdot{a}{c}) - \vec{c}(\vecdot{a}{b}).
-\end{equation}
+\textbf{Class III.} The Class III includes silicon and carbon from the short periods of the Mendeleev periodic table, germanium and tin from Group IVB, and all the elements from Groups VB, VIB, VIIB.
 
-\textbf{Derivative of a Vector.} Let us consider a vector that changes in time according to a known law $\vec{a}(t)$. The projections of this vector onto the coordinate axes are preset functions of time. Hence,
-\begin{equation}\label{eq:1_36}
-\vec{a}(t) = \vecuni{x}a_x(t) + \vecuni{y}a_y(t) + \vecuni{z}a_z(t)
-\end{equation}
-
-\noindent
-(we assume that the coordinate axes do not rotate in space so that their unit vectors do not change with time).
-
-Let the vector projections receive the increments $\Delta a_x$, $\Delta a_y$, $\Delta a_z$ during the time $\Delta t$. The vector therefore receives the increment $\Delta\vec{a} = \vecuni{x}\Delta a_x + \vecuni{y}\Delta a_y + \vecuni{z}\Delta a_z$. The rate of change of the vector $\vec{a}$ with time can be characterized by the ratio of $\Delta\vec{a}$ to $\Delta t$:
-\begin{equation}\label{eq:1_37}
-\frac{\Delta\vec{a}}{\Delta t} = \vecuni{x}\frac{\Delta a_x}{\Delta t} + \vecuni{y}\frac{\Delta a_y}{\Delta t} + \vecuni{z}\frac{\Delta a_z}{\Delta t}.
-\end{equation}
-
-\noindent
-This expression gives the mean rate of change of $\vec{a}$ during the time interval $\Delta t$. Let us assume that $\vec{a}$ changes continuously with time, without any jumps. Consequently, the smaller the interval $\Delta t$, the more accurately does the value of \eqn{1_37} characterize the rate of change in $\vec{a}$ at the moment $t$ preceding the interval $\Delta t$. Therefore, the rate of change in the vector $\vec{a}$ at the moment $t$ equals the limit of \eqn{1_37} obtained when $\Delta t$ tends to zero:
-\begin{align}
-\text{the rate of change in }\vec{a} &= \lim_{\Delta t\to 0}\frac{\Delta\vec{a}}{\Delta t} \nonumber\\
-&= \vecuni{x} \lim_{\Delta t\to 0}\frac{\Delta a_x}{\Delta t} + \lim_{\Delta t\to 0}\vecuni{y} \frac{\Delta a_y}{\Delta t} + \lim_{\Delta t\to 0}\vecuni{z} \frac{\Delta a_z}{\Delta t}.\label{eq:1_38}
-\end{align}
-
-If there is a function $f(t)$ of the argument $t$, then the limit of the ratio of the increment of the function $\Delta f$ to the increment of the argument $\Delta t$ obtained when $\Delta t$ tends to zero is called the derivative of the function $f$ with respect to $t$ and is designated by the symbol $\diffin{f}{t}$. Expression~\eqref{eq:1_38} can therefore be written as follows:
-\begin{equation}\label{eq:1_39}
-\diff{\vec{a}}{t} = \vecuni{x}\diff{a_x}{t} + \vecuni{y}\diff{a_y}{t} + \vecuni{z}\diff{a_z}{t}.
-\end{equation}
-
-\noindent
-The result obtained signifies that the projections of the vector $\diffin{\vec{a}}{t}$ onto the coordinate axes equal the time derivatives of the projections of the vector $\vec{a}$:
-\begin{equation}\label{eq:1_40}
-\left(\diff{\vec{a}}{t}\right)_{\text{pr. }x} = \diff{a_x}{t},\quad \left(\diff{\vec{a}}{t}\right)_{\text{pr. }y} = \diff{a_y}{t},\quad \left(\diff{\vec{a}}{t}\right)_{\text{pr. }z} = \diff{a_z}{t},\quad.
-\end{equation}
-
-It is customary practice in physics to denote time derivatives by the symbol of the corresponding quantity with a dot over it, for example,
-\begin{equation}\label{eq:1_41}
-\diff{\varphi}{t} = \dot{\varphi},\quad \diffsec{\varphi}{t} = \ddot{\varphi},\quad \diff{\vec{a}}{t} = \dot{\vec{a}},\quad \diffsec{\vec{a}}{t} = \ddot{\vec{a}}.
-\end{equation}
-
-\noindent
-Using this notation, we can write equation~\eqref{eq:1_39} as follows:
-\begin{equation}\label{eq:1_42}
-\dot{\vec{a}} = \vecuni{x}\dot{a}_x + \vecuni{y}\dot{a}_y + \vecuni{z}\dot{a}_z.
-\end{equation}
-
-\noindent
-If we take the position vector $\vec{r}(t)$ of a moving point as $\vec{a}(t)$, then by \eqn{1_42} we have
-\begin{equation}\label{eq:1_43}
-\dot{\vec{r}} = \vecuni{x}\dot{r}_x + \vecuni{y}\dot{r}_y + \vecuni{z}\dot{r}_z,
-\end{equation}
-
-\noindent
-where $x$, $y$, $z$ are functions of $t$, namely, $x=x(t)$, $y=t(t)$, $z=z(t)$.
-
-The differential (``increment'') of the function $f(t)$ is defined as the expression
-\begin{equation}\label{eq:1_44}
-\mathrm{d}f = f'\, \mathrm{d}t,
-\end{equation}
-
-\noindent
-where $f'$ is the derivative of $f$ with respect to $t$.  According to \eqn{1_39}, the differential of the vector $\vec{a}$ is determined by the equation
-\begin{equation}\label{eq:1_45}
-\mathrm{d}\vec{a} = \vecuni{x}\mathrm{d}a_x + \vecuni{y}\mathrm{d}a_y + \vecuni{z}\mathrm{d}a_z.
-\end{equation}
-
-In particular,
-\begin{equation}\label{eq:1_46}
-\mathrm{d}\vec{r} = \vecuni{x}\mathrm{d}x + \vecuni{y}\mathrm{d}y + \vecuni{z}\mathrm{d}z.
-\end{equation}
-
-It must be noted that the increment of a function during a very short, but finite interval $\Delta t$ approximately equals
-\begin{equation}\label{eq:1_47}
-\Delta f \approx f'\Delta t = \diff{f}{t}\Delta t.
-\end{equation}
-
-\noindent
-In the limit, when $\Delta t\to 0$, the approximate equation~\eqref{eq:1_47} transforms into the accurate equation~\eqref{eq:1_44}.
-
-A similar equation to~\eqref{eq:1_47} can also be written for the vector function
-\begin{equation}\label{eq:1_48}
-\Delta\vec{a} \approx \diff{\vec{a}}{t}\Delta t.
-\end{equation}
-
-\textbf{Derivative of the Product of Functions.} We shall consider the function $\vec{b}(t)$ that equals the product of the scalar function $\varphi(t)$ and the vector function $\vec{a}(t)$, \ie, $\vec{b}(t)=\varphi(t)\vec{a}(t)$ or, more briefly, $\vec{b}=\varphi\vec{a}$. Let us find the increment of the function $\vec{b}$:
-\begin{equation*}
-\Delta\vec{b} = \Delta(\varphi\vec{a}) = (\varphi + \Delta\varphi)(\vec{a} + \Delta\vec{a}) - \varphi\vec{a} = \varphi\Delta\vec{a} + \vec{a}\Delta\varphi + \Delta\varphi\Delta\vec{a}.
-\end{equation*}
-
-\noindent
-Representing the increments of the functions in the form of expressions~\eqref{eq:1_47} and~\eqref{eq:1_48}, we get:
-\begin{equation*}
-\Delta\vec{b} \approx \varphi\diff{\vec{a}}{t}\Delta t + \vec{a}\diff{\varphi}{t}\Delta t + \diff{\varphi}{t}\diff{\vec{a}}{t}(\Delta t)^2
-\end{equation*}
-
-\noindent
-whence
-\begin{equation*}
-\frac{\Delta\vec{b}}{\Delta t} \approx \varphi\diff{\vec{a}}{t} + \vec{a}\diff{\varphi}{t} + \diff{\varphi}{t}\diff{\vec{a}}{t}\Delta t.
-\end{equation*}
-
-\noindent
-In the limit when $\mathrm{d}t$ tends to zero, this approximate equation transforms into an accurate one. Thus,
-\begin{equation*}
-\diff{\vec{b}}{t} = \lim_{\Delta t\to 0} \diff{\vec{b}}{t} =  \lim_{\Delta t\to 0} \left(\varphi\diff{\vec{a}}{t} + \vec{a}\diff{\varphi}{t} + \diff{\varphi}{t} \diff{\vec{a}}{t}\Delta t\right).
-\end{equation*}
-
-\noindent
-The first two addends do not depend on $\Delta t$ and therefore do not change when going over to the limit. The limit of the third addend equals zero. Hence, substituting $\varphi\vec{a}$ for $\vec{b}$, we obtain
-\begin{equation}\label{eq:1_49}
-\diff{(\varphi\vec{a})}{t} = \varphi\diff{\vec{a}}{t} + \vec{a}\diff{\varphi}{t} = \varphi\dot{\vec{a}}+\dot{\varphi}\vec{a}.
-\end{equation}
-
-Now let us consider the scalar product of two vector functions $\vec{a}(t)$ and $\vec{b}(t)$. The increment of this product is
-\begin{align*}
-\Delta(\vec{a}\vec{b}) &= (\vec{a} + \Delta\vec{a})(\vec{b} + \Delta\vec{b}) - \vec{a}\vec{b}\\
-&= \vec{a}\Delta\vec{b} + \vec{b}\Delta\vec{a} + \Delta\vec{a}\Delta\vec{b} \\
-&\approx \vec{a}\dot{\vec{b}}\Delta t + \vec{b}\dot{\vec{a}}\Delta t + \dot{\vec{a}}\dot{\vec{b}}(\Delta t)^2
-\end{align*}
-
-\noindent
-Hence
-\begin{equation*}
-\diff{(\vec{a}\vec{b})}{t} = \lim_{\Delta t\to 0} \frac{\Delta(\vec{a}\vec{b})}{\Delta t} = \lim_{\Delta t\to 0} (\vec{a}\dot{\vec{b}} + \vec{b}\dot{\vec{a}} + \dot{\vec{a}}\dot{\vec{b}}\Delta t)
-\end{equation*}
-
-\noindent
-or finally
-\begin{equation}\label{eq:1_50}
-\diff{(\vec{a}\vec{b})}{t} = \vec{a}\dot{\vec{b}} + \vec{b}\dot{\vec{a}}.
-\end{equation}
-
-\noindent
-Multiplying \eqn{1_50} by $\mathrm{d}t$, we get a differential:
-\begin{equation}\label{eq:1_51}
-\diff{(\vec{a}\vec{b})}{t} = \vec{a}\dot{\vec{b}} + \vec{b}\dot{\vec{a}}.
-\end{equation}
-
-Let us calculate the derivative and the differential of the square of a vector function. According to Eqs.~\eqref{eq:1_50} and~\eqref{eq:1_51}, we have
-\begin{align}
-\diff{\vec{a}^2}{t} &= 2\vec{a}\dot{\vec{a}},\label{eq:1_52}\\
-\mathrm{d}(\vec{a}^2) &= 2\vec{a}\,\mathrm{d}\vec{a},\label{eq:1_53}
-\end{align}
-
-\noindent
-Taking into account that $\vec{a}^2 = a^2$ [see \eqn{1_16}], we can write:
-\begin{equation}\label{eq:1_54}
-2\vec{a}\,\mathrm{d}\vec{a} = \mathrm{d}(a^2) \quad \text{or} \quad \vec{a}\,\mathrm{d}\vec{a} = \mathrm{d}\left(\frac{a^2}{2}\right).
-\end{equation}
-
-Finally, let us consider the derivative of the vector product of the functions $\vec{a}(t)$ and $\vec{b}(t)$. The increment of the function being considered is
-\begin{align*}
-\Delta\vecprod{a}{b} &= [(\vec{a} + \Delta\vec{a}),(\vec{b} + \Delta\vec{b}) - \vecprod{a}{b}]\\
-&= [\vec{a},\Delta\vec{b}] + [\Delta\vec{a},\vec{b}] + [\Delta\vec{a},\Delta\vec{b}]\\
-&\approx [\vec{a},\dot{\vec{b}}\Delta t] + [\dot{\vec{a}}\Delta t,\vec{b}] + [\dot{\vec{a}}\Delta t,\dot{\vec{b}}\Delta t].
-\end{align*}
-
-\noindent
-Correspondingly,
-\begin{equation*}
-\diff{\vecprod{a}{b}}{t} = \lim_{\Delta t\to 0} \{[\vec{a},\dot{\vec{b}}] + [\dot{\vec{a}},\vec{b}] + [\dot{\vec{a}},\dot{\vec{b}}]\Delta t\}.
-\end{equation*}
-
-\noindent
-After a limit transition, we arrive at the equation
-\begin{equation}\label{eq:1_55}
-\diff{\vecprod{a}{b}}{t} = [\vec{a},\dot{\vec{b}}] + [\dot{\vec{a}},\vec{b}].
-\end{equation}
-
-\textbf{Derivative of a Unit Vector.} Let us consider the unit vector $\vecuni{a}$ of the vector $\vec{a}$. It is obvious that the vector $\vecuni{a}$ can change only in direction. Assume that during the very short interval $\Delta t$ the vector $\vec{a}$ and together with it the unit vector $\vecuni{a}$ rotate through the angle $\Delta\varphi$ (\fig{1_19}). At a low value of $\Delta\varphi$, the magnitude of the vector $\Delta\vecuni{a}$ approximately equals the angle $\Delta\varphi$, namely, $|\Delta\vecuni{a}|\approx\Delta\varphi$ (the segment depicting $\Delta\vecuni{a}$ is the base of an isosceles triangle with sides equal to unity). We must note that the smaller is $\Delta\varphi$, the more accurate is our approximate equation. The vector $\Delta\varphi$ itself can be represented in the form 
-\begin{equation*}
-\Delta\vecuni{a} = |\Delta\vecuni{a}| \boldsymbol{\cdot} \vecuni{\Delta\vec{e}} \approx \Delta\varphi \boldsymbol{\cdot} \vecuni{\Delta\vec{e}}
-\end{equation*}
-
-\noindent
-where $\vecuni{\Delta\vec{e}}$ is the unit vector of the vector $\Delta\vecuni{a}$. When $\Delta\varphi$ tends to zero, the unit vector $\vecuni{\Delta\vec{e}}$ will rotate and in the limit coincide with the unit vector $\vecuni{\perp}$ perpendicular to $\vecuni{a}$ (see \fig{1_19}).
-
-The derivative of $\vecuni{a}$ with respect to $t$, by definition, is
-\begin{equation*}
-\diff{\vecuni{a}}{t} = \lim_{\Delta t\to 0} \frac{\Delta\vecuni{a}}{\Delta t} = \lim_{\Delta t\to 0} \frac{\Delta\varphi}{\Delta t}\vecuni{\Delta\vec{e}} = \diff{\varphi}{t}\vecuni{\perp}.
-\end{equation*}
-
-\noindent
-Thus,
-\begin{equation}\label{eq:1_56}
-\dot{\hat{\vec{e}}}_{a} = \dot{\varphi}\vecuni{\perp}.
-\end{equation}
-
-\noindent
-The quantity $\dot{\varphi}=\diffin{\varphi}{t}$ is the angular velocity of rotation of the vector $\vec{a}$ (see Sec.~\ref{sec:1_5}). The unit vector $\vecuni{\perp}$ is in the plane in which the vector $\vec{a}$ is rotating at the given moment, and its sense is in the direction of rotation.
+The crystallization of the elements of those classes proceeds in conformity with the ($8-N$)-rule: every atom in the lattice is surrounded
+by $8-N$ nearest neighbours, $N$ being the number of the group to which the element belongs. Thus diamond, silicon, germanium and gray tin are elements of Group IV of the Periodic Table. Therefore the coordination number of their lattices should be $8-4=4$. They all do have a tetrahedral lattice in which every atom is surrounded by $4$ nearest neighbours, as is shown in \fig{1_19}(a). Phosphorus, arsenic, antimony and bismuth belong to Groug V. Their coordination number is $8-5=3$. Every atom has $3$ nearest neighbours lying in a plane, as shown in \fig{1_19}(b). Their lattice has a laminate structure, with the atomic layers bonded by van der Waals forces.
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.95]{figures/cap_01/fig_1_19.pdf}
-		\caption[]{}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_19.pdf}
+		\caption[]{Crystal structure of chemical elements crystallizing in accordance with the $(8-N)$-rule: (a) --- elements of Group IVB; (b) --- elements of Group VB; (c) --- elements of Group VIB, (d) --- elements of Group VIIB.}
 		\label{fig:1_19}
 	\end{center}
 	\vspace{-0.7cm}
 \end{figure}
 
-\section{Velocity and Speed}\label{sec:1_3}
+Selenium and tellurium belong to Group VI and have a coordination number $2$. Their atoms form long spiral-shaped chains with each atom having two nearest neighbours [\fig{1_19}(c)]. The chains are bonded by van der Waals forces. Lastly, iodine belongs to Group VII [\fig{1_19}(d)] and has a coordination number $1$. The atoms in the iodine lattice are arranged in pairs bonded by van der Waals forces. This explains the high volatility of iodine.
 
-A point particle in motion travels along a certain line. The latter is called its path or trajectory\footnote{It must be noted that the concept of a trajectory can be applied only to a ``classical'' particle to which accurate values of its coordinate and momentum (\ie, velocity) can be ascribed at each moment of time. According to quantum mechanics, real particles can be characterized with the aid of a coordinate and momentum only with a certain accuracy. The limit of this accuracy is determined by the equation of Heisenberg's uncertainty principle: $\Delta x\Delta p\gtrsim\hbar$. Here $\Delta x$ is the uncertainty in the coordinate of a particle, $\Delta p$ is the uncertainty in its momentum, and $\hbar$ is Planck's constant $h$ divided by $2\pi$, \ie, $\hbar = h/2\pi = \SI{1.05e-34}{\joule\second}$. The sign $\gtrsim$ signifies ``greater than a value of the order of''. Replacing the momentum with the product of the mass and the velocity, we can write $\Delta x\Delta v\gtrsim\hbar/m$. It can be seen from this relation that the smaller the mass of a particle, the more uncertain do its coordinate and velocity become, and, consequently, the less applicable is the concept of trajectory. For macroscopic bodies (\ie, bodies formed by a very great number of molecules), the uncertainties in the coordinate and velocity do not exceed the practically attainable accuracy of measuring these quantities. Hence, the concept of trajectory may be applied to such bodies without any reservations. For microparticles (electrons, protons, neutrons, separate atoms and molecules), the concept of trajectory either cannot be applied at all, or can be applied with a limited accuracy, depending on the conditions in which motion occurs. For example, the motion o electrons in a cathode-ray tube can approximately be considered as occurring along certain trajectories.}. Depending on the shape of a trajectory, we distinguish rectilinear or straight motion, circular motion, curvilinear motion, etc.
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_20.pdf}
-			\caption[]{}
-			\label{fig:1_20}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_21.pdf}
-			\caption[]{}
-			\label{fig:1_21}
-		\end{center}
-	\end{minipage}
-%	\vspace{-0.7cm}
-\end{figure}
-
-Assume that a point particle (in the following we shall call it simply a particle for brevity's sake) travelled along a certain trajectory from point $1$ to point $2$ (\fig{1_20}). The path between points $1$ and $2$ measured along the trajectory is called the distance travelled by the particle. We shall denote it by the symbol $s$.
-
-The straight line between points $1$ and $2$, \ie, the shortest distance between these points, is called the displacement of the particle. We shall denote it by the symbol $\vec{r}_{12}$. Let us assume that a particle completes two successive displacements $\vec{r}_{12}$ and $\vec{r}_{23}$ (\fig{1_21}). It is natural to call such a displacement $\vec{r}_{13}$ the sum of the first two that leads to the same result as they do together. Thus, displacements are characterized by magnitude and direction and, besides, are added by using the parallelogram method. Hence, it follows that displacement is a vector.
-
-In everyday life, we use the terms \textbf{speed} and \textbf{velocity} interchangeably, but in physics there is an important distinction between them. Speed depends on the distance travelled, and velocity on the displacement. Speed is the distance travelled by a particle in unit time. If a particle travels identical distances during equal time intervals that may be as small as desired, its motion is called uniform. In this case, the speed of the particle at each moment can be calculated by dividing the distance $s$ by the time $t$.
-
-Velocity is a vector quantity characterizing not only how fast a particle travels along its trajectory, but also the direction in which the particle moves at each moment. Let us divide a trajectory into infinitely small portions of length $\mathrm{d}s$. An infinitely small displacement $\mathrm{d}r$ corresponds to each of these portions (\fig{1_22}). Dividing this displacement by the corresponding time interval $\mathrm{d}t$, we get the instantaneous velocity at the given point of the trajectory:
-\begin{equation}\label{eq:1_57}
-\vec{v} = \diff{\vec{r}}{t} = \dot{\vec{r}}.
-\end{equation}
-
-\noindent
-Thus, the velocity is the derivative of the position vector of the particle with respect to time. The displacement $\mathrm{d}r$ coincides with an infinitely small element of the trajectory. Consequently, the vector $\vec{v}$ is directed along a tangent to the trajectory (see \fig{1_22}).
+Such nature of the crystal structure of chemical elements whose crystallization conforms to the $(8-N)$-rule is quite understandable. The atoms of Group IV elements have $4$ electrons in their outer shell. They lack $4$ additional electrons to make up a stable $8$-electron configuration. They make up the deficit by exchanging electrons with $4$ nearest neighbours, as shown in \fig{1_19}(a), forming a strong covalent bond with each of them. Accordingly, every atom in the crystal lattice of those elements has $4$ nearest neighbours. In the same way the electron shells of Groups V, VI, VII are completed to contain $8$ electrons.
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.9]{figures/cap_01/fig_1_22.pdf}
-		\caption[]{}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_20.pdf}
+		\caption[]{Structure of quartz \ce{Si02} crystal.}
+		\label{fig:1_20}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+Many chemical compounds crystallize in crystals with covalent bonds. Quartz \ce{SiO2} may serve as a typical example. In the quartz crystal every silicon atom is surrounded by a tetrahedron of oxygen atoms (\fig{1_20}) bonded to the silicon atom by covalent bonds. Every oxygen atom is bonded to two silicon atoms thereby joining two tetrahedrons. In this way a three-dimensional net of \ce{Si-O-Si} bonds is formed, and the hardness and the melting point of the resulting crystal are high.
+
+It may be of interest to note that the \ce{Si-O-Si} bonds may be arranged into a one-dimensional chain. Such compounds described by the common formula
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[scale=0.95]{figures/ch_01/chemical_formula_quartz.pdf}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+\noindent
+where $R$ is an arbitrary organic group, are termed \textit{silicones}. The number $n$ in a chain may be as high as several million. The chains may be joined together with the aid of the lateral groups $R$. In this way new materials, silicone resins, are formed. Because of the high strength of the \ce{Si-O-Si} bonds and of the high flexibility of silicone chains such resins retain their properties at much lower and much higher temperatures than natural rubbers. This fact enables them to be used for thermal shielding of space ships and aircraft, as well as in extreme arctic conditions.
+
+\textbf{Class I.} This is the most populated class which contains metals. Since metallic lattices are made up not of atoms but of ions, having the spherical symmetry of the atoms of inert gases, it is to be expected that metals too should crystallize into the same tightly packed lattices as the inert gases. Indeed, the following three types of crystal lattices are characteristic for metals: the face-centered cubic lattice with the coordination number $12$ (see \fig{1_12}), the hexagonal
+close-packed (HCP) lattice with the coordination number $12$ (see
+\fig{1_18}) and the body-centered cubic lattice with the coordination number $8$ (see \fig{1_12}]. The latter is the least closely packed metal lattice.
+
+\textbf{Class II.} The chemical elements belonging to Class II are in a sense intermediate between metals and the Class III elements, which crystallize in conformity with the $(8-N)$-rule. For instance, the Group IIB elements \ce{Zn}, \ce{Cd} and \ce{Hg} are metals and one would expect them to have a typically metallic lattice with a high coordination number. Actually, \ce{Zn} and \ce{Cd} crystals are a special modification of the compact hexagonal lattice in which every atom has $6$ nearest neighbours instead of $12$, as required by the $(8-N)$-rule. These atoms occupy the base plane. In the case of mercury the $(8-N)$-rule is observed even more strictly: its crystal structure is a simple rhombohedral in which every atom is surrounded by $6$ nearest neighbours. Boron---an element of Group IIIB---has a lattice that may be described as a deformed lattice with $5$ nearest neighbours. This too agrees with the $(8-N)$-rule.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=0.95]{figures/ch_01/fig_1_21.pdf}
+		\caption[]{Structure of rock salt \ce{NaCl} crystal.}
+		\label{fig:1_21}
+	\end{center}
+	\vspace{-0.75cm}
+\end{figure}
+
+The ionic bond, as was stated above, plays one of the main parts in the world of inorganic compounds, in particular, in numerous ionic crystals typically represented by the rock salt crystal \ce{NaCl} (\fig{1_21}). In such crystals it is impossible to pick out single molecules. The crystal should be regarded as a closely packed system of positive and negative ions whose positions alternate so that the electrostatic attraction between the nearest neighbours would be at its maximum. With the most favourable relation between the radii of the positive (\ce{M+}) and the negative (\ce{X-}) ions which exists in the \ce{NaCl} crystal the ions ``touch'' one another [\fig{1_22}(a)] and the closest possible packing is achieved, in which every ion is surrounded by $6$ nearest neighbours of the opposite charge. When the ratio of the radii of the ions \ce{M+} and is less favourable [\fig{1_22}(b,c)] crystal structures with other coordination numbers, $4$ or $8$, are formed.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1.1]{figures/ch_01/fig_1_22.pdf}
+		\caption[]{Effect of relative dimensions of ions on their packing in the lattice.}
 		\label{fig:1_22}
 	\end{center}
-\vspace{-0.7cm}
+	\vspace{-0.7cm}
 \end{figure}
 
-Reasoning more strictly, to derive equation~\eqref{eq:1_57} we must proceed as follows.· Having fixed a certain moment of time $t$, let us consider the increment of the position vector $\Delta\vec{r}$ during the small time interval $\Delta t$\footnote{The symbol $\Delta$ (delta) is used in two cases: (a) for designating the increment of a quantity. In the case being considered, $\Delta\vec{r}$ is the increment of the position vector $\vec{r}$ during the time $\Delta t$; (b) for designating a fraction of a quantity. For example, $\Delta t$ is a fraction of the total time $t$ during which motion occurs, and $\Delta s$ is a fraction of the entire 	distance $s$ travelled by the particle.} following $t$ (\fig{1_23}). The ratio $\Delta\vec{r}/\Delta t$ gives the average value of the velocity during the time $\Delta t$. If we take smaller and smaller intervals $\Delta t$, the ratio $\Delta\vec{r}/\Delta t$ in the limit will give us the value of the velocity $\vec{v}$ at the moment $t$:
-\begin{equation}\label{eq:1_58}
-\vec{v} = \lim_{\Delta t\to 0} \frac{\Delta\vec{r}}{\Delta t} = \diff{\vec{r}}{t}.
-\end{equation}
+Ionic compounds of the \ce{MX2} type, such as \ce{CaCl2} and \ce{Na20}, have still more complex lattices. But the principle upon which they are built remains the same: the ions are packed so as to be surrounded by ions of the opposite sign in accordance with the formula of the compound and the ratio of their radii.
 
-\noindent
-We have arrived at equation~\eqref{eq:1_57}.
+Finally, let us consider crystals featuring the hydrogen bond. A typical representative of such crystals is ice. Figure \ref{fig:1_23}(a) shows a two-dimensional diagram of the arrangement of water molecules in an ice crystal: each molecule is surrounded by four nearest neighbours a distance $r_{\ce{OH}}=\SI{2.76}{\angstrom}$ away from it with whom it forms hydrogen bonds. In space the molecules occupy the vertices of a regular tetrahedron [\fig{1_23}(b)]. The combination of such tetrahedra forms the regular crystal structure of ice [\fig{1_23}(c)]. The structure is very loose and this is the cause of the abnormally low density of ice. Upon melting, some ($\sim 15\%$) of the hydrogen bonds are disrupted and the packing density of the water molecules rises somewhat with the resultant rise in the density of water: the density of ice at \SI{0}{\degreeCelsius} is \SI{916.8}{\kilo\gram\per\metre\cubed}, and the density of water at this temperature is \SI{999.87}{\kilo\gram\per\metre\cubed}.
 
-Let us find the magnitude of the expression~\eqref{eq:1_58}, \ie, the magnitude of the velocity $\vec{v}$:
-\begin{equation}\label{eq:1_59}
-v = |\vec{v}| = \left|\lim_{\Delta t\to 0} \frac{\Delta\vec{r}}{\Delta t}\right| = \lim_{\Delta t\to 0} \frac{|\Delta\vec{r}|}{\Delta t}.
-\end{equation}
-
-\noindent
-We cannot write $\Delta r$ instead of $|\Delta\vec{r}|$ in this formula. The vector $\Delta\vec{r}$ is in essence the difference between two vectors ($\vec{r}$ at the moment $t+\Delta t$ minus $\vec{r}$ at the moment $t$). Therefore, its magnitude may be written only with the aid of vertical
-bars [see \eqn{1_2}]. The symbol $|\Delta\vec{r}|$ signifies the magnitude of the increment of the vector $\vec{r}$, whereas $\Delta r$ is the increment of the magnitude of the vector $\vec{r}$, \ie, $\Delta|\vec{r}|$. These two quantities, generally speaking, do not equal each other:
-\begin{equation*}
-|\Delta\vec{r}| \neq \Delta|\vec{r}| = \Delta r.
-\end{equation*}
-
-\noindent
-The following example will illustrate this. Assume that the vector $\vec{r}$ receives such an increment $\Delta\vec{r}$ that its magnitude does not change, \ie, $|\vec{r}+\Delta\vec{r}|=|\vec{r}|$ (\fig{1_24}). Consequently, the increment of the magnitude of the vector equals zero ($\Delta|\vec{r}| = \Delta r = 0$). At the same time, the magnitude of the increment of the vector $\vec{r}$, \ie, $\Delta|\vec{r}|$, differs from zero (it equals the length of $2-3$). What has been said above holds for any vector $\vec{a}$: in the general case $\Delta|\vec{a}|\neq\Delta|a|$.
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.92]{figures/cap_01/fig_1_23.pdf}
-			\caption[]{}
-			\label{fig:1_23}
-		\end{center}
-	\end{minipage}
-	\hfill{ }%\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.9]{figures/cap_01/fig_1_24.pdf}
-			\caption[]{}
-			\label{fig:1_24}
-		\end{center}
-	\end{minipage}
-\vspace{-0.7cm}
-\end{figure}
-
-Inspection of \fig{1_23} shows that the distance $\Delta s$, generally speaking, differs in value from the magnitude of the displacement $|\Delta\vec{r}|$. If we take increments of the distance $\Delta s$ and the displacement $\Delta\vec{r}$ corresponding to smaller and smaller time intervals $\Delta t$, then the difference between $\Delta s$ and $|\Delta\vec{r}|$ will diminish, and their ratio in the limit will become equal to unity:
-\begin{equation*}
-\lim_{\Delta t\to 0} \frac{\Delta s}{|\Delta\vec{r}|} = 1. 
-\end{equation*}
-
-\noindent
-On these grounds, we can substitute $\Delta s$ for $|\Delta\vec{r}|$ in equation~\eqref{eq:1_59}, which gives us the expression
-\begin{equation}\label{eq:1_60}
-v = \lim_{\Delta t\to 0} \frac{\Delta s}{\Delta t} = \diff{s}{t}. 
-\end{equation}
-
-\noindent
-Thus, the magnitude of the velocity equals the derivative of the distance with respect to time.
-
-It is evident that the quantity which in everyday life we call the speed is actually the magnitude of the velocity $\vec{v}$. In uniform motion, the magnitude of the velocity remains constant ($v=\text{constant}$), whereas the direction of the vector $\vec{v}$ changes arbitrarily (in particular it may be constant).
-
-In accordance with \eqn{1_57}, the elementary displacement of a particle is
-\begin{equation}\label{eq:1_61}
-\mathrm{d}\vec{r} = \vec{v}\,\mathrm{d}{t}. 
-\end{equation}
-
-\noindent
-Sometimes for clarity's sake, we shall denote an elementary displacement by the symbol $\mathrm{d}\vec{s}$, \ie, write \eqn{1_61} in the form
-\begin{equation}\label{eq:1_62}
-\mathrm{d}\vec{s} = \vec{v}\,\mathrm{d}{t}. 
-\end{equation}
-
-The velocity vector, like any other vector, can be represented in the form
-\begin{equation}\label{eq:1_63}
-\vec{v} = v_x\vecuni{x} + v_y\vecuni{y} + v_z\vecuni{z}
-\end{equation}
-
-\noindent
-where $v_x, v_y, v_z$ are the projections of the vector $\vec{v}$ onto the coordinate axes. At the same time, the vector $\dot{\vec{r}}$ equal to $\vec{v}$, according to \eqn{1_43}, can be written as follows:
-\vspace{-12pt}
-\begin{equation}\label{eq:1_64}
-\dot{\vec{r}} = \dot{x}\vecuni{x} + \dot{y}\vecuni{y} + \dot{z}\vecuni{z}
-\end{equation}
-
-\noindent
-It follows from a comparison of Eqs.~\eqref{eq:1_63} and~\eqref{eq:1_64} that
-\begin{equation}\label{eq:1_65}
-v_x = \dot{x},\quad v_y = \dot{y},\quad v_z = \dot{z}.
-\end{equation}
-
-\noindent
-Consequently, the projection of the velocity vector onto a coordinate axis equals the time derivative of the relevant coordinate of the moving particle. Taking \eqn{1_10} into account, we get:
-\begin{equation}\label{eq:1_66}
-v = \sqrt{\dot{x}^2 + \dot{y}^2 + \dot{z}^2}.
-\end{equation}
-
-The velocity vector can be written in the form $\vec{v}=v\vecuni{v}$, where $v$ is the magnitude of the velocity, and $\vecuni{v}$ is the unit vector of $\vec{v}$. Let us introduce the unit vector $\hatvec{\tau}$ of the tangent to a trajectory with its sense the same as that of $\vec{v}$. Hence, obviously, the unit vectors $\vecuni{v}$ and $\hatvec{\tau}$ will coincide, and we can write the following expression:
-\vspace{-12pt}
-\begin{equation}\label{eq:1_67}
-\vec{v} = v\vecuni{v} = v\hatvec{\tau}.
-\end{equation}
-
-Let us obtain still another expression for $\vec{v}$. For this purpose, we shall introduce the position vector in the form of $\vec{r}=r\vecuni{r}$ into \eqn{1_57}. According to \eqn{1_49}, we have
-\begin{equation}\label{eq:1_68}
-\vec{v} = \dot{\vec{r}} = \dot{r}\vecuni{r} + r\dot{\hat{\boldsymbol{e}}}_r.
-\end{equation}
-
-\noindent
-We shall limit ourselves, for simplicity, to the case when the trajectory is a plane curve, \ie, a curve such that all its points are in a single plane. Let this plane be the plane $x, y$. In \eqn{1_68}, the vector $\vec{v}$ written in the form of two components (\fig{1_25}). The first of them, which we shall designate $\vec{v}_r$, is
-\begin{equation}\label{eq:1_69}
-\vec{v}_r = \dot{r}\vecuni{r}.
-\end{equation}
-
-\noindent
-It is directed along the position vector $\vec{r}$ and characterizes the rate of change of the magnitude of $\vec{r}$. The second component, which we shall designate $\vec{v}_{\varphi}$, is
-\begin{equation}\label{eq:1_70}
-\vec{v}_{\varphi} = r\dot{\hat{\boldsymbol{e}}}_r.
-\end{equation}
-
-\noindent
-It characterizes the rate of change of the direction of the position vector. 
+It may be of interest to note that if there was no hydrogen bond the melting point of ice would be \SI{-100}{\degreeCelsius} instead of \SI{0}{\degreeCelsius}.
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=1]{figures/cap_01/fig_1_25.pdf}
-		\caption[]{}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_23.pdf}
+		\caption[]{Crystals with hydrogen bond: (a) --- plane diagram of arrangement of water molecules in an ice crystal; (b) --- spatial arrangement of water molecules in an ice crystal; (c) --- crystal structure of ice.}
+		\label{fig:1_23}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+It should finally be stressed again that the hydrogen bond plays an extremely important part in vital biological compounds: protein molecules owe their helical shape exclusively to the hydrogen bond; the same type of bonds holds together the double helixes in the DNA. ``It is no exaggeration to claim that life on our planet would have assumed radically different forms---if any at all---were hydrogen bonding not present in water and in the proteins and nucleic acids that compose living cells and that transmit hereditary traits''\footnote{G. C. Pimentel and R. D. Spratley, \textit{Chemical Bonding Clarified Through
+Quantum Mechanics}, Holden-Day, San Francisco (1969), p. 261.}.
+
+Table \ref{table:A_2} of Appendix \ref{sec:A_iv} shows the general classification of solids. The upper left corner contains typical metals with collectivized electrons (silver, copper) and the upper right corner typical valence crystals with distinctly localized electron bonds. The extreme righthand part contains crystals with van der Waals bonds. Such elements as silicon and germanium occupy an intermediate position between the metals and the valence crystals. At absolute zero they are typical valence crystals; however, as temperature rises the valence bond is gradually disrupted and they begin to exhibit metallic properties. Such solids as sulphur, phosphorus, and selenium occupy an intermediate position between the valence crystals and crystals with the van der Waals bond.
+
+The lower left corner of the diagram contains alloys of the \ce{NiCu} type with the characteristic metallic bond and the lower right corner ---ionic crystals (sodium chloride). Intermediate positions between them are occupied by numerous intermetallic compounds of the \ce{Mg3Sb2} type featuring the ionic bond (\ce{Mg3Sb2} corresponds to a \ce{Mg^{+2}-Sb^{-3}} compound). Intermediate position between the ionic and the valence crystals is occupied by such compounds as \ce{SiO2} and \ce{SiC}, with bonds of partially ionic nature made possible because of electron displacement. Compounds of the \ce{FeS} and the \ce{TiO2} (titanium dioxide) type occupy an intermediate position between ionic crystals and crystals with the van der Waals bond.
+
+There are a great many crystals in which ionic or covalent bonds act in atomic planes while the bonds between the planes are of the van der Waals type.
+
+\section{Polymorphism}\label{sec:1_11}
+
+Some solids have two or more crystal structures each of which is stable in an appropriate range of temperatures and pressures. Such structures are termed \textit{polymorphic modifications}, or \textit{polymorphs},
+and the transition from one modification to another, \textit{polymorphic
+transformation}.
+
+It is the practice to denote polymorphic modifications by Greek letters: the modification stable at normal and lower temperatures is denoted by \ce{\alpha}; modifications stable at higher temperatures are denoted by the letters \ce{\beta}, \ce{\gamma}, \ce{\delta}, etc. The polymorphism of tin may serve as a classical example. Below \SI{13.3}{\degreeCelsius} the stable modification of tin is \ce{\alpha-Sn}, which has a tetragonal cubic lattice of the diamond type. This is the so-called gray tin. It is brittle and may easily be ground to powder. Above \SI{13.3}{\degreeCelsius} \ce{\alpha-Sn} transforms into \ce{\beta-Sn}, which has a body-centered tetragonal lattice. This is the familiar white metallic tin, a rather ductile metal. The transformation from \ce{\beta-Sn} to \ce{\alpha-Sn} is accompanied by a considerable increase in specific volume (by about 25\%). Long ago when many things were made of tin, the perplexing phenomenon of growing bulges on them and their subsequent destruction following excessive cooling was attributed to a mysterious metal disease, the ``tin plague''.
+
+Many other chemical elements also exhibit polymorphism: carbon, iron, nickel, cobalt, tungsten, titanium, boron, berillium, and others, as well as many chemical compounds and alloys.
+
+An interesting and a practically important case of polymorphism is that of carbon, which exists in the forms of diamond and graphite.
+
+This case deserves a more detailed study. In the diamond lattice every atom is surrounded by $4$ nearest neighbours occupying the vertices of a tetrahedron (see \fig{1_14}) with whom it is bonded by strong covalent forces. The length of the bond is \SI{1.544}{\angstrom} and the energy per bond is about \SI{3.5e5}{\joule\per\mole}.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1.0]{figures/ch_01/fig_1_24.pdf}
+		\caption[]{Crystal structure of graphite.}
+		\label{fig:1_24}
+	\end{center}
+	\vspace{-0.7cm}
+\end{figure}
+
+The graphite lattice is of the pattern characteristic of the Group VB element lattices: the carbon atoms form two-dimensional layers in which every atom is surrounded by $3$ nearest neighbours with whom it is bonded by covalent bonds (\fig{1_24}). The length of the bond is $r_{01}=\SI{1.42}{\angstrom}$, that is, less than in the diamond lattice, therefore the former is stronger. The distance between the layers is much greater than the length of the \ce{C-C} bond, being equal to $r_{02}=\SI{3.6}{\angstrom}$. Only weak van der Waals forces can act at such great distances and the layers are held together by them. The energy of this bond is \SIrange{4e3}{8e3}{\joule\per\mole}.
+
+Such a great difference in the nature of the bonding forces in the diamond and graphite structures should evidently manifest itself in a great difference in their properties, which is actually the case. Graphite slides easily along the planes held together by weak van der Waals forces. Therefore it is used to advantage in making ``lead'' pencils and as dry lubricant. The electrons in diamond are held securely between the atoms forming bonds. Light of the visible part of the spectrum is unable to knock out such electrons and therefore is not absorbed in diamond. Because of this diamond is an ideal transparent crystal unable to conduct electric current (a dielectric). In graphite one of the four valence electrons of the carbon atom is actually collectivized by the atoms forming the layer. Such electrons can easily be moved by the action of an external electric field, making graphite a two-dimensional conductor. The presence of mobile electrons explains light absorption (the gray colour of graphite) and its characteristic metallic glitter.
+
+In normal conditions graphite is a somewhat more stable modification than diamond, although the difference in the energies of those modifications is quite small---of the order of \SI{2e3}{\joule\per\mole}:
+\begin{equation*}
+	\ce{C \text{(diamond)} -> C \text{(graphite)}},\quad \Delta{U} = \SI{-1.88e3}{\joule\per\mole}.
+\end{equation*}
+
+Still, such a difference is enough to bring about a sufficiently rapid transformation of diamond into graphite when heated above \SI{1000}{\degreeCelsius} in the absence of air.
+
+The density of diamond is greater than that of graphite ($3500$ and \SI{2250}{\kilo\gram\per\metre\cubed}, respectively), which is due to a loose packing of the atomic layers in graphite. Therefore at greater pressures diamond becomes more stable and graphite less stable. At sufficiently high pressures diamond becomes more stable than graphite. In such conditions by raising the temperature to increase the mobility of the carbon atoms we may bring about the transformation of graphite into diamond.
+
+The conditions for such transformation to proceed at a practical rate were calculated by the Soviet physicist O. I. Leipunskii. He writes: ``Firstly, graphite should be heated to at least \SI{2000}{\degreeCelsius} for the carbon atoms to be able to move from place to place. Secondly, it must be subjected to very high pressure, not less than \SI{60000}{\atm}''\footnote{Leipunskii, O. I.: Quoted from I. I. Shafranovskii, \textit{Diamonds}, ``Nauka'', Moscow (1964).}. These conditions were first achieved by the scientists of the General Electric Research and Development Center, who in 1954 succeeded in producing the first synthetic diamonds in the form of dark unsightly crystals, the largest being \SI{1.5}{\milli\metre} long. Subsequently, the synthesis of diamonds was mastered in Sweden, the Netherlands, and Japan.
+
+In the Soviet Union the production of synthetic diamonds on a comercial scale began in 1961. The pressure in the process is of the order of \SI{100000}{\atm} and the temperature about \SI{2000}{\degreeCelsius}. Synthetic diamonds produced by this process are harder and stronger than natural diamonds and their industrial use is about 40\% more efficient than that of natural ones.
+
+Another material of extreme hardness had been synthesized in a process similar to that of the diamond---the cubic boron nitride \ce{BN}, which became known as \textit{borazon}. It is harder than diamond and may be heated up to \SI{2000}{\degreeCelsius} in atmospheric conditions. In its hexagonal modification boron nitride is similar to graphite---a white powder oily to the touch.
+
+From the theoretical point of view all solids should exhibit polymorphism provided the range of their stability is not limited by the processes of melting and sublimation. The existence of polymorphism is a direct consequence of the variation of the strength and the nature of the bonds in the crystal lattice caused by the changes in intensity of atomic motion and in the distance between them as a result of heating or of application of external pressure to the crystal. Close to absolute zero the stable structure should be that with the strongest bonds possible for the given atomic ensemble. In the case of tin, which belongs to Group IV of the Mendeleev periodic table, such structure is the diamond structure, in which every atom is bonded to $4$ nearest neighbours by strong covalent bonds. However, as the temperature is raised, those bonds, because of their strict directionality and rigidity, are easily destroyed by thermal motion, and already above \SI{13.3}{\degreeCelsius} the flexible metallic structure formed with the aid of collectivized electrons becomes more favourable. This bond has its own stable crystal structure, the tetragonal body-centred lattice.
+
+The transition from one modification to another is accompanied by the liberation or absorption of latent heat of transformation and is therefore a phase transition of the first kind. Such a transition involves the transformation of the crystal lattice and this fact together with a low mobility of atoms in solids makes possible a practically infinitely long existence of a modification thermodynamically unstable in particular conditions. Diamond which can exist ages without turning into graphite---the stable modification in normal conditions---is a striking example of this point.
+
+Polymorphism is very important for practical purposes. Heat treatment of steels to obtain various properties, the production of stainless steels, the treatment of various alloys to obtain the necessary properties are all to a large extent based on the use of polymorphism.
+
+\section{Imperfections and defects of the crystal lattice}\label{sec:1_12}
+
+\textbf{Mosaic structure.} Numerous data obtained in the study of the structure of real crystals point to the fact that their internal structure is essentially not the same as that of an ideal crystal. To begin with, real crystals have a \textit{mosaic structure}: they are made up of regular blocks which are only approximately parallel to one another. The dimensions of the blocks vary from \SIrange{e-6}{e-8}{\metre} and the angles between them from several seconds to tens of minutes. Because of the different orientation of adjacent blocks there is a transition layer between them in which the lattice changes its orientation gradually from that of the first block to that of the second. Therefore in this layer the lattice is deformed as compared with that of an ideal crystal.
+
+Lattice deformations are even greater near the grain boundaries in a polycrystal, since the orientation of adjacent grains may differ by as much as tens of degrees. The grain and block boundaries carry excess free energy, which increases the rate of chemical reactions, of polymorphic transformations, of diffusion, etc. They also serve as effective carrier scattering centres responsible for a considerable part of the solid's (metal or semiconductor) electrical resistance.
+
+\textbf{Frenkel defects.} The distribution of energy among the atoms of a solid is very nonuniform, as is the case with the molecules of a gas or liquid. At any temperature there are atoms in the crystal whose energy is many times greater or less than the average energy corresponding to the law of equipartition of energy. The atoms that at a given instant of time have enough energy can not only move a considerable distance away from their position of equilibrium, but can also surmount the potential barrier set up by the neighbouring atoms and move over to new neighbours, to a new cell. Such atoms acquire the capability, so to say, to ``evaporate'' from their lattice sites and to ``condense'' in its internal cavities, or interstitials [\fig{1_25}(a)]. This process results in the creation of a vacant site (a \textit{vacancy}) and of an atom in the interstitial position (a \textit{displaced atom}). Such lattice defects are termed \textit{Frenkel defects}.
+
+\begin{figure}[t]
+	\begin{center}
+		\includegraphics[scale=1.1]{figures/ch_01/fig_1_25.pdf}
+		\caption[]{Crystal lattice defects: (a) --- Frenkel defects; (b), (c) --- Schottky defects.}
 		\label{fig:1_25}
 	\end{center}
 	\vspace{-0.7cm}
 \end{figure}
 
-Using \eqn{1_56}, we can write that
-\begin{equation*}
-\dot{\hat{\boldsymbol{e}}}_r = \diff{\varphi}{t}\vecuni{\varphi} = \dot{\varphi}\vecuni{\varphi}
-\end{equation*}
-
-\noindent
-where $\varphi$ is the angle between the position vector and the $x$-axis, and $\vecuni{\varphi}$ is a unit vector perpendicular to the position vector with its sense in the direction of growth of the angle $\varphi$ [in \eqn{1_56} the symbol $\vecuni{\perp}$ was used for this unit vector]. Using this value in \eqn{1_70}, we get:
-\begin{equation}\label{eq:1_71}
-\vec{v}_{\varphi} = r\dot{\varphi}\vecuni{\varphi}.
+Calculation shows the equilibrium concentration of interstitial atoms $\ab{n}{F}$ at a given temperature to be
+\begin{equation}\label{eq:1_18}
+	\ab{n}{F} = A N \exp\parenthesis{-\frac{\ab{E}{F}}{\ab{k}{B}T}}
 \end{equation}
 
 \noindent
-We have introduced the symbols $\vec{v}_{\varphi}$ and $\vecuni{\varphi}$ to underline the fact that the component $\vec{v}_{\varphi}$ and the corresponding unit vector are related to a change in the angle $\varphi$.
+where $\ab{E}{F}$ is the formation energy of the interstitial whose order of magnitude is several electron volts, $N$ is the number of sites in the given volume, $A$ is an integer (usually about $1$) indicating the
+number of identical interstitial positions per one lattice atom, and $\ab{k}{B}$ is the Boltzmann constant.
 
-The vectors $\vec{v}_r$ and $\vec{v}_{\varphi}$ are obviously mutually perpendicular. Hence,
-\begin{equation}\label{eq:1_72}
-v = \sqrt{v_r^2 + v_{\varphi}^2} = \sqrt{\dot{r}^2 + r^2\dot{\varphi}^2}.
-\end{equation}
+Both the interstitial atoms and the vacancies do not remain localized in one place but diffuse through the lattice. The diffusion of a displaced atom proceeds by the motion of this atom from one interstitial position to another, and the diffusion of a vacancy by a relay process in which the vacancy is filled by neighbouring atoms [\fig{1_25}(a)]: when atom $2$ moves into vacancy $1$ the vacancy moves over to site $2$, when atom $3$ moves to the now vacant site $2$ the vacancy moves to site $3$, etc.
 
-Now let us consider how to calculate the distance travelled by a particle from the moment of time $t_1$ to $t_2$ if we know the speed at each moment. Let us divide the interval $t_2-t_1$ into $N$ small, but not necessarily equal intervals: $\Delta t_1$, $\Delta t_2$, \ldots, $\Delta t_N$. The total distance $s$ travelled by a particle can be represented as the sum of the distances $\Delta s_1$, $\Delta s_2$, \ldots, $\Delta s_N$ travelled during the relevant time intervals $\Delta t$:
-\begin{equation*}
-s = \Delta s_1 + \Delta s_2 + \ldots + \Delta s_N = \sum_{i=1}^{N} \Delta s_i.
-\end{equation*}
-
-\noindent
-In accordance with \eqn{1_60}, each of the addends can approximately be represented in the form
-\begin{equation*}
-\Delta s_i \approx v_i \Delta t_i
-\end{equation*}
-
-\noindent
-where $\Delta t_i$ is the time interval during which the distance $\Delta s_i$ was travelled, and $v_i$ is one of the values of the speed during the time $\Delta t_i$. Hence,
-\begin{equation}\label{eq:1_73}
-s \approx \sum_{i=1}^{N} v_i \Delta t_i.
+\textbf{Schottky defects.} In addition to internal evaporation there is also a possibility of a partial or even complete evaporation of an atom from the surface of a crystal. Complete evaporation means that the atom leaves the crystal surface and joins the vapour phase [\fig{1_25}(b)]. Partial evaporation means that the atom leaves the surface layer and arranges itself on top of it [\fig{1_25}(c)]. In both cases a vacancy is produced in the surface layer. But when an atom from the interior of a crystal occupies a vacancy, the latter is pulled into the crystal and diffuses there. Here there are no displaced atoms to correspond to the vacancies, since the latter are produced without the simultaneous transition of atoms to interstitial positions. Such vacancies are termed \textit{Schottky defects}. Calculations show the equilibrium number of vacancies $\ab{n}{Scn}$ in a crystal of $N$ sites to be
+\begin{equation}\label{eq:1_19}
+	\ab{n}{Scn} = N \exp\parenthesis{-\frac{\ab{E}{Scn}}{\ab{k}{B}T}}
 \end{equation}
 
 \noindent
-This expression will be obeyed more accurately with diminishing time intervals $\Delta t_i$. In the limit when all the $\Delta t_i$'s tend to zero (the number of intervals $\Delta t_i$ will correspondingly grow unlimitedly), the approximate equation will become accurate:
-\begin{equation*}
-s = \lim_{\Delta t_i\to 0} \sum_{i=1}^{N} v_i \Delta t_i.
-\end{equation*}
+where $\ab{E}{Scn}$ is the energy of formation of a single vacancy. It is somewhat lower than $\ab{E}{F}$. For instance, for aluminium it is equal to \SI{0.75}{\electronvolt}. Substituting this value into \eqref{eq:1_19}, we obtain $\ab{n}{Scn}\approx\SI{e18}{\per\metre\cubed}$ at $T=\SI{300}{\kelvin}$; at $T=\SI{923}{\kelvin}$, that is, close to the melting point of aluminium ($\ab{T}{m}=\SI{933}{\kelvin}$), $\ab{n}{Scn}\approx\SI{e25}{\per\metre\cubed}$.
+Such values are characteristic of all metals at temperatures close to their melting points.
 
-This expression is a definite integral of the function $v(t)$ taken within the limits from $t_1$ to $t_2$. Thus, the distance travelled by a particle during the interval from $t_1$ to $t_2$ is
-\begin{equation}\label{eq:1_74}
-s = \int_{t_1}^{t_2} v(t)\,\mathrm{d}t.
-\end{equation}
+The energy of formation of the Frenkel defects is approximately equal to the sum of formation energies of the vacancy and the interstitial atom.
 
-\noindent
-It must be underlined that here we are speaking of the speed. If we take an integral of the velocity $\vec{v}(t)$, we get the vector of the displacement of the particle from the point where it was at the moment $t_1$ to the point where it was at the moment $t_2$:
-\begin{equation}\label{eq:1_75}
-\int_{t_1}^{t_2} v(t)\,\mathrm{d}t = \int_{t_1}^{t_2} \mathrm{d}\vec{r} = \vec{r}_{12}
-\end{equation}
+The Frenkel and Schottky defects play an important part in many processes in crystals. They act as carrier scattering centres reducing their mobility. They can also act as sources of carrier production, that is, play the role of donors and acceptors (usually the latter). They can also appreciably affect optical, magnetic, mechanical, and thermodynamic properties of crystals, especially of thin semiconducting films and fine crystalline specimens (because defect concentration in them is usually much greater than in bulk specimens).
 
-\noindent
-[see \eqn{1_61}].
+\textbf{Impurities.} Impurities are one of the most important and most common type of detects in the structure of real crystals. Contemporary refining methods are unable to guarantee absolute purity of materials. Even the most pure materials contain up to \num{e-9} percent of impurities, which corresponds to a concentration of about \num{e17} impurity atoms per cubic metre of the material. To illustrate this degree of purity we would like to cite an equivalent example of one grain of rye contained in about $10$ tons of wheat.
 
-If we plot the dependence of $v$ on $t$ (\fig{1_26}), then the distance travelled can be represented as the area of the figure confined between the curve $v(t)$, the straight lines $t = t_1$ and $t = t_2$, and the $t$-axis. Indeed, the product $v_i\Delta t_i$ numerically equals the area of the $i$-th strip. The sum \eqn{1_73} equals the area of the figure confined on top by the broken line formed by the top edges of all such strips. When all the $\Delta t_i$'s tend to zero, the width of a strip diminishes (their number grows simultaneously), and the broken line will coincide with the curve $v = v(t)$ in the limit. Thus, the distance travelled during the time from the moment $t_1$ to the moment $t_2$ numerically equals the area confined between the curve of the function $v = v(t)$, the time axis, and the straight lines $t = t_1$ and $t = t_2$. 
+The impurities contained in the crystal may, depending on their nature, be in the form of dissolved atoms or in the form of inclusions of various dimensions. In the process of dissolution the impurity atoms enter the interstitial positions between the atoms of the crystal or substitute some of them in their sites. The solid solution of the first type is termed the \textit{interstitial solution} [\fig{1_26}(a)] and that of the second the \textit{substitution solution} [\fig{1_26}(b)]. Because of a difference in the physical nature and the dimensions of the impurity atoms from the atoms of the crystal, their presence results in the deformation of the crystal lattice.
+
+Impurities may appreciably affect chemical, optical, magnetic, and mechanical properties of solids. They are effective carrier scattering centres, being the cause of electrical resistance that does not vanish at absolute zero temperature. In semiconductor crystals the impurities create new energy levels leading to the appearance of impurity conductivity. Calculations show that a perfectly pure silicon should have a specific resistance of the order of \SI{2000}{\ohm\metre}. Active impurities contained in it in a concentration of \num{e-9} percent reduce the resistivity to several units. Technically pure germanium was for a long time regarded as a metal because its resistivity was of the same order as that of metals. Only perfect refining methods that brought impurity concentration in germanium down to \num{e-7}-\num{e-8} percent made it a typical semiconductor.
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=1]{figures/cap_01/fig_1_26.pdf}
-		\caption[]{}
+		\includegraphics[scale=1.1]{figures/ch_01/fig_1_26.pdf}
+		\caption[]{Deformations of crystal lattice of solid solutions: (a) --- interstitial; (b) --- substitution.}
 		\label{fig:1_26}
 	\end{center}
-	\vspace{-0.8cm}
-\end{figure}
-
-It should be noted that the average value of the speed during
-the time from $t = t_1$ to $t = t_2$, by definition, is
-\begin{equation*}
-\average{v} = \frac{s}{t_2-t_1}.
-\end{equation*}
-
-\noindent
-(The symbol $\langle\rangle$ embracing the $v$ indicates an average.) Introducing into this equation the expression~\eqref{eq:1_74} for $s$, we get
-\begin{equation}\label{eq:1_76}
-\average{v} = \frac{1}{t_2-t_1}\,\int_{t_1}^{t_2}v(t)\,\mathrm{d}t.
-\end{equation}
-
-\noindent
-The average values of any scalar or vector functions are calculated in a similar way. For example, the average value of the velocity is
-\begin{equation}\label{eq:1_77}
-\average{\vec{v}} = \frac{1}{t_2-t_1}\,\int_{t_1}^{t_2}\vec{v}(t)\,\mathrm{d}t = \frac{\vec{r}_{12}}{t_2-t_1}.
-\end{equation}
-
-\noindent
-[see \eqn{1_75}]. The average value of the function $y(x)$ within the interval from $x_1$ to $x_2$ is determined by the expression
-\begin{equation}\label{eq:1_78}
-\average{y} = \frac{1}{t_2-t_1}\,\int_{x_1}^{x_2}y(t)\,\mathrm{d}x.
-\end{equation}
-
-\section{Acceleration}\label{sec:1_4}
-
-The velocity $\vec{v}$ of a particle can change with time both in magnitude and in direction. The rate of change of the vector $\vec{v}$, like the rate of change of any function of time, is determined by the derivative of the vector $\vec{v}$ with respect to $t$. Denoting this derivative by the symbol $\vec{a}$, we get:
-\begin{equation}\label{eq:1_79}
-\vec{a} = \lim_{\Delta t\to 0}\frac{\Delta\vec{v}}{\Delta t} = \diff{\vec{v}}{t} = \dot{\vec{v}}.
-\end{equation}
-
-\noindent
-The quantity determined by equation~\eqref{eq:1_79} is called the \textbf{acceleration} of the particle.
-
-It must be noted that the acceleration $\vec{a}$ plays the same part with respect to $\vec{v}$ as the vector $\vec{v}$ does with respect to the position vector $\vec{r}$.
-
-Equal vectors have identical projections onto the coordinate axes. Consequently, for example,
-\begin{equation*}
-a_x = \left(\diff{\vec{v}}{t}\right)_{\text{pr. }\vec{x}} = \diff{v_x}{t} = \dot{v}_x
-\end{equation*}
-
-\noindent
-[see Eqs.~\eqref{eq:1_40}]. At the same time according to Eqs.~\eqref{eq:1_65}, we have $v_x=\dot{x}=\diffin{x}{t}$. Therefore,
-\begin{equation*}
-\diff{v_x}{t} = \frac{\mathrm{d}}{\mathrm{d}t} \left(\diff{x}{t}\right) = \diffsec{x}{t} = \ddot{x}.
-\end{equation*}
-
-\noindent
-What we have obtained is that the projection of the acceleration vector onto the $x$-axis equals the second derivative of the coordinate $x$ with respect to time: $a_x=\ddot{x}$. Similar expressions are obtained for the projections of the acceleration onto the $y$- and $z$-axes. Thus,
-\begin{equation}\label{eq:1_80}
-a_x=\ddot{x},\quad a_y=\ddot{y},\quad a_z=\ddot{z}.
-\end{equation}
-
-Using \eqn{1_67} for $\vec{v}$ in~\eqref{eq:1_79}, we get:
-\begin{equation}\label{eq:1_81}
-\vec{a} = \diff{(v\hatvec{\tau})}{t}.
-\end{equation}
-
-\noindent
-We remind our reader that $\hatvec{\tau}$ is the unit vector of a tangent to a trajectory having the same direction as $\vec{v}$. According to \eqn{1_49},
-\begin{equation}\label{eq:1_82}
-\vec{a} = \dot{v}\hatvec{\tau} + v\dot{\hatvec{\tau}}.
-\end{equation}
-
-\noindent
-Hence, the vector $\vec{a}$ can be represented in the form of the sum of two components. One of them has the direction $\hatvec{\tau}$, \ie, is tangent to the trajectory. It is therefore designated $\vec{a}_{\hatvec{\tau}}$ and is called the \textbf{tangential acceleration}. It equals
-\begin{equation}\label{eq:1_83}
-\vec{a}_{\hatvec{\tau}} = \dot{v}\hatvec{\tau}.
-\end{equation}
-
-\noindent
-The second component equal to $v\dot{\hatvec{\tau}}$ is directed, as we shall show below, along a normal to the trajectory. It is therefore designated $\vec{a}_{\hatvec{n}}$ and is called the \textbf{normal acceleration}. Thus,
-\begin{equation}\label{eq:1_84}
-\vec{a}_{\hatvec{n}} = v\dot{\hatvec{\tau}}.
-\end{equation}
-
-In studying the properties of the two components, we shall restrict ourselves for the sake of simplicity to the case when the trajectory is a plane curve.
-
-The magnitude of the tangential acceleration~\eqref{eq:1_83} is
-\begin{equation}\label{eq:1_85}
-\vec{a}_{\hatvec{\tau}} = |\dot{v}|.
-\end{equation}
-
-\noindent
-If $\dot{v}>0$ (the velocity grows in magnitude), then the vector $\vec{a}_{\hatvec{\tau}}$ has the same direction as $\hatvec{\tau}$ (\ie, the same direction as $\vec{v}$). If $\dot{v}<0$ (the velocity decreases with time), then the vectors $\vec{v}$ and $\vec{a}_{\hatvec{\tau}}$ have opposite directions. In uniform motion, $\dot{v}=0$, and, therefore, tangential acceleration is absent.
-
-To determine the properties of the normal acceleration [\eqn{1_84}], we must find out what $\dot{\hatvec{\tau}}$, \ie, the rate of change with time of the direction of a tangent to the trajectory, is determined by. It is easy to understand that this rate will grow with an increasing curvature of the trajectory and a higher velocity of a particle along it. 
-
-The degree of bending of a plane curve is characterized by its curvature $C$ determined by the expression
-\begin{equation}\label{eq:1_86}
-C = \lim_{\Delta t\to 0} \frac{\Delta\varphi}{\Delta s} = \diff{\varphi}{s}
-\end{equation}
-
-\noindent
-where $\Delta\varphi$ is the angle between tangents to the curve at points spaced $\Delta s$ apart (\fig{1_27}). Thus, the curvature determines the rate of turning of a tangent in motion along a curve.
-
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=1]{figures/cap_01/fig_1_27.pdf}
-		\caption[]{}
-		\label{fig:1_27}
-	\end{center}
 	\vspace{-0.7cm}
 \end{figure}
 
+Interesting results were obtained in the course of investigations into the properties of extremely pure metals. Thus thoroughly purified iron turned out to be chemically inert and immune to corrosion even in conditions of tropical humidity. Titanium, chromium, bismuth, tungsten, molybdenum, which had a reputation for brittleness, turned out to be ductile even in conditions of extreme cooling; tin purified to contain no more than \num{5e-6} percent impurities is so soft that it bends under its own weight like dough.
 
-The reciprocal of the curvature $C$ is called the \textbf{radius of curvature} at the given point of the curve and is designated $R$:
-The degree of bending of a plane curve is characterized by its curvature $C$ determined by the expression
-\begin{equation}\label{eq:1_87}
-R = \frac{1}{C} = \lim_{\Delta\varphi\to 0} \frac{\Delta s}{\Delta\varphi} = \diff{s}{\varphi}.
-\end{equation}
+Some striking results were obtained in dehydration experiments: materials dried so as to contain negligible amounts of residual moisture change their properties in a marked degree. Thus dried oxyhydrogen gas does not explode at high temperatures; carbon monoxide does not burn in oxygen; sulphuric acid does not react with alkali metals, etc. The English chemist H. B. Baker sealed $11$ thoroughly purified individual chemical compounds in glass tubes together with phosphoric anhydride (a powerful absorber of water). The tubes were opened $9$ years later in conditions that precluded the admission of moisture. The results were startling: the boiling point of all the compounds rose appreciably. For instance, the boiling point of benzol turned out to be \SI{26}{\degreeCelsius} higher than that specified in tables, that of ethyl alcohol was \SI{60}{\degreeCelsius} higher, that of bromine was \SI{59}{\degreeCelsius} higher, and that of mercury was almost \SI{100}{\degreeCelsius} higher. Subsequent experiments carried out by other investigators substantiated those results. More than that, it was established that very dry materials not only change their boiling point but melting point and other properties as well.
 
-\noindent
-The radius of curvature is the radius of a circle that coincides at the given spot with the curve on an infinitely small portion of it. The centre of this circle is defined as the centre of curvature for the given point of the curve.
-
-The radius and centre of curvature at point $1$ (see \fig{1_27}) can be determined as follows. Take point $1'$ near point $1$. Draw the tangents $\hatvec{\tau}$ and $\hatvec{\tau}'$ at these points. The perpendiculars to the tangents will intersect at a certain point $0'$. We must note that for a curve which is not a circle the distances $R'$ and $R''$ will differ somewhat from each other. If point $1'$ is brought closer to point $1$, the point of intersection $0'$ of the perpendiculars will move along the straight line $R'$ and in the limit will be at point $0$. It is exactly the latter that will be the centre of curvature for point $1$. The distances $R'$ and $R"$ will tend to a common limit $R$ equal to the radius of curvature. Indeed, if points $1$ and $1'$ are close to each other, we can write that $\Delta\varphi\approx\Delta s/R'$ or $R' \approx \Delta s/\Delta\varphi$. In the limit when $\Delta\varphi\to 0$, this approximate equation will transform into the strict equation $R=\diffin{s}{\varphi}$ coinciding with the definition of the radius of curvature [see \eqn{1_87}].
-
-Let us now turn to the calculation of an [see \eqn{1_84}]. According to \eqn{1_56},
-\begin{equation}\label{eq:1_88}
-\dot{\hatvec{\tau}} = \diff{\varphi}{t}\hatvec{n}
-\end{equation}
-
-\noindent
-where $\hatvec{n}$ is the unit vector of the normal to the trajectory with its sense in the direction of rotation of the vector $\hatvec{\tau}$ when a particle travels along the trajectory [in \eqn{1_56} a similar unit vector was designated $\vecuni{\perp}$]. The quantity $\diffin{\varphi}{t}$ can be related to the radius of curvature of the trajectory and the speed of the particle $\vec{v}$. It follows from \fig{1_27} that
-\begin{equation*}
-\Delta\varphi\approx \frac{\Delta s}{R'} = \frac{v'\,\Delta t}{R'}
-\end{equation*}
-
-\noindent
-where $\Delta\varphi$ is the angle of rotation of the vector $\hatvec{\tau}$ during the time $\Delta t$ (coinciding with the angle between the perpendiculars $R'$ and $R''$), and $v'$ is the average speed over the distance $\Delta s$. Hence,
-\begin{equation*}
-\frac{\Delta\varphi}{\Delta s} \approx \frac{v'}{R'}.
-\end{equation*}
-
-\noindent
-In the limit when $\Delta t$ tends to zero, the approximate equation will become a strict one, the average speed $v'$ will transform into the instantaneous speed $v$ at point $1$, and $R'$ will become the radius of curvature $R$. As a result, we get the equation
-\begin{equation}\label{eq:1_89}
-\diff{\varphi}{t} = \frac{v}{R} = vC
-\end{equation}
-
-\noindent
-($C$ is the curvature). Hence, the rate of rotation of the velocity vector, as we assumed, is proportional to the curvature of the trajectory and the speed of a particle along its trajectory.
-
-Using \eqn{1_89} in~\eqref{eq:1_88}, we find that $\dot{\hatvec{\tau}}=(v/R)\hatvec{n}$. And at last, introducing this expression into \eqn{1_84}, we arrive at the final equation for the normal acceleration:
-\vspace{-12pt}
-\begin{equation}\label{eq:1_90}
-\vec{a}_{\hatvec{n}} = \diff{v^2}{R}\hatvec{n}.
-\end{equation}
-
-Thus, the acceleration vector when a particle travels along a plane curve is determined by the following expression:
-\begin{equation}\label{eq:1_91}
-\vec{a} = \vec{a}_{\hatvec{\tau}} + \vec{a}_{\hatvec{n}} = \dot{v}\hatvec{\tau} + \frac{v^2}{R}\hatvec{n}.
-\end{equation}
-
-\noindent
-The magnitude of the vector $\vec{a}$ is
-\begin{equation}\label{eq:1_92}
-a = \sqrt{a_{\hatvec{\tau}}^2 + a_{\hatvec{n}}^2} = \sqrt{\dot{v}^2 + \left(\frac{v^2}{R}\right)^2}.
-\end{equation}
-
-In rectilinear motion, the normal acceleration is absent. It must be noted that an vanishes at the inflection point of a curvilinear trajectory (at point IP in \fig{1_28}). At both sides of this point, the vectors $\vec{a}_{\hatvec{n}}$ have different directions. The vector $\vec{a}_{\hatvec{n}}$ cannot change in a jump. Its direction reverses smoothly, and it becomes equal to zero at the inflection point. Assume that a particle is travelling uniformly with an acceleration constant in magnitude. Since in uniform motion the magnitude of the velocity does not change, we have $\vec{a}_{\hatvec{\tau}}=0$, so that $\vec{a}=\vec{a}_{\hatvec{n}}$. The constant magnitude of an signifies that $v^2/R=\text{constant}$. Hence, we conclude that $R=\text{constant}$ ($v=\text{constant}$ because the motion is uniform). This means that the particle is travelling along a curve of constant curvature, \ie, a circle. Thus, when the acceleration of a particle is constant in magnitude and is directed at each moment of time at right angles to the velocity vector, the trajectory of the particle will be a circle.
-
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=0.95]{figures/cap_01/fig_1_28.pdf}
-		\caption[]{}
-		\label{fig:1_28}
-	\end{center}
-	\vspace{-0.6cm}
-\end{figure}
-
-%\begin{figure}[t]
-%	\begin{minipage}[t]{0.5\linewidth}
-%		\begin{center}
-%			\includegraphics[scale=0.95]{figures/cap_01/fig_1_28.pdf}
-%			\caption[]{}
-%			\label{fig:1_28}
-%		\end{center}
-%	\end{minipage}
-%	\hfill{ }%\hspace{-0.1cm}
-%	\begin{minipage}[t]{0.5\linewidth}
-%		\begin{center}
-%			\includegraphics[scale=0.95]{figures/cap_01/fig_1_29.pdf}
-%			\caption[]{}
-%			\label{fig:1_29}
-%		\end{center}
-%	\end{minipage}
-%	\vspace{-0.4cm}
-%\end{figure}
-
-\section{Circular Motion}\label{sec:1_5}
-
-The rotation of a body through a certain angle $\varphi$ can be given in the form of a straight line whose length is $\varphi$ and whose direction coincides with the axis about which the body is rotating. To indicate the direction of rotation about a given axis, it is related to the line depicting rotation by the \textbf{right-hand screw rule}: the line should be directed so that when looking along it (\fig{1_29}) we see clockwise rotation (when rotating the head of a right-hand screw clockwise, we cause it to move away from us). We showed in Sec.~\ref{sec:1_2} (see \fig{1_4}) that rotations through finite angles are not added by the parallelogram method and are therefore not vectors. Matters are different for rotations through very small angles $\Delta\vec{\varphi}$. The distance travelled by any point of a body when rotated through a very small angle can be considered as a straight line (\fig{1_30}). Consequently, two small circular motions $\Delta\vec{\varphi}_1$ and $\Delta\vec{\varphi}_2$ performed sequentially, as can be seen from the figure, result in the same displacement $\Delta\vec{r}_3=\Delta\vec{r}_1+\Delta\vec{r}_2$ of any point of the body as the circular motion $\Delta\vec{\varphi}_3$ obtained from $\Delta\vec{\varphi}_1$ and $\Delta\vec{\varphi}_2$ by addition using the parallelogram method. Hence it follows that very small circular motions can be considered as vectors (we shall denote these vectors by $\Delta\vec{\varphi}$ or $\mathrm{d}\vec{\varphi}$). The direction of the rotation vector is associated with the direction of rotation of a body. Consequently, $\mathrm{d}\vec{\varphi}$ is not a true vector, but a pseudovector.
-
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=0.95]{figures/cap_01/fig_1_29.pdf}
-		\caption[]{}
-		\label{fig:1_29}
-	\end{center}
-	\vspace{-0.7cm}
-\end{figure}
-
-The vector quantity
-\begin{equation}\label{eq:1_93}
-\vec{\omega} = \lim_{\Delta t\to 0} \frac{\Delta\vec{\varphi}}{\Delta t} = \diff{\vec{\varphi}}{t}
-\end{equation}
-
-\noindent
-(where $\Delta t$ is the time during which the circular motion $\Delta\vec{\varphi}$ is performed) is called the angular velocity of a body\footnote{The velocity $\vec{v}$ considered in Sec.~\ref{sec:1_3} is sometimes called linear.}. The angular velocity $\vec{\omega}$ is directed along the axis about which the body is rotating in a direction determined by the right-hand screw rule (\fig{1_31}) and is a pseudovector. The magnitude of the angular velocity, \ie, the angular speed, equals $\diffin{\varphi}{t}$. Circular motion at a constant angular velocity is called uniform. For uniform circular motion, we have $\omega=\varphi t$, where $\varphi$ is the finite angle of rotation during the time $t$ (compare with $v=s/t$). Thus, in uniform circular motion, $\omega$ shows the angle through which a body rotates in unit time.
-
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_30.pdf}
-			\caption[]{}
-			\label{fig:1_30}
-		\end{center}
-	\end{minipage}
-	\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=0.95]{figures/cap_01/fig_1_31.pdf}
-			\caption[]{}
-			\label{fig:1_31}
-		\end{center}
-	\end{minipage}
-	\vspace{-0.5cm}
-\end{figure}
-
-Uniform circular motion can be characterized by the \textbf{period of revolution} $T$. It is defined as the time  during which a body completes one revolution, i.e. rotates through the angle \SI{2\pi}{\radian}, or \SI{360}{\degree}. Since the time interval $\Delta t=T$ corresponds to the angle of rotation $\Delta\varphi=2\pi$, we have
-\begin{equation}\label{eq:1_94}
-\omega = \frac{2\pi}{T}
-\end{equation}
-
-\noindent
-whence
-\begin{equation}\label{eq:1_95}
-T = \frac{2\pi}{\omega}.
-\end{equation}
-
-The number of revolutions in unit time $\nu$ is evidently equal to
-\begin{equation}\label{eq:1_96}
-\nu = \frac{1}{T} = \frac{\omega}{2\pi}.
-\end{equation}
-
-\noindent
-It follows from \eqn{1_96} that the angular velocity equals $2\pi$ multiplied by the number of revolutions per unit time:
-\begin{equation}\label{eq:1_97}
-\omega = 2\pi\nu.
-\end{equation}
-
-The concepts of the period of revolution and the number of revolutions per unit time can also be retained for non-uniform circular motion. Here, we must understand the instantaneous value of $T$ to signify the time during which a body would perform one revolution if it rotated uniformly with the given instantaneous value of the angular velocity, and $\nu$ to signify the number of revolutions which a body would complete in unit time in similar conditions.
-
-The vector $\vec{\omega}$ may vary either as a result of a change in the speed of rotation of a body about its axis (in this case it changes in magnitude), or as a result of turning of the axis of rotation in space (in this case $\vec{\omega}$ changes in direction). Assume that during the time $\Delta t$ the vector $\vec{\omega}$ receives the increment $\Delta\vec{\omega}$. The change in the angular velocity vector with time is characterized by the quantity
-\begin{equation}\label{eq:1_98}
-\vec{\alpha} = \lim_{\Delta t\to 0} \frac{\Delta\vec{\omega}}{t} = \diff{\vec{\omega}}{t}
-\end{equation}
-
-\noindent
-called the \textbf{angular acceleration}. The latter, like the angular velocity, is a pseudovector.
-
-%\begin{figure}[t]
-%	\begin{center}
-%		\includegraphics[scale=1]{figures/cap_01/fig_1_32.pdf}
-%		\caption[]{}
-%		\label{fig:1_32}
-%	\end{center}
-%\vspace{-0.7cm}
-%\end{figure}
-\begin{figure}[t]
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_32.pdf}
-			\caption[]{}
-			\label{fig:1_32}
-		\end{center}
-	\end{minipage}
-	\hspace{-0.1cm}
-	\begin{minipage}[t]{0.5\linewidth}
-		\begin{center}
-			\includegraphics[scale=1]{figures/cap_01/fig_1_33.pdf}
-			\caption[]{}
-			\label{fig:1_33}
-		\end{center}
-	\end{minipage}
-	\vspace{-0.6cm}
-\end{figure}
-
-Different points of a body in circular motion have different linear velocities $\vec{v}$. The velocity of each point continuously changes its direction. The speed $v$ is determined by the speed of rotation of the body $\omega$ and the distance $R$ to the point being considered from the axis of rotation. Assume that during a small interval of time the body turned through the angle $\Delta\varphi$ (\fig{1_32}). The point at the distance $R$ from the axis travels the path $\Delta s=R\Delta\varphi$. The linear speed of the point is
-\begin{equation*}
-v = \lim_{\Delta t\to 0} \frac{\Delta s}{\Delta t} = \lim_{\Delta t\to 0} R\frac{\Delta\varphi}{\Delta t} = R \lim_{\Delta t\to 0} \frac{\Delta\varphi}{\Delta t} = R\diff{\varphi}{t} = R\omega.
-\end{equation*}
-
-\noindent
-Thus,
-\begin{equation}\label{eq:1_99}
-v = \omega R.
-\end{equation}
-
-Equation~\eqref{eq:1_99} relates the linear and the angular speeds. Let us find an expression relating the relevant velocities $\vec{v}$ and $\vec{\omega}$. We shall determine the position of the point of the body being considered by the position vector $\vec{r}$ drawn from the origin of coordinates on the axis of rotation (\fig{1_33}). Examination of the figure shows that the vector product $\vecprod{\omega}{r}$ coincides in direction with the vector $\vec{v}$ and its magnitude is $\omega r\sin\alpha=\omega R$. Hence,
-\begin{equation}\label{eq:1_100}
-\vec{v} = \vecprod{\omega}{r}.
-\end{equation}
-
-%\begin{figure}[t]
-%	\begin{center}
-%		\includegraphics[scale=1]{figures/cap_01/fig_1_33.pdf}
-%		\caption[]{}
-%		\label{fig:1_33}
-%	\end{center}
-%	\vspace{-0.7cm}
-%\end{figure}
-
-The normal acceleration of the points of a rotating body is $\vec{a}_{\hatvec{n}}=v^2/R$. Introducing into this expression the value of $v$ from \eqn{1_99}, we get
-\begin{equation}\label{eq:1_101}
-a_{\hatvec{n}} = \omega^2 R.
-\end{equation}
-
-\noindent
-If we introduce the vector $\vec{R}$ drawn to the given point of the body from the axis of rotation at right angles to the latter (see \fig{1_33}), then \eqn{1_101} can be given a vector form:
-\begin{equation}\label{eq:1_102}
-\vec{a}_{\hatvec{n}} = -\omega^2 \vec{R}.
-\end{equation}
-
-\noindent
-There is a minus sign in this formula because the vectors $\vec{a}_{\hatvec{n}}$ and $\vec{R}$ have opposite directions.
-
-Let us assume that the axis of rotation of a body does not turn in space. According to \eqn{1_85}, the magnitude of the tangential acceleration is $|\diffin{v}{t}|$. Using equation~\eqref{eq:1_99} and taking into account that the distance to the point being considered from the axis of rotation $R=\text{constant}$, we can write
-\begin{equation*}
-a_{\hatvec{\tau}} = \left| \lim_{\Delta t\to 0} \frac{\Delta v}{\Delta t} \right| = \left| \lim_{\Delta t\to 0} \frac{\Delta(\omega R)}{\Delta t} \right| = R \left| \lim_{\Delta t\to 0} \frac{\Delta(\omega)}{\Delta t} \right| = R\alpha
-\end{equation*}
-
-\noindent
-where $\alpha$, is the magnitude of the angular acceleration. Consequently, the magnitude of the tangential acceleration is related to the magnitude of the angular acceleration as follows:
-\begin{equation}\label{eq:1_103}
-a_{\hatvec{\tau}} = \alpha R.
-\end{equation}
-
-Thus, the normal and tangential accelerations grow linearly with an increasing distance to a point from the axis of rotation.
+Despite substantial progress in the field of production of ultrapure materials there is a growing demand for better purification methods and presently there will be a need for materials with impurity concentrations
+of no more than \num{e-10}-\num{e-12} percent. This applies in the first instance to materials used for thermonuclear fusion apparatus, to microelectronics materials, as well as to materials used in other branches of industry. Such materials are not only difficult to produce but also difficult to keep pure, especially if they have to be processed before use. To illustrate how easy it is to make a mistake while working with such materials we would like to cite a case told by the well-known German physicist Werner Heisenberg. When a target was irradiated with a flux of neutrons in a mass spectrometer, gold nuclei were detected. This effect vanished after the experimenter took off and put away his gold-rimmed eyeglasses.

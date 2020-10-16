@@ -1,0 +1,15 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Preface}{vii}{chapter*.1}% 
+\contentsline {chapter}{\numberline {1}Bonding. The Internal Structure of Solids}{1}{chapter.1}% 
+\contentsline {section}{\numberline {\S ~1}The van der Waals forces}{1}{section.1.1}% 
+\contentsline {section}{\numberline {\S ~2}The ionic bond}{5}{section.1.2}% 
+\contentsline {section}{\numberline {\S ~3}The covalent bond}{7}{section.1.3}% 
+\contentsline {section}{\numberline {\S ~4}The metallic bond}{11}{section.1.4}% 
+\contentsline {section}{\numberline {\S ~5}The hydrogen bond}{12}{section.1.5}% 
+\contentsline {section}{\numberline {\S ~6}Comparison between bonds of various kinds}{13}{section.1.6}% 
+\contentsline {section}{\numberline {\S ~7}Forces of repulsion}{14}{section.1.7}% 
+\contentsline {section}{\numberline {\S ~8}Crystal lattice}{15}{section.1.8}% 
+\contentsline {section}{\numberline {\S ~9}Notation to describe sites, directions, and planes in a crystal}{19}{section.1.9}% 
+\contentsline {section}{\numberline {\S ~10}Classification of solids based on the nature of bonds}{21}{section.1.10}% 
+\contentsline {section}{\numberline {\S ~11}Polymorphism}{27}{section.1.11}% 
+\contentsline {section}{\numberline {\S ~12}Imperfections and defects of the crystal lattice}{30}{section.1.12}% 

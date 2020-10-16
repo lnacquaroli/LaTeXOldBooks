@@ -1,0 +1,992 @@
+PWD C:\Users\flvisa\Desktop\lna\latexify_books\solid_state_physics_epifanov
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT epifanov_solid_state_physics.tex
+OUTPUT epifanov_solid_state_physics.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\cochineal.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\cochineal.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mweights\mweights.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mweights\mweights.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mweights\mweights.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\inconsolata\inconsolata.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\inconsolata\inconsolata.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\cabin.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\cabin.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\newtxmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\centernot.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\binhex\binhex.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\binhex\binhex.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mathalpha\mathalfa.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mathalpha\mathalfa.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mathalpha\mathalpha.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mathalpha\mathalpha.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chemfig\chemfig.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chemfig\chemfig.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\chemfig\chemfig.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\simplekv\simplekv.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\threeparttable\threeparttable.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\threeparttable\threeparttable.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT .\nul:.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-cd\tikz-cd.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-cd\tikz-cd.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-cd\tikzlibrarycd.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-cd\tikzlibrarycd.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryquotes.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryquotes.code.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\newfloat.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\newfloat.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\emptypage\emptypage.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\emptypage\emptypage.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chngcntr\chngcntr.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\chngcntr\chngcntr.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\dialogue.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\dialogue.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\blkcntrl.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\blkcntrl.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\moredefs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\moredefs.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\lips.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\frankenstein\lips.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\t1cochineal-osf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\t1cochineal-osf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT epifanov_solid_state_physics.aux
+INPUT epifanov_solid_state_physics.aux
+OUTPUT epifanov_solid_state_physics.aux
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\omlzcochmi.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\omlzcochmi.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxexa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT epifanov_solid_state_physics.out
+INPUT epifanov_solid_state_physics.out
+INPUT epifanov_solid_state_physics.out
+INPUT epifanov_solid_state_physics.out
+OUTPUT epifanov_solid_state_physics.pdf
+INPUT .\epifanov_solid_state_physics.out
+INPUT .\epifanov_solid_state_physics.out
+OUTPUT epifanov_solid_state_physics.out
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\ot1cochineal-tlf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\ot1cochineal-tlf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\t1cabin-tlf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\t1cabin-tlf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\inconsolata\t1zi4.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\inconsolata\t1zi4.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT figures\ssp_fc.pdf
+INPUT .\figures\ssp_fc.pdf
+INPUT 00_title.tex
+INPUT 00_title.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
+INPUT figures\mirlogo.pdf
+INPUT .\figures\mirlogo.pdf
+INPUT .\figures\mirlogo.pdf
+INPUT .\figures\mirlogo.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT 00_preface.tex
+INPUT 00_preface.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\impallari\cabin\Cabin-Regular-tlf-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
+INPUT epifanov_solid_state_physics.toc
+INPUT epifanov_solid_state_physics.toc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
+OUTPUT epifanov_solid_state_physics.toc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT 01_bonding_internal_structure_of_solids.tex
+INPUT 01_bonding_internal_structure_of_solids.tex
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT figures\ch_01\fig_1_1.pdf
+INPUT .\figures\ch_01\fig_1_1.pdf
+INPUT .\figures\ch_01\fig_1_1.pdf
+INPUT .\figures\ch_01\fig_1_1.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\t1cochineal-sup.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\t1cochineal-sup.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-sup-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-sup-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs7.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-sup-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-sup-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-sup-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-sup-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\stxscr.tfm
+INPUT figures\ch_01\fig_1_2.pdf
+INPUT .\figures\ch_01\fig_1_2.pdf
+INPUT .\figures\ch_01\fig_1_2.pdf
+INPUT .\figures\ch_01\fig_1_2.pdf
+INPUT figures\ch_01\fig_1_3.pdf
+INPUT .\figures\ch_01\fig_1_3.pdf
+INPUT .\figures\ch_01\fig_1_3.pdf
+INPUT .\figures\ch_01\fig_1_3.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\newtx\ntxsy7.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT figures\ch_01\fig_1_4.pdf
+INPUT .\figures\ch_01\fig_1_4.pdf
+INPUT .\figures\ch_01\fig_1_4.pdf
+INPUT .\figures\ch_01\fig_1_4.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmia.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMRM.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaSTbb.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT figures\ch_01\fig_1_5.pdf
+INPUT .\figures\ch_01\fig_1_5.pdf
+INPUT .\figures\ch_01\fig_1_5.pdf
+INPUT .\figures\ch_01\fig_1_5.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT figures\ch_01\fig_1_6.pdf
+INPUT .\figures\ch_01\fig_1_6.pdf
+INPUT .\figures\ch_01\fig_1_6.pdf
+INPUT .\figures\ch_01\fig_1_6.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\newtx\ntxsym.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\txfonts\txsyb.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\txfonts\txsya.tfm
+INPUT figures\ch_01\fig_1_7.pdf
+INPUT .\figures\ch_01\fig_1_7.pdf
+INPUT .\figures\ch_01\fig_1_7.pdf
+INPUT .\figures\ch_01\fig_1_7.pdf
+INPUT figures\ch_01\fig_1_8.pdf
+INPUT .\figures\ch_01\fig_1_8.pdf
+INPUT .\figures\ch_01\fig_1_8.pdf
+INPUT .\figures\ch_01\fig_1_8.pdf
+INPUT figures\ch_01\fig_1_9.pdf
+INPUT .\figures\ch_01\fig_1_9.pdf
+INPUT .\figures\ch_01\fig_1_9.pdf
+INPUT .\figures\ch_01\fig_1_9.pdf
+INPUT figures\ch_01\fig_1_10.pdf
+INPUT .\figures\ch_01\fig_1_10.pdf
+INPUT .\figures\ch_01\fig_1_10.pdf
+INPUT .\figures\ch_01\fig_1_10.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT figures\ch_01\fig_1_11.pdf
+INPUT .\figures\ch_01\fig_1_11.pdf
+INPUT .\figures\ch_01\fig_1_11.pdf
+INPUT .\figures\ch_01\fig_1_11.pdf
+INPUT figures\ch_01\fig_1_12.pdf
+INPUT .\figures\ch_01\fig_1_12.pdf
+INPUT .\figures\ch_01\fig_1_12.pdf
+INPUT .\figures\ch_01\fig_1_12.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochbmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochBMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXBMI.tfm
+INPUT figures\ch_01\fig_1_13.pdf
+INPUT .\figures\ch_01\fig_1_13.pdf
+INPUT .\figures\ch_01\fig_1_13.pdf
+INPUT .\figures\ch_01\fig_1_13.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Bold-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochbmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxbexa.tfm
+INPUT figures\ch_01\fig_1_14.pdf
+INPUT .\figures\ch_01\fig_1_14.pdf
+INPUT .\figures\ch_01\fig_1_14.pdf
+INPUT .\figures\ch_01\fig_1_14.pdf
+INPUT figures\ch_01\fig_1_15.pdf
+INPUT .\figures\ch_01\fig_1_15.pdf
+INPUT .\figures\ch_01\fig_1_15.pdf
+INPUT .\figures\ch_01\fig_1_15.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\cochineal\zcochbmi.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\cochBMI.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\NewTXBMI.tfm
+INPUT figures\ch_01\fig_1_16.pdf
+INPUT .\figures\ch_01\fig_1_16.pdf
+INPUT .\figures\ch_01\fig_1_16.pdf
+INPUT .\figures\ch_01\fig_1_16.pdf
+INPUT figures\ch_01\fig_1_17.pdf
+INPUT .\figures\ch_01\fig_1_17.pdf
+INPUT .\figures\ch_01\fig_1_17.pdf
+INPUT .\figures\ch_01\fig_1_17.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\ts1cochineal-osf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex\latex\cochineal\ts1cochineal-osf.fd
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-ts1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-ts1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-ts1.tfm
+INPUT figures\ch_01\fig_1_18.pdf
+INPUT .\figures\ch_01\fig_1_18.pdf
+INPUT .\figures\ch_01\fig_1_18.pdf
+INPUT .\figures\ch_01\fig_1_18.pdf
+INPUT figures\ch_01\fig_1_19.pdf
+INPUT .\figures\ch_01\fig_1_19.pdf
+INPUT .\figures\ch_01\fig_1_19.pdf
+INPUT .\figures\ch_01\fig_1_19.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT figures\ch_01\fig_1_20.pdf
+INPUT .\figures\ch_01\fig_1_20.pdf
+INPUT .\figures\ch_01\fig_1_20.pdf
+INPUT .\figures\ch_01\fig_1_20.pdf
+INPUT figures\ch_01\chemical_formula_quartz.pdf
+INPUT .\figures\ch_01\chemical_formula_quartz.pdf
+INPUT .\figures\ch_01\chemical_formula_quartz.pdf
+INPUT .\figures\ch_01\chemical_formula_quartz.pdf
+INPUT figures\ch_01\fig_1_21.pdf
+INPUT .\figures\ch_01\fig_1_21.pdf
+INPUT .\figures\ch_01\fig_1_21.pdf
+INPUT .\figures\ch_01\fig_1_21.pdf
+INPUT figures\ch_01\fig_1_22.pdf
+INPUT .\figures\ch_01\fig_1_22.pdf
+INPUT .\figures\ch_01\fig_1_22.pdf
+INPUT .\figures\ch_01\fig_1_22.pdf
+INPUT figures\ch_01\fig_1_23.pdf
+INPUT .\figures\ch_01\fig_1_23.pdf
+INPUT .\figures\ch_01\fig_1_23.pdf
+INPUT .\figures\ch_01\fig_1_23.pdf
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-ot1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmi.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\impallari\cabin\Cabin-Regular-tlf-t1.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\inconsolata\t1-zi4r-7.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\cochineal\zcochmia.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\flvisa\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT figures\ch_01\fig_1_24.pdf
+INPUT .\figures\ch_01\fig_1_24.pdf
+INPUT .\figures\ch_01\fig_1_24.pdf
+INPUT .\figures\ch_01\fig_1_24.pdf
+INPUT figures\ch_01\fig_1_25.pdf
+INPUT .\figures\ch_01\fig_1_25.pdf
+INPUT .\figures\ch_01\fig_1_25.pdf
+INPUT .\figures\ch_01\fig_1_25.pdf
+INPUT figures\ch_01\fig_1_26.pdf
+INPUT .\figures\ch_01\fig_1_26.pdf
+INPUT .\figures\ch_01\fig_1_26.pdf
+INPUT .\figures\ch_01\fig_1_26.pdf
+INPUT figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT figures\ssp_bc.pdf
+INPUT .\figures\ssp_bc.pdf
+INPUT epifanov_solid_state_physics.aux
+INPUT .\epifanov_solid_state_physics.out
+INPUT .\epifanov_solid_state_physics.out
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cochineal\coch_ts1.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cochineal\coch_crbsby.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cochineal\coch_ermyhb.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cochineal\coch_zetixv.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cabin\cbn_i3ioen.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\cochineal\coch_in37z4.enc
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\impallari\cabin\Cabin-Bold.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\impallari\cabin\Cabin-Bold.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\impallari\cabin\Cabin-Regular.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\impallari\cabin\Cabin-Regular.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Bold.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Bold.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Italic.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Italic.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Roman.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\Cochineal-Roman.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochBMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochBMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochMI.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochMRM.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\cochineal\cochMRM.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\rsfs\rsfs10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\rsfs\rsfs10.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txexs.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txexs.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txmiaX.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txmiaX.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\txfonts\txsya.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\txfonts\txsya.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txsys.pfb
+INPUT C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\newtx\txsys.pfb
