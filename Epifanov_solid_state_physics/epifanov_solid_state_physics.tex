@@ -40,7 +40,7 @@
 \newcommand{\hatvec}[1]{\hat{\boldsymbol{#1}}}
 \newcommand{\final}{\text{final}}
 \newcommand{\inicial}{\text{inicial}}
-\newcommand{\fig}[1]{Fig.~\ref{fig:#1}}
+\newcommand{\fig}[1]{Figure \ref{fig:#1}}
 \newcommand{\eqn}[1]{Eq.~\eqref{eq:#1}}
 \newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
 \newcommand{\vecdotind}[4]{\boldsymbol{#1}_{#2}\boldsymbol{\cdot}\boldsymbol{#3}_{#4}}
@@ -63,6 +63,7 @@
 \newcommand{\diffpartial}[2]{\dfrac{\uppartial#1}{\uppartial#2}}
 \newcommand{\diffsecpartial}[2]{\dfrac{\uppartial^2#1}{\uppartial#2^2}}
 \newcommand{\mr}{m_{\text{r}}}
+\newcommand{\diffnpartial}[3]{\dfrac{\uppartial^{#3}#1}{\uppartial#2^{#3}}}
 \newcommand{\bra}[1]{\left.\left\langle #1 \right.\right|}
 \newcommand{\ket}[1]{\left|\left\. #1 \right\rangle\right.}
 \newcommand{\average}[1]{\left\langle #1 \right\rangle}
@@ -73,6 +74,7 @@
 \newcommand{\amr}{A_{\text{r}}}
 \newcommand{\mmr}{M_{\text{r}}}
 \newcommand{\ab}[2]{#1_{\text{#2}}}
+\newcommand{\abc}[3]{#1_{\text{#2}}^{\text{#3}}}
 \newcommand{\parenthesis}[1]{\left(#1\right)}
 \newcommand{\bracket}[1]{\left[#1\right]}
 \newcommand{\bracet}[1]{\left\{#1\right\}}
@@ -115,10 +117,6 @@
 \usepackage{nicefrac}
 \usepackage{soul}
 
-\renewcommand\thesection{\S~\arabic{section}}
-%\renewcommand\thechapter{\Roman{chapter}}
-%\renewcommand\thepart{\Alph{part}}
-
 \usepackage{etoolbox}
 % Make fancyhdr chapter first page
 \patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
@@ -138,6 +136,16 @@
 \renewcommand{\chaptermark}[1]{\markboth{\ #1}{}}
 %\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
 \renewcommand{\sectionmark}[1]{\markright{#1}{}}
+
+% Resetea el figure numbering para cada seccion
+%\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
+\usepackage{chngcntr}
+\counterwithin{figure}{chapter}
+\counterwithout{section}{chapter}
+
+\renewcommand\thesection{\S~\arabic{section}}
+%\renewcommand\thechapter{\Roman{chapter}}
+%\renewcommand\thepart{\Alph{part}}
 
 \usepackage{titlesec}
 
@@ -187,7 +195,7 @@
 \setcounter{secnumdepth}{1}
 
 \usepackage{caption}
-\usepackage[labelfont={color=black!80,small,bf}, textfont={color=black!80,small}, figurename=Fig.]{caption}
+\usepackage[labelfont={color=black!80,footnotesize,bf,sf}, textfont={color=black!80,small}, figurename=Figure]{caption}
 
 \usepackage[shortlabels]{enumitem}
 \setlist{nosep}
@@ -204,11 +212,6 @@
 % Suppresses page numbers and headings from appearing on empty pages
 \usepackage{emptypage}
 \usepackage{pdfpages}
-
-% Resetea el figure numbering para cada seccion
-%\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
-\usepackage{chngcntr}
-\counterwithin{figure}{chapter}
 
 \usepackage{dialogue}
 \usepackage{lips}
@@ -244,14 +247,14 @@
 % \cleardoublepage
 \input{01_bonding_internal_structure_of_solids}
 \cleardoublepage
-% \input{02_dynamics_point_particle}
-% \cleardoublepage
-% \input{03_laws_of_conservation}
-% \cleardoublepage
-% \input{04_non_inertial_reference_frames}
-% \cleardoublepage
-% \input{05_mechanics_of_a_rigid_body}
-% \cleardoublepage
+\input{02_mechanical_properties_of_solids}
+\cleardoublepage
+\input{03_elements_of_physical_statistics}
+\cleardoublepage
+\input{04_thermal_properties_of_solids}
+\cleardoublepage
+\input{05_the_band_theory_of_solids}
+\cleardoublepage
 % \input{06_universal_gravitation}
 % \cleardoublepage
 % \input{07_oscillatory_motion}
@@ -259,22 +262,6 @@
 % \input{08_relativistic_mechanics}
 % \cleardoublepage
 % \input{09_hydrodynamics}
-%
-% \part{MOLECULAR PHYSICS AND THERMODYNAMICS}\label{part:B}
-% \cleardoublepage
-% \input{10_general_information}
-% \cleardoublepage
-% \input{11_statistical_physics}
-% \cleardoublepage
-% \input{12_thermodynamics}
-% \cleardoublepage
-% \input{13_the_crystalline_state}
-% \cleardoublepage
-% \input{14_the_liquid_state}
-% \cleardoublepage
-% \input{15_phase_equilibria_and_transitions}
-% \cleardoublepage
-% \input{16_physical_kinetics}
 % \cleardoublepage
 % \input{A_appendices}
 
