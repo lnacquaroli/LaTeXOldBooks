@@ -15,6 +15,7 @@
 \usepackage[T1]{fontenc}
 % load babel here
 \usepackage[english]{babel}
+\usepackage[protrusion=true,expansion]{microtype}
 \usepackage[p,osf,swashQ,sups]{cochineal}
 \usepackage[varqu,varl,var0]{inconsolata}
 \usepackage[scale=.95,type1]{cabin}
@@ -26,9 +27,9 @@
 \numberwithin{equation}{chapter}
 
 \usepackage{xcolor}
-\definecolor{brownfigs}{rgb}{0.7607843137254902,0.5607843137254902,0.2823529411764706}
-\definecolor{bluefigs}{rgb}{0.2392156862745098,0.403921568627451,0.4823529411764706}
-\definecolor{greyfigs}{rgb}{0.6509803921568627,0.6549019607843137,0.6392156862745098}
+\definecolor{brownfigs}{rgb}{0.6196078431372549,0.4705882352941176,0.403921568627451}
+\definecolor{bluefigs}{rgb}{0.3137254901960784,0.3843137254901961,0.4392156862745098}
+\definecolor{greenfigs}{rgb}{0.2274509803921569,0.2862745098039216,0.2470588235294118}
 
 \let\oldvec=\vec % \oldvec tiene la flecha
 \renewcommand{\vec}[1]{\boldsymbol{#1}}
@@ -286,10 +287,10 @@
 \cleardoublepage
 \input{01_electric_field_in_a_vacuum}
 \cleardoublepage
-% \input{02_dynamics_point_particle}
-% \cleardoublepage
-% \input{03_laws_of_conservation}
-% \cleardoublepage
+\input{02_electric_field_in_dielectrics}
+\cleardoublepage
+\input{03_conductors_in_an_electric_field}
+\cleardoublepage
 % \input{04_non_inertial_reference_frames}
 % \cleardoublepage
 % \input{05_mechanics_of_a_rigid_body}

@@ -16,3 +16,18 @@
 \contentsline {section}{\numberline {1.12}Circulation and Curl of an Electrostatic Field}{43}{section.1.12}% 
 \contentsline {section}{\numberline {1.13}Gauss's Theorem}{45}{section.1.13}% 
 \contentsline {section}{\numberline {1.14}Calculating Fields with the Aid of Gauss's Theorem}{47}{section.1.14}% 
+\contentsline {chapter}{\numberline {2}ELECTRIC FIELD IN DIELECTRICS}{53}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Polar and Non-Polar Molecules}{53}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Polarization of Dielectrics}{55}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}The Field Inside a Dielectric}{56}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Space and Surface Bound Charges}{57}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Electric Displacement Vector}{62}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Examples of Calculating the Field in Dielectrics}{65}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Conditions on the Interface Between Two Dielectrics}{70}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Forces Acting on a Charge in a Dielectric}{73}{section.2.8}% 
+\contentsline {section}{\numberline {2.9}Ferroelectrics}{74}{section.2.9}% 
+\contentsline {chapter}{\numberline {3}CONDUCTORS IN AN ELECTRIC FIELD}{77}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Equilibrium of Charges on a Conductor}{77}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}A Conductor in an External Electric Field}{80}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Capacitance}{80}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Capacitors}{82}{section.3.4}% 
