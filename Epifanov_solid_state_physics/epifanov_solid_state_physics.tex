@@ -24,7 +24,7 @@
 \usepackage{amsmath}
 %\usepackage{amssymb}
 \numberwithin{equation}{chapter}
-\usepackage{mathrsfs}
+%\usepackage{mathrsfs}   %%%%% use \mathcal instead
 \usepackage{anyfontsize}
 \usepackage{chemfig}
 
@@ -59,6 +59,8 @@
 \newcommand{\diffin}[2]{\upd#1/\upd#2}
 \newcommand{\diff}[2]{\dfrac{\upd#1}{\upd#2}}
 \newcommand{\diffsec}[2]{\dfrac{\upd^2#1}{\upd#2^2}}
+\newcommand{\diffn}[3]{\dfrac{\upd^{#3}#1}{\upd#2^{#3}}}
+\newcommand{\diffnin}[3]{\upd^{#3}#1/\upd#2^{#3}}
 \newcommand{\diffinpartial}[2]{\uppartial#1/\uppartial#2}
 \newcommand{\diffpartial}[2]{\dfrac{\uppartial#1}{\uppartial#2}}
 \newcommand{\diffsecpartial}[2]{\dfrac{\uppartial^2#1}{\uppartial#2^2}}
@@ -255,10 +257,10 @@
 \cleardoublepage
 \input{05_the_band_theory_of_solids}
 \cleardoublepage
-% \input{06_universal_gravitation}
-% \cleardoublepage
-% \input{07_oscillatory_motion}
-% \cleardoublepage
+\input{06_electrical_conductivity_of_solids}
+\cleardoublepage
+\input{07_magnetic_properties_of_solids}
+\cleardoublepage
 % \input{08_relativistic_mechanics}
 % \cleardoublepage
 % \input{09_hydrodynamics}
