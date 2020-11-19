@@ -41,7 +41,8 @@
 \newcommand{\final}{\text{final}}
 \newcommand{\inicial}{\text{inicial}}
 \newcommand{\fig}[1]{Figure \ref{fig:#1}}
-\newcommand{\eqn}[1]{Eq.~\eqref{eq:#1}}
+\newcommand{\eqn}[1]{Eq. \eqref{eq:#1}}
+\newcommand{\eqns}[2]{Eqs. \eqref{eq:#1} and \eqref{eq:#2}}
 \newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
 \newcommand{\vecdotind}[4]{\boldsymbol{#1}_{#2}\boldsymbol{\cdot}\boldsymbol{#3}_{#4}}
 \newcommand{\vecunidot}[2]{\hat{\boldsymbol{e}}_{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
@@ -93,7 +94,15 @@
 \newcommand{\tab}[1]{Table~\ref{table:#1}}
 
 \usepackage[a5paper]{geometry}
-\geometry{textheight=17cm, textwidth=10.8cm, top=1.5cm, left=1.6cm, right=0.9cm, bottom=1.0cm}
+\geometry{
+    % textheight=17cm,
+    % textwidth=10.8cm,
+    top=1.5cm,
+    left=1.6cm,
+    right=0.9cm,
+    bottom=1.0cm,
+    heightrounded,
+}
 
 \usepackage{booktabs}
 \usepackage{threeparttable}
@@ -153,7 +162,7 @@
 
 \titleformat{\chapter}[display]
 %{\sffamily\huge\color{black!70}\bfseries}
-{\huge\color{black!70}\bfseries}
+{\huge\color{black!70}\sffamily\bfseries}
 %{\MakeUppercase{\chaptertitlename}\ \thechapter}{10pt}{}
 {\chaptertitlename\ \thechapter}{10pt}{}
 
@@ -261,11 +270,18 @@
 \cleardoublepage
 \input{07_magnetic_properties_of_solids}
 \cleardoublepage
-% \input{08_relativistic_mechanics}
-% \cleardoublepage
-% \input{09_hydrodynamics}
-% \cleardoublepage
-% \input{A_appendices}
+\input{08_contact_phenomena}
+\cleardoublepage
+\input{09_thermoelectric_and_galvanomagnetic_phenomena}
+\cleardoublepage
+\input{A_appendices}
+\cleardoublepage
+\input{glossary_of_symbols_and_notations}
+\cleardoublepage
+\input{bibliography}
+\cleardoublepage
+\input{other_titles}
+\cleardoublepage
 
 \cleardoublepage
 \includepdf{figures/ssp_bc.pdf}

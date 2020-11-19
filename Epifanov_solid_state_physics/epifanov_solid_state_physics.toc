@@ -42,3 +42,60 @@
 \contentsline {section}{\numberline {\S ~36}Heat conductivity of solids}{114}{section.4.36}% 
 \contentsline {chapter}{\numberline {5}The Band Theory of Solids}{121}{chapter.5}% 
 \contentsline {section}{\numberline {\S ~37}Electron energy levels of a free atom}{121}{section.5.37}% 
+\contentsline {section}{\numberline {\S ~38}Collectivization of electrons in a crystal}{124}{section.5.38}% 
+\contentsline {section}{\numberline {\S ~39}Energy spectrum of electrons in a crystal}{126}{section.5.39}% 
+\contentsline {section}{\numberline {\S ~40}Dependence of electron energy on the wave vector}{129}{section.5.40}% 
+\contentsline {section}{\numberline {\S ~41}Effective mass of the electron}{134}{section.5.41}% 
+\contentsline {section}{\numberline {\S ~42}Occupation of bands by electrons}{138}{section.5.42}% 
+\contentsline {section}{\numberline {\S ~43}Intrinsic semiconductors. The concept of a hole}{140}{section.5.43}% 
+\contentsline {section}{\numberline {\S ~44}Impurity semiconductors}{143}{section.5.44}% 
+\contentsline {section}{\numberline {\S ~45}Position of the Fermi level and free carrier concentration in semiconductors}{146}{section.5.45}% 
+\contentsline {section}{\numberline {\S ~46}Nonequilibrium carriers}{153}{section.5.46}% 
+\contentsline {chapter}{\numberline {6}Electrical Conductivity of Solids}{157}{chapter.6}% 
+\contentsline {section}{\numberline {\S ~47}Equilibrium state of electron gas in a conductor in the absence of an electric field}{157}{section.6.47}% 
+\contentsline {section}{\numberline {\S ~48}Electron drift in an electric field}{157}{section.6.48}% 
+\contentsline {section}{\numberline {\S ~49}Relaxation time and mean free path}{159}{section.6.49}% 
+\contentsline {section}{\numberline {\S ~50}Specific conductance of a conductor}{161}{section.6.50}% 
+\contentsline {section}{\numberline {\S ~51}Electrical conductivity of nondegenerate and degenerate gases}{162}{section.6.51}% 
+\contentsline {section}{\numberline {\S ~52}Wiedemann-Franz-Lorenz law}{164}{section.6.52}% 
+\contentsline {section}{\numberline {\S ~53}Temperature dependence of carrier mobility}{165}{section.6.53}% 
+\contentsline {section}{\numberline {\S ~54}Electrical conductivity of pure metals}{171}{section.6.54}% 
+\contentsline {section}{\numberline {\S ~55}Electrical conductivity of metal alloys}{172}{section.6.55}% 
+\contentsline {section}{\numberline {\S ~56}Intrinsic conductivity of semiconductors}{176}{section.6.56}% 
+\contentsline {section}{\numberline {\S ~57}Impurity (extrinsic) conductivity of semiconductors}{177}{section.6.57}% 
+\contentsline {section}{\numberline {\S ~58}Deviation from Ohm's law. The effect of a strong field}{180}{section.6.58}% 
+\contentsline {section}{\numberline {\S ~59}The Gunn effect}{182}{section.6.59}% 
+\contentsline {section}{\numberline {\S ~60}Photoconductivity of semiconductors}{183}{section.6.60}% 
+\contentsline {section}{\numberline {\S ~61}Luminescence}{190}{section.6.61}% 
+\contentsline {section}{\numberline {\S ~62}Fundamentals of superconductivity}{194}{section.6.62}% 
+\contentsline {chapter}{\numberline {7}Magnetic Properties of Solids}{211}{chapter.7}% 
+\contentsline {section}{\numberline {\S ~63}Magnetic field in magnetic materials}{211}{section.7.63}% 
+\contentsline {section}{\numberline {\S ~64}Magnetic properties of solids}{212}{section.7.64}% 
+\contentsline {section}{\numberline {\S ~65}Magnetic properties of atoms}{219}{section.7.65}% 
+\contentsline {section}{\numberline {\S ~66}Origin of diamagnetism}{224}{section.7.66}% 
+\contentsline {section}{\numberline {\S ~67}Origin of paramagnetism}{227}{section.7.67}% 
+\contentsline {section}{\numberline {\S ~68}Origin of ferromagnetism}{233}{section.7.68}% 
+\contentsline {section}{\numberline {\S ~69}Antiferromagnetism}{241}{section.7.69}% 
+\contentsline {section}{\numberline {\S ~70}Ferrimagnetism. Ferrites}{242}{section.7.70}% 
+\contentsline {section}{\numberline {\S ~71}Magnetic resonance}{243}{section.7.71}% 
+\contentsline {section}{\numberline {\S ~72}Fundamentals of quantum electronics}{245}{section.7.72}% 
+\contentsline {chapter}{\numberline {8}Contact Phenomena}{251}{chapter.8}% 
+\contentsline {section}{\numberline {\S ~73}Work function}{251}{section.8.73}% 
+\contentsline {section}{\numberline {\S ~74}Contact of two metals}{254}{section.8.74}% 
+\contentsline {section}{\numberline {\S ~75}The metal-semiconductor contact}{257}{section.8.75}% 
+\contentsline {section}{\numberline {\S ~76}Contact between two semiconductors of different types of conductivity}{264}{section.8.76}% 
+\contentsline {section}{\numberline {\S ~77}Physical principles of semiconductor p-n junction devices}{274}{section.8.77}% 
+\contentsline {section}{\numberline {\S ~78}Fundamentals of integrated circuit electronics (microelectronics)}{284}{section.8.78}% 
+\contentsline {chapter}{\numberline {9}Thermoelectric and Galvanomagnetic Phenomena}{289}{chapter.9}% 
+\contentsline {section}{\numberline {\S ~79}The Seebeck effect}{289}{section.9.79}% 
+\contentsline {section}{\numberline {\S ~80}The Peltier effect}{294}{section.9.80}% 
+\contentsline {section}{\numberline {\S ~81}The Thomson effect}{297}{section.9.81}% 
+\contentsline {section}{\numberline {\S ~82}Galvanomagnetic phenomena}{297}{section.9.82}% 
+\contentsline {section}{\numberline {\S ~83}Practical applications of thermoelectric and galvanomagnetic phenomena}{302}{section.9.83}% 
+\contentsline {chapter}{APPENDICES}{305}{appendix*.234}% 
+\contentsline {section}{\numberline {A.1}Derivation of the Maxwell-Boltzmann distribution function}{305}{section.Alph0.1}% 
+\contentsline {section}{\numberline {A.2}Derivation of the Fermi-Dirac distribution function}{306}{section.Alph0.2}% 
+\contentsline {section}{\numberline {A.3}Derivation of the Bose-Einstein distribution function}{308}{section.Alph0.3}% 
+\contentsline {section}{\numberline {A.4}Tables}{309}{section.Alph0.4}% 
+\contentsline {chapter}{Glossary of Symbols and Notations}{311}{appendix*.237}% 
+\contentsline {chapter}{Bibliography}{317}{appendix*.243}% 
