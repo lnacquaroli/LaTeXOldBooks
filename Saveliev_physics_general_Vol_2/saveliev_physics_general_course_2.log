@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.12)  23 OCT 2020 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.12)  26 DEC 2020 22:16
 entering extended mode
 **./saveliev_physics_general_course_2.tex
 (saveliev_physics_general_course_2.tex
@@ -550,14 +550,6 @@ Package ifvtex Info: VTeX not detected.
 \Gm@dimlist=\toks26
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-
-Package geometry Warning: Over-specification in `h'-direction.
-    `width' (307.28984pt) is ignored.
-
-
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (483.69684pt) is ignored.
-
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen123
@@ -1310,7 +1302,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \mylenprt=\skip123
 \mylenchp=\skip124
 LaTeX Font Info:    Try loading font information for T1+Cochineal-TLF on input 
-line 213.
+line 237.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\t1cochineal-tlf
 .fd
@@ -1318,10 +1310,10 @@ File: T1Cochineal-TLF.fd 2019/06/21 (msharpe) Font definitions for T1/Cochineal
 -TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 213.
+(Font)              scaled to size 10.95pt on input line 237.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 213.
-Package caption Info: We need package `newfloat' on input line 230.
+(Font)              scaled to size 10.95pt on input line 237.
+Package caption Info: We need package `newfloat' on input line 253.
  (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\newfloat.sty
 Package: newfloat 2019/09/01 v1.1k Defining new floating environments (AR)
 Package newfloat Info: Document class `book' detected.
@@ -1440,7 +1432,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip126
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 241.
+Package hyperref Info: Option `colorlinks' set `true' on input line 264.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/emptypage\emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
@@ -1489,7 +1481,7 @@ Package: lips 2001/08/31 v2.1 Chicago Manual text ellipses (Frankenstein's lips
 )
 )
 LaTeX Font Info:    Try loading font information for T1+Cochineal-OsF on input 
-line 259.
+line 282.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\t1cochineal-osf
 .fd
@@ -1497,62 +1489,62 @@ File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal
 -OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 259.
+(Font)              scaled to size 10.95pt on input line 282.
  (saveliev_physics_general_course_2.aux)
 \openout1 = `saveliev_physics_general_course_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zcochmi/m/it on input line 259.
+LaTeX Font Info:    Checking defaults for OML/zcochmi/m/it on input line 282.
 LaTeX Font Info:    Try loading font information for OML+zcochmi on input line 
-259.
+282.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\omlzcochmi.fd
 File: omlzcochmi.fd 2015/06/23 Fontinst v1.933 font definitions for OML/zcochmi
 .
 )
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 259.
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 259.
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 259.
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 259.
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 259.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 259
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 282.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 282.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 282.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 282.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 282.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 282
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 259.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 259.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 282.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 282.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 259.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 25
-9.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 282.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 28
+2.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 259.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 282.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 2
-59.
+82.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 259.
-LaTeX Font Info:    ... okay on input line 259.
-LaTeX Info: Redefining \microtypecontext on input line 259.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 282.
+LaTeX Font Info:    ... okay on input line 282.
+LaTeX Info: Redefining \microtypecontext on input line 282.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1606,13 +1598,13 @@ G,.JBIG2,.JB2,.eps]
 * paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: twoside heightrounded 
 * h-part:(L,W,R)=(45.52458pt, 349.9689pt, 25.6073pt)
 * v-part:(T,H,B)=(42.67912pt, 526.376pt, 28.45274pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
 * \textwidth=349.9689pt
-* \textheight=526.376pt
+* \textheight=527.80023pt
 * \oddsidemargin=-26.7454pt
 * \evensidemargin=-46.66269pt
 * \topmargin=-61.46466pt
@@ -1634,7 +1626,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `newtx' on line 259.
+Package chemgreek Info: Activating mapping `newtx' on line 282.
 
 ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
@@ -1650,7 +1642,7 @@ ions.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring ON on input line 259.
+Package hyperref Info: Link coloring ON on input line 282.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1659,9 +1651,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count356
 )
-LaTeX Info: Redefining \ref on input line 259.
-LaTeX Info: Redefining \pageref on input line 259.
-LaTeX Info: Redefining \nameref on input line 259.
+LaTeX Info: Redefining \ref on input line 282.
+LaTeX Info: Redefining \pageref on input line 282.
+LaTeX Info: Redefining \nameref on input line 282.
 
 (saveliev_physics_general_course_2.out) (saveliev_physics_general_course_2.out)
 \@outlinefile=\write4
@@ -1676,7 +1668,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 LaTeX Font Info:    Try loading font information for OT1+Cochineal-TLF on input
- line 259.
+ line 282.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\ot1cochineal-tl
 f.fd
@@ -1684,98 +1676,98 @@ File: OT1Cochineal-TLF.fd 2016/01/19 (msharpe) Font definitions for OT1/Cochine
 al-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 259.
+(Font)              scaled to size 10.95pt on input line 282.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Cochineal-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 259.
+(Font)              scaled to size 8.0pt on input line 282.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 6.1pt on input line 259.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 259
+(Font)              scaled to size 6.1pt on input line 282.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 282
 .
  (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 259
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 282
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 259
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 282
 .
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line
- 259.
+ 282.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 259.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 282.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 10.40245pt on input line 259.
+(Font)              scaled to size 10.40245pt on input line 282.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Cabin-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 259.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 282.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 7.59998pt on input line 259.
+(Font)              scaled to size 7.59998pt on input line 282.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be aliased
-(Font)              to `T1/Cabin-TLF/regular/n' on input line 259.
+(Font)              to `T1/Cabin-TLF/regular/n' on input line 282.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 5.79498pt on input line 259.
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 259.
+(Font)              scaled to size 5.79498pt on input line 282.
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 282.
 
 (C:\Users\flvisa\AppData\Roaming\MiKTeX\2.9\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.95pt on input line 259.
+(Font)              scaled to size 10.95pt on input line 282.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 8.0pt on input line 259.
+(Font)              scaled to size 8.0pt on input line 282.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.1pt on input line 259.
-<figures/pgc_2_fc.pdf, id=134, 421.10078pt x 597.50786pt>
+(Font)              scaled to size 6.1pt on input line 282.
+<figures/pgc_2_fc.pdf, id=558, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf>
-Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 292.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf>
-Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 292.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_2_fc.pdf, id=137, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_2_fc.pdf, id=561, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 292.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 292.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 292.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 292.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_fc.pdf Graphic file (type pdf)
 <use figures/pgc_2_fc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 269.
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 292.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 
 [1
@@ -1800,7 +1792,7 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 23.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 31.
-<figures/mirlogo.pdf, id=152, 314.37184pt x 365.51457pt>
+<figures/mirlogo.pdf, id=576, 314.37184pt x 365.51457pt>
 File: figures/mirlogo.pdf Graphic file (type pdf)
 <use figures/mirlogo.pdf>
 Package pdftex.def Info: figures/mirlogo.pdf  used on input line 46.
@@ -1858,11 +1850,11 @@ LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
 (Font)              scaled to size 6.6pt on input line 3.
  [7
 
-])
+] [8] [9])
 \tf@toc=\write5
 \openout5 = `saveliev_physics_general_course_2.toc'.
 
- [8] [1
+ [10] [1
 
 
 
@@ -1891,23 +1883,25 @@ LaTeX Font Info:    Font shape `T1/Cochineal-Sup/m/n' will be
 
 
 ] [4]
-<figures/ch_01/fig_1_1.pdf, id=276, 103.7391pt x 215.73282pt>
+<figures/ch_01/fig_1_1.pdf, id=924, 103.7391pt x 215.73282pt>
 File: figures/ch_01/fig_1_1.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_1.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_1.pdf  used on input line 42.
 (pdftex.def)             Requested size: 93.3643pt x 194.15773pt.
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 52.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 52.
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 6.1pt on input line 52.
-<figures/ch_01/fig_1_2.pdf, id=278, 132.22054pt x 62.57596pt>
+<figures/ch_01/fig_1_2.pdf, id=926, 132.22054pt x 62.57596pt>
 File: figures/ch_01/fig_1_2.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_2.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_2.pdf  used on input line 57.
 (pdftex.def)             Requested size: 132.2202pt x 62.57579pt.
-<figures/ch_01/fig_1_3.pdf, id=279, 132.54642pt x 27.79088pt>
+<figures/ch_01/fig_1_3.pdf, id=927, 132.54642pt x 27.79088pt>
 File: figures/ch_01/fig_1_3.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_3.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_3.pdf  used on input line 65.
@@ -1918,7 +1912,7 @@ Overfull \hbox (1.86229pt too wide) in paragraph at lines 55--71
  []
 
 
-Underfull \vbox (badness 4832) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./figures/ch_01/fig_1_1.pdf>]
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
@@ -1926,32 +1920,24 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 6.1pt on input line 91.
 
-Underfull \vbox (badness 4981) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./figures/ch_01/fig_1_2.pdf> <./figures/ch_01/fig_1_3.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_3.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
 >]
-
-LaTeX Warning: Reference `sec:10_3' on page 7 undefined on input line 107.
-
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 109.
 
-Underfull \vbox (badness 2856) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
 
 LaTeX Warning: Reference `sec:A_3' on page 8 undefined on input line 163.
 
-LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 167.
-
-LaTeX Warning: Reference `sec:6_2' on page 8 undefined on input line 167.
-
 [8]
-<figures/ch_01/fig_1_4.pdf, id=331, 110.80475pt x 66.43896pt>
+<figures/ch_01/fig_1_4.pdf, id=980, 110.80475pt x 66.43896pt>
 File: figures/ch_01/fig_1_4.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_4.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_4.pdf  used on input line 173.
@@ -1983,15 +1969,15 @@ LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 LaTeX Font Info:    Font shape `OT1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 5.5pt on input line 242.
 
-Underfull \vbox (badness 1755) has occurred while \output is active []
+Underfull \vbox (badness 2564) has occurred while \output is active []
 
  [11]
-<figures/ch_01/fig_1_5.pdf, id=379, 113.91933pt x 75.6155pt>
+<figures/ch_01/fig_1_5.pdf, id=1028, 113.91933pt x 75.6155pt>
 File: figures/ch_01/fig_1_5.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_5.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_5.pdf  used on input line 267.
 (pdftex.def)             Requested size: 113.91904pt x 75.6153pt.
-<figures/ch_01/fig_1_6.pdf, id=380, 167.70515pt x 78.5894pt>
+<figures/ch_01/fig_1_6.pdf, id=1029, 167.70515pt x 78.5894pt>
 File: figures/ch_01/fig_1_6.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_6.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_6.pdf  used on input line 275.
@@ -2001,7 +1987,7 @@ Overfull \hbox (1.86229pt too wide) in paragraph at lines 265--281
 [][]   []
  []
 
-<figures/ch_01/fig_1_7.pdf, id=382, 141.45197pt x 125.61609pt>
+<figures/ch_01/fig_1_7.pdf, id=1031, 141.45197pt x 125.61609pt>
 File: figures/ch_01/fig_1_7.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_7.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_7.pdf  used on input line 297.
@@ -2010,10 +1996,7 @@ Package pdftex.def Info: figures/ch_01/fig_1_7.pdf  used on input line 297.
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_6.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
->]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13 <./figures/ch_01/fig_1_7.pdf>]
+>] [13 <./figures/ch_01/fig_1_7.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
@@ -2027,12 +2010,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-<figures/ch_01/fig_1_8.pdf, id=479, 118.50418pt x 118.50417pt>
+<figures/ch_01/fig_1_8.pdf, id=1128, 118.50418pt x 118.50417pt>
 File: figures/ch_01/fig_1_8.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_8.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_8.pdf  used on input line 603.
 (pdftex.def)             Requested size: 118.50388pt x 118.50386pt.
-<figures/ch_01/fig_1_9.pdf, id=480, 143.23924pt x 153.99619pt>
+<figures/ch_01/fig_1_9.pdf, id=1129, 143.23924pt x 153.99619pt>
 File: figures/ch_01/fig_1_9.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_9.pdf>
 Package pdftex.def Info: figures/ch_01/fig_1_9.pdf  used on input line 611.
@@ -2051,27 +2034,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_9.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_10.pdf, id=500, 106.03017pt x 35.43358pt>
+<figures/ch_01/fig_1_10.pdf, id=1149, 106.03017pt x 35.43358pt>
 File: figures/ch_01/fig_1_10.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_10.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_10.pdf  used on input line 659.
-(pdftex.def)             Requested size: 116.63351pt x 38.97702pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Package pdftex.def Info: figures/ch_01/fig_1_10.pdf  used on input line 660.
+(pdftex.def)             Requested size: 106.02989pt x 35.43347pt.
  [21 <./figures/ch_01/fig_1_10.pdf>]
-<figures/ch_01/fig_1_11.pdf, id=530, 138.77548pt x 120.71887pt>
+<figures/ch_01/fig_1_11.pdf, id=1181, 138.77548pt x 120.71887pt>
 File: figures/ch_01/fig_1_11.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_11.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_11.pdf  used on input line 727.
+Package pdftex.def Info: figures/ch_01/fig_1_11.pdf  used on input line 728.
 (pdftex.def)             Requested size: 138.77513pt x 120.71855pt.
-<figures/ch_01/fig_1_12.pdf, id=531, 166.84691pt x 75.53166pt>
+<figures/ch_01/fig_1_12.pdf, id=1182, 166.84691pt x 75.53166pt>
 File: figures/ch_01/fig_1_12.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_12.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_12.pdf  used on input line 735.
+Package pdftex.def Info: figures/ch_01/fig_1_12.pdf  used on input line 736.
 (pdftex.def)             Requested size: 166.8465pt x 75.53146pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 725--741
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 726--742
 [][]   []
  []
 
@@ -2079,18 +2059,18 @@ Overfull \hbox (1.86229pt too wide) in paragraph at lines 725--741
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-<figures/ch_01/fig_1_13.pdf, id=550, 136.4954pt x 70.3257pt>
+<figures/ch_01/fig_1_13.pdf, id=1200, 136.4954pt x 70.3257pt>
 File: figures/ch_01/fig_1_13.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_13.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_13.pdf  used on input line 775.
+Package pdftex.def Info: figures/ch_01/fig_1_13.pdf  used on input line 776.
 (pdftex.def)             Requested size: 136.49506pt x 70.32552pt.
-<figures/ch_01/fig_1_14.pdf, id=551, 170.61754pt x 96.88815pt>
+<figures/ch_01/fig_1_14.pdf, id=1201, 170.61754pt x 96.88815pt>
 File: figures/ch_01/fig_1_14.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_14.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_14.pdf  used on input line 783.
+Package pdftex.def Info: figures/ch_01/fig_1_14.pdf  used on input line 784.
 (pdftex.def)             Requested size: 170.61711pt x 96.88791pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 773--789
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 774--790
 [][]   []
  []
 
@@ -2101,76 +2081,78 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_12.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
->]
-Underfull \vbox (badness 4156) has occurred while \output is active []
-
- [24 <./figures/ch_01/fig_1_13.pdf> <./figures/ch_01/fig_1_14.pdf
+>] [24 <./figures/ch_01/fig_1_13.pdf> <./figures/ch_01/fig_1_14.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_14.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_15.pdf, id=585, 144.28006pt x 80.57397pt>
+<figures/ch_01/fig_1_15.pdf, id=1235, 144.28006pt x 80.57397pt>
 File: figures/ch_01/fig_1_15.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_15.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_15.pdf  used on input line 837.
+Package pdftex.def Info: figures/ch_01/fig_1_15.pdf  used on input line 838.
 (pdftex.def)             Requested size: 144.2797pt x 80.57376pt.
- [25 <./figures/ch_01/fig_1_15.pdf>]
-<figures/ch_01/fig_1_16.pdf, id=598, 159.37883pt x 115.48895pt>
+<figures/ch_01/fig_1_16.pdf, id=1240, 159.37883pt x 115.48895pt>
 File: figures/ch_01/fig_1_16.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_16.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_16.pdf  used on input line 860.
+Package pdftex.def Info: figures/ch_01/fig_1_16.pdf  used on input line 861.
 (pdftex.def)             Requested size: 151.40901pt x 109.71387pt.
- [26 <./figures/ch_01/fig_1_16.pdf>]
-<figures/ch_01/fig_1_17.pdf, id=615, 88.72223pt x 53.31479pt>
+ [25 <./figures/ch_01/fig_1_15.pdf>]
+<figures/ch_01/fig_1_17.pdf, id=1255, 88.72223pt x 53.31479pt>
 File: figures/ch_01/fig_1_17.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_17.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_17.pdf  used on input line 911.
+Package pdftex.def Info: figures/ch_01/fig_1_17.pdf  used on input line 912.
 (pdftex.def)             Requested size: 88.722pt x 53.31464pt.
-<figures/ch_01/fig_1_18.pdf, id=616, 164.78131pt x 87.39697pt>
+<figures/ch_01/fig_1_18.pdf, id=1256, 164.78131pt x 87.39697pt>
 File: figures/ch_01/fig_1_18.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_18.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_18.pdf  used on input line 919.
+Package pdftex.def Info: figures/ch_01/fig_1_18.pdf  used on input line 920.
 (pdftex.def)             Requested size: 164.7809pt x 87.39674pt.
 
-Overfull \hbox (1.86227pt too wide) in paragraph at lines 909--925
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 910--926
 [][]   []
  []
 
 
-Underfull \vbox (badness 4872) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./figures/ch_01/fig_1_16.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27 <./figures/ch_01/fig_1_17.pdf> <./figures/ch_01/fig_1_18.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_18.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_19.pdf, id=637, 102.16637pt x 125.20792pt>
+<figures/ch_01/fig_1_19.pdf, id=1287, 102.16637pt x 125.20792pt>
 File: figures/ch_01/fig_1_19.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_19.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_19.pdf  used on input line 975.
+Package pdftex.def Info: figures/ch_01/fig_1_19.pdf  used on input line 976.
 (pdftex.def)             Requested size: 102.1661pt x 125.20761pt.
- [28] [29 <./figures/ch_01/fig_1_19.pdf>]
-<figures/ch_01/fig_1_20.pdf, id=664, 102.66112pt x 98.68344pt>
-File: figures/ch_01/fig_1_20.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_20.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_20.pdf  used on input line 1035.
-(pdftex.def)             Requested size: 97.5275pt x 93.74872pt.
 
+Underfull \vbox (badness 3536) has occurred while \output is active []
+
+ [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [29 <./figures/ch_01/fig_1_19.pdf>]
+<figures/ch_01/fig_1_20.pdf, id=1314, 102.66112pt x 98.68344pt>
+File: figures/ch_01/fig_1_20.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_20.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_20.pdf  used on input line 1036.
+(pdftex.def)             Requested size: 97.5275pt x 93.74872pt.
  [30 <./figures/ch_01/fig_1_20.pdf>]
-<figures/ch_01/fig_1_21.pdf, id=683, 69.47272pt x 156.49016pt>
+<figures/ch_01/fig_1_21.pdf, id=1332, 69.47272pt x 156.49016pt>
 File: figures/ch_01/fig_1_21.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_21.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_21.pdf  used on input line 1071.
+Package pdftex.def Info: figures/ch_01/fig_1_21.pdf  used on input line 1072.
 (pdftex.def)             Requested size: 65.99869pt x 148.6648pt.
-<figures/ch_01/fig_1_22.pdf, id=684, 165.25703pt x 138.44614pt>
+<figures/ch_01/fig_1_22.pdf, id=1333, 165.25703pt x 138.44614pt>
 File: figures/ch_01/fig_1_22.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_22.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_22.pdf  used on input line 1079.
+Package pdftex.def Info: figures/ch_01/fig_1_22.pdf  used on input line 1080.
 (pdftex.def)             Requested size: 156.99329pt x 131.52307pt.
 
-Overfull \hbox (1.86227pt too wide) in paragraph at lines 1069--1085
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 1070--1086
 [][]   []
  []
 
@@ -2179,26 +2161,29 @@ Overfull \hbox (1.86227pt too wide) in paragraph at lines 1069--1085
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_22.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_23.pdf, id=707, 131.09377pt x 99.25198pt>
+<figures/ch_01/fig_1_23.pdf, id=1356, 131.09377pt x 99.25198pt>
 File: figures/ch_01/fig_1_23.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_23.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_23.pdf  used on input line 1101.
+Package pdftex.def Info: figures/ch_01/fig_1_23.pdf  used on input line 1102.
 (pdftex.def)             Requested size: 131.09344pt x 99.25172pt.
+
+Underfull \vbox (badness 6445) has occurred while \output is active []
+
  [32 <./figures/ch_01/fig_1_23.pdf>]
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 1128.
-<figures/ch_01/fig_1_24.pdf, id=732, 156.49016pt x 85.70926pt>
+(Font)              scaled to size 7.3pt on input line 1129.
+<figures/ch_01/fig_1_24.pdf, id=1381, 156.49016pt x 85.70926pt>
 File: figures/ch_01/fig_1_24.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_24.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_24.pdf  used on input line 1143.
+Package pdftex.def Info: figures/ch_01/fig_1_24.pdf  used on input line 1144.
 (pdftex.def)             Requested size: 156.48976pt x 85.70905pt.
-<figures/ch_01/fig_1_25.pdf, id=733, 133.26431pt x 122.42986pt>
+<figures/ch_01/fig_1_25.pdf, id=1382, 133.26431pt x 122.42986pt>
 File: figures/ch_01/fig_1_25.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_25.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_25.pdf  used on input line 1151.
+Package pdftex.def Info: figures/ch_01/fig_1_25.pdf  used on input line 1152.
 (pdftex.def)             Requested size: 133.26398pt x 122.42953pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 1141--1157
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1142--1158
 [][]   []
  []
 
@@ -2207,54 +2192,54 @@ Overfull \hbox (1.86229pt too wide) in paragraph at lines 1141--1157
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_25.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
+<figures/ch_01/fig_1_26.pdf, id=1412, 113.99318pt x 74.75777pt>
+File: figures/ch_01/fig_1_26.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_26.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_26.pdf  used on input line 1226.
+(pdftex.def)             Requested size: 113.99289pt x 74.75757pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-<figures/ch_01/fig_1_26.pdf, id=770, 113.99318pt x 74.75777pt>
-File: figures/ch_01/fig_1_26.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_26.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_26.pdf  used on input line 1225.
-(pdftex.def)             Requested size: 113.99289pt x 74.75757pt.
-
-[36 <./figures/ch_01/fig_1_26.pdf>]
-<figures/ch_01/fig_1_27.pdf, id=782, 173.56061pt x 134.21397pt>
+<figures/ch_01/fig_1_27.pdf, id=1421, 173.56061pt x 134.21397pt>
 File: figures/ch_01/fig_1_27.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_27.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_27.pdf  used on input line 1254.
+Package pdftex.def Info: figures/ch_01/fig_1_27.pdf  used on input line 1255.
 (pdftex.def)             Requested size: 164.88162pt x 127.50253pt.
-<figures/ch_01/fig_1_28.pdf, id=783, 130.95602pt x 132.78598pt>
+<figures/ch_01/fig_1_28.pdf, id=1422, 130.95602pt x 132.78598pt>
 File: figures/ch_01/fig_1_28.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_28.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_28.pdf  used on input line 1262.
+Package pdftex.def Info: figures/ch_01/fig_1_28.pdf  used on input line 1263.
 (pdftex.def)             Requested size: 124.4075pt x 126.14595pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 1252--1268
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1253--1269
 [][]   []
  []
 
 
-Underfull \vbox (badness 2050) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37 <./figures/ch_01/fig_1_27.pdf> <./figures/ch_01/fig_1_28.pdf
+ [36 <./figures/ch_01/fig_1_26.pdf>] [37 <./figures/ch_01/fig_1_27.pdf> <./figu
+res/ch_01/fig_1_28.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_28.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_29.pdf, id=806, 133.45714pt x 126.694pt>
+<figures/ch_01/fig_1_29.pdf, id=1457, 133.45714pt x 126.694pt>
 File: figures/ch_01/fig_1_29.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_29.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_29.pdf  used on input line 1304.
+Package pdftex.def Info: figures/ch_01/fig_1_29.pdf  used on input line 1305.
 (pdftex.def)             Requested size: 133.4568pt x 126.69366pt.
  [38 <./figures/ch_01/fig_1_29.pdf>]
-<figures/ch_01/fig_1_30.pdf, id=828, 86.25378pt x 86.79935pt>
+<figures/ch_01/fig_1_30.pdf, id=1477, 86.25378pt x 86.79935pt>
 File: figures/ch_01/fig_1_30.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_30.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_30.pdf  used on input line 1342.
+Package pdftex.def Info: figures/ch_01/fig_1_30.pdf  used on input line 1343.
 (pdftex.def)             Requested size: 86.25356pt x 86.79913pt.
-<figures/ch_01/fig_1_31.pdf, id=829, 103.83585pt x 85.35826pt>
+<figures/ch_01/fig_1_31.pdf, id=1478, 103.83585pt x 85.35826pt>
 File: figures/ch_01/fig_1_31.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_31.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_31.pdf  used on input line 1350.
+Package pdftex.def Info: figures/ch_01/fig_1_31.pdf  used on input line 1351.
 (pdftex.def)             Requested size: 103.83559pt x 85.35805pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2271,43 +2256,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [42]
-Underfull \vbox (badness 4899) has occurred while \output is active []
-
- [43]
-<figures/ch_01/fig_1_32.pdf, id=902, 108.1073pt x 103.05849pt>
+[43]
+<figures/ch_01/fig_1_32.pdf, id=1552, 108.1073pt x 103.05849pt>
 File: figures/ch_01/fig_1_32.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_32.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_32.pdf  used on input line 1547.
-(pdftex.def)             Requested size: 108.10703pt x 103.05821pt.
-<figures/ch_01/fig_1_33.pdf, id=903, 96.66982pt x 117.96579pt>
+Package pdftex.def Info: figures/ch_01/fig_1_32.pdf  used on input line 1550.
+(pdftex.def)             Requested size: 102.70134pt x 97.90498pt.
+<figures/ch_01/fig_1_33.pdf, id=1553, 96.66982pt x 117.96579pt>
 File: figures/ch_01/fig_1_33.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_33.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_33.pdf  used on input line 1555.
-(pdftex.def)             Requested size: 96.66956pt x 117.96548pt.
+Package pdftex.def Info: figures/ch_01/fig_1_33.pdf  used on input line 1558.
+(pdftex.def)             Requested size: 91.83577pt x 112.06685pt.
+<figures/ch_01/fig_1_34.pdf, id=1563, 132.49132pt x 64.49106pt>
+File: figures/ch_01/fig_1_34.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_34.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_34.pdf  used on input line 1575.
+(pdftex.def)             Requested size: 123.21564pt x 59.97604pt.
+<figures/ch_01/fig_1_35.pdf, id=1564, 73.96036pt x 75.3298pt>
+File: figures/ch_01/fig_1_35.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_35.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_35.pdf  used on input line 1584.
+(pdftex.def)             Requested size: 68.7824pt x 70.05597pt.
+<figures/ch_01/fig_1_36.pdf, id=1565, 118.50418pt x 118.50417pt>
+File: figures/ch_01/fig_1_36.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_36.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_36.pdf  used on input line 1593.
+(pdftex.def)             Requested size: 112.57831pt x 112.5783pt.
 
-Underfull \vbox (badness 1286) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44 <./figures/ch_01/fig_1_32.pdf> <./figures/ch_01/fig_1_33.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_33.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
->]
-<figures/ch_01/fig_1_34.pdf, id=939, 132.49132pt x 64.49106pt>
-File: figures/ch_01/fig_1_34.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_34.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_34.pdf  used on input line 1572.
-(pdftex.def)             Requested size: 123.21564pt x 59.97604pt.
-<figures/ch_01/fig_1_35.pdf, id=940, 73.96036pt x 75.3298pt>
-File: figures/ch_01/fig_1_35.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_35.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_35.pdf  used on input line 1581.
-(pdftex.def)             Requested size: 68.7824pt x 70.05597pt.
-<figures/ch_01/fig_1_36.pdf, id=941, 118.50418pt x 118.50417pt>
-File: figures/ch_01/fig_1_36.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_36.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_36.pdf  used on input line 1590.
-(pdftex.def)             Requested size: 112.57831pt x 112.5783pt.
- [45 <./figures/ch_01/fig_1_34.pdf> <./figures/ch_01/fig_1_35.pdf
+>] [45 <./figures/ch_01/fig_1_34.pdf> <./figures/ch_01/fig_1_35.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_35.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
@@ -2319,81 +2301,85 @@ ltiple pdfs with page group included in a single page
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46]
-<figures/ch_01/fig_1_37.pdf, id=967, 157.33997pt x 124.28566pt>
+<figures/ch_01/fig_1_37.pdf, id=1617, 157.33997pt x 124.28566pt>
 File: figures/ch_01/fig_1_37.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_37.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_37.pdf  used on input line 1685.
+Package pdftex.def Info: figures/ch_01/fig_1_37.pdf  used on input line 1688.
 (pdftex.def)             Requested size: 157.33957pt x 124.28535pt.
-<figures/ch_01/fig_1_38.pdf, id=968, 88.20354pt x 121.97826pt>
+<figures/ch_01/fig_1_38.pdf, id=1618, 88.20354pt x 121.97826pt>
 File: figures/ch_01/fig_1_38.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_38.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_38.pdf  used on input line 1693.
+Package pdftex.def Info: figures/ch_01/fig_1_38.pdf  used on input line 1696.
 (pdftex.def)             Requested size: 88.20331pt x 121.97795pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 1683--1699
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1686--1702
 [][]   []
  []
 
-[47]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 4.01501pt on input line 1715.
- [48 <./figures/ch_01/fig_1_37.pdf> <./figures/ch_01/fig_1_38.pdf
+(Font)              scaled to size 4.01501pt on input line 1718.
+
+[48 <./figures/ch_01/fig_1_37.pdf> <./figures/ch_01/fig_1_38.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_38.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_39.pdf, id=1019, 145.10905pt x 145.10905pt>
+<figures/ch_01/fig_1_39.pdf, id=1669, 145.10905pt x 145.10905pt>
 File: figures/ch_01/fig_1_39.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_39.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_39.pdf  used on input line 1728.
+Package pdftex.def Info: figures/ch_01/fig_1_39.pdf  used on input line 1731.
 (pdftex.def)             Requested size: 145.10869pt x 145.10869pt.
-<figures/ch_01/fig_1_40.pdf, id=1020, 148.8901pt x 141.83714pt>
+<figures/ch_01/fig_1_40.pdf, id=1670, 148.8901pt x 141.83714pt>
 File: figures/ch_01/fig_1_40.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_40.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_40.pdf  used on input line 1736.
+Package pdftex.def Info: figures/ch_01/fig_1_40.pdf  used on input line 1739.
 (pdftex.def)             Requested size: 148.88972pt x 141.83678pt.
 
-Overfull \hbox (1.86229pt too wide) in paragraph at lines 1726--1742
+Overfull \hbox (1.86229pt too wide) in paragraph at lines 1729--1745
 [][]   []
  []
 
+<figures/ch_01/fig_1_41.pdf, id=1673, 33.87836pt x 165.54326pt>
+File: figures/ch_01/fig_1_41.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_41.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_41.pdf  used on input line 1768.
+(pdftex.def)             Requested size: 33.87825pt x 165.54283pt.
+<figures/ch_01/fig_1_42.pdf, id=1674, 233.90082pt x 159.85985pt>
+File: figures/ch_01/fig_1_42.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_42.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_42.pdf  used on input line 1776.
+(pdftex.def)             Requested size: 222.2045pt x 151.86598pt.
 
-Underfull \vbox (badness 3029) has occurred while \output is active []
+Overfull \hbox (1.86227pt too wide) in paragraph at lines 1766--1782
+[][]   []
+ []
 
- [49 <./figures/ch_01/fig_1_39.pdf> <./figures/ch_01/fig_1_40.pdf
+[49 <./figures/ch_01/fig_1_39.pdf> <./figures/ch_01/fig_1_40.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_40.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<figures/ch_01/fig_1_41.pdf, id=1032, 33.87836pt x 165.54326pt>
-File: figures/ch_01/fig_1_41.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_41.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_41.pdf  used on input line 1765.
-(pdftex.def)             Requested size: 33.87825pt x 165.54283pt.
-<figures/ch_01/fig_1_42.pdf, id=1033, 233.90082pt x 159.85985pt>
-File: figures/ch_01/fig_1_42.pdf Graphic file (type pdf)
-<use figures/ch_01/fig_1_42.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_42.pdf  used on input line 1773.
-(pdftex.def)             Requested size: 222.2045pt x 151.86598pt.
-
-Overfull \hbox (1.86227pt too wide) in paragraph at lines 1763--1779
-[][]   []
- []
-
-<figures/ch_01/fig_1_43.pdf, id=1038, 140.76082pt x 118.3876pt>
+<figures/ch_01/fig_1_43.pdf, id=1689, 140.76082pt x 118.3876pt>
 File: figures/ch_01/fig_1_43.pdf Graphic file (type pdf)
 <use figures/ch_01/fig_1_43.pdf>
-Package pdftex.def Info: figures/ch_01/fig_1_43.pdf  used on input line 1795.
+Package pdftex.def Info: figures/ch_01/fig_1_43.pdf  used on input line 1798.
 (pdftex.def)             Requested size: 140.76047pt x 118.38731pt.
 
-Underfull \vbox (badness 3668) has occurred while \output is active []
+Underfull \vbox (badness 8170) has occurred while \output is active []
 
  [50 <./figures/ch_01/fig_1_41.pdf> <./figures/ch_01/fig_1_42.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_42.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
->] [51 <./figures/ch_01/fig_1_43.pdf>]) [52]
-(02_electric_field_in_dielectrics.tex
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51 <./figures/ch_01/fig_1_43.pdf>]) [52] (02_electric_field_in_dielectrics.te
+x
 Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2406,12 +2392,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
 [55] [56] [57]
-<figures/ch_02/fig_2_1.pdf, id=1176, 221.62083pt x 91.7381pt>
+<figures/ch_02/fig_2_1.pdf, id=1826, 221.62083pt x 91.7381pt>
 File: figures/ch_02/fig_2_1.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_1.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_1.pdf  used on input line 156.
 (pdftex.def)             Requested size: 221.62027pt x 91.73787pt.
-<figures/ch_02/fig_2_2.pdf, id=1177, 117.17802pt x 121.14438pt>
+<figures/ch_02/fig_2_2.pdf, id=1827, 117.17802pt x 121.14438pt>
 File: figures/ch_02/fig_2_2.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_2.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_2.pdf  used on input line 164.
@@ -2421,11 +2407,11 @@ Package pdftex.def Info: figures/ch_02/fig_2_2.pdf  used on input line 164.
 pdfTeX warning: pdflatex (file ./figures/ch_02/fig_2_2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
 >]
-<figures/ch_02/fig_2_3.pdf, id=1196, 111.03018pt x 63.86807pt>
+<figures/ch_02/fig_2_3.pdf, id=1846, 111.03018pt x 63.86807pt>
 File: figures/ch_02/fig_2_3.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_3.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_3.pdf  used on input line 221.
-(pdftex.def)             Requested size: 111.02989pt x 63.8679pt.
+(pdftex.def)             Requested size: 122.13354pt x 70.25508pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2433,7 +2419,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60 <./figures/ch_02/fig_2_3.pdf>]
-<figures/ch_02/fig_2_4.pdf, id=1215, 202.01457pt x 125.42879pt>
+<figures/ch_02/fig_2_4.pdf, id=1864, 202.01457pt x 125.42879pt>
 File: figures/ch_02/fig_2_4.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_4.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_4.pdf  used on input line 296.
@@ -2442,23 +2428,26 @@ Package pdftex.def Info: figures/ch_02/fig_2_4.pdf  used on input line 296.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61 <./figures/ch_02/fig_2_4.pdf>] [62]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (1.53206pt too high) has occurred while \output is active []
 
- [63]
-[64]
-<figures/ch_02/fig_2_5.pdf, id=1411, 116.65631pt x 192.38785pt>
+
+[63]
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [64]
+<figures/ch_02/fig_2_5.pdf, id=2061, 116.65631pt x 192.38785pt>
 File: figures/ch_02/fig_2_5.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_5.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_5.pdf  used on input line 491.
 (pdftex.def)             Requested size: 116.65602pt x 192.38736pt.
 
-Underfull \vbox (badness 1803) has occurred while \output is active []
+Underfull \vbox (badness 7273) has occurred while \output is active []
 
  [65]
-Underfull \vbox (badness 1152) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [66 <./figures/ch_02/fig_2_5.pdf>]
-<figures/ch_02/fig_2_6.pdf, id=1456, 202.01456pt x 169.1633pt>
+<figures/ch_02/fig_2_6.pdf, id=2105, 202.01456pt x 169.1633pt>
 File: figures/ch_02/fig_2_6.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_6.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_6.pdf  used on input line 583.
@@ -2467,33 +2456,28 @@ Package pdftex.def Info: figures/ch_02/fig_2_6.pdf  used on input line 583.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68 <./figures/ch_02/fig_2_6.pdf>]
-<figures/ch_02/fig_2_7.pdf, id=1479, 114.94957pt x 86.57289pt>
+[68 <./figures/ch_02/fig_2_6.pdf>]
+<figures/ch_02/fig_2_7.pdf, id=2128, 114.94957pt x 86.57289pt>
 File: figures/ch_02/fig_2_7.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_7.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_7.pdf  used on input line 631.
 (pdftex.def)             Requested size: 137.93878pt x 103.88692pt.
-<figures/ch_02/fig_2_8.pdf, id=1480, 144.68176pt x 74.32529pt>
+<figures/ch_02/fig_2_8.pdf, id=2129, 144.68176pt x 74.32529pt>
 File: figures/ch_02/fig_2_8.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_8.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_8.pdf  used on input line 639.
 (pdftex.def)             Requested size: 173.61723pt x 89.18987pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [69 <./figures/ch_02/fig_2_7.pdf> <./figures/ch_02/fig_2_8.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_02/fig_2_8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
 >]
-<figures/ch_02/fig_2_9.pdf, id=1517, 108.45682pt x 30.18617pt>
+<figures/ch_02/fig_2_9.pdf, id=2168, 108.45682pt x 30.18617pt>
 File: figures/ch_02/fig_2_9.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_9.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_9.pdf  used on input line 693.
 (pdftex.def)             Requested size: 108.45654pt x 30.18608pt.
-<figures/ch_02/fig_2_10.pdf, id=1518, 112.71347pt x 53.82788pt>
+<figures/ch_02/fig_2_10.pdf, id=2169, 112.71347pt x 53.82788pt>
 File: figures/ch_02/fig_2_10.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_10.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_10.pdf  used on input line 701.
@@ -2501,53 +2485,44 @@ Package pdftex.def Info: figures/ch_02/fig_2_10.pdf  used on input line 701.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71 <./figures/ch_02/fig_2_9.pdf> <./figures/ch_02/fig_2_10.pdf
+ [70 <./figures/ch_02/fig_2_9.pdf> <./figures/ch_02/fig_2_10.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_02/fig_2_10.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-
-LaTeX Warning: Reference `sec:16_3' on page 72 undefined on input line 755.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [72]
-<figures/ch_02/fig_2_11.pdf, id=1560, 112.90167pt x 97.6005pt>
+ [71]
+<figures/ch_02/fig_2_11.pdf, id=2204, 112.90167pt x 97.6005pt>
 File: figures/ch_02/fig_2_11.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_11.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_11.pdf  used on input line 786.
 (pdftex.def)             Requested size: 124.1922pt x 107.36084pt.
-<figures/ch_02/fig_2_12.pdf, id=1561, 112.71347pt x 120.12814pt>
+<figures/ch_02/fig_2_12.pdf, id=2205, 112.71347pt x 120.12814pt>
 File: figures/ch_02/fig_2_12.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_12.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_12.pdf  used on input line 794.
 (pdftex.def)             Requested size: 123.98518pt x 132.14134pt.
+
+Underfull \vbox (badness 4726) has occurred while \output is active []
+
+ [72]
+Overfull \hbox (2.71494pt too wide) in paragraph at lines 827--828
+[]\T1/Cochineal-OsF/m/n/10.95 (-20) Some au-thors char-ac-ter-ize Eq. [] as ``t
+he most gen-eral ex-pres-sion of Coulomb's
+ []
 
 [73 <./figures/ch_02/fig_2_11.pdf> <./figures/ch_02/fig_2_12.pdf
 
 pdfTeX warning: pdflatex (file ./figures/ch_02/fig_2_12.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-Overfull \hbox (2.71494pt too wide) in paragraph at lines 827--828
-[]\T1/Cochineal-OsF/m/n/10.95 (-20) Some au-thors char-ac-ter-ize Eq. [] as ``t
-he most gen-eral ex-pres-sion of Coulomb's
- []
-
-[74]
-<figures/ch_02/fig_2_13.pdf, id=1585, 140.74419pt x 139.23882pt>
+<figures/ch_02/fig_2_13.pdf, id=2229, 140.74419pt x 139.23882pt>
 File: figures/ch_02/fig_2_13.pdf Graphic file (type pdf)
 <use figures/ch_02/fig_2_13.pdf>
 Package pdftex.def Info: figures/ch_02/fig_2_13.pdf  used on input line 846.
 (pdftex.def)             Requested size: 140.74382pt x 139.23846pt.
-
-
-LaTeX Warning: Reference `sec:7_9' on page 75 undefined on input line 853.
-
-) [75 <./figures/ch_02/fig_2_13.pdf>] [76
+ [74]) [75 <./figures/ch_02/fig_2_13.pdf>] [76
 
 ]
 (03_conductors_in_an_electric_field.tex
@@ -2555,21 +2530,21 @@ Chapter 3.
 [77
 
 ]
-<figures/ch_03/fig_3_1.pdf, id=1607, 148.65521pt x 139.6761pt>
+<figures/ch_03/fig_3_1.pdf, id=2258, 148.65521pt x 139.6761pt>
 File: figures/ch_03/fig_3_1.pdf Graphic file (type pdf)
 <use figures/ch_03/fig_3_1.pdf>
 Package pdftex.def Info: figures/ch_03/fig_3_1.pdf  used on input line 39.
 (pdftex.def)             Requested size: 148.65483pt x 139.67575pt.
 
-Underfull \vbox (badness 2495) has occurred while \output is active []
+Underfull \vbox (badness 4792) has occurred while \output is active []
 
  [78 <./figures/ch_03/fig_3_1.pdf>]
-<figures/ch_03/fig_3_2.pdf, id=1623, 167.78847pt x 157.30928pt>
+<figures/ch_03/fig_3_2.pdf, id=2274, 167.78847pt x 157.30928pt>
 File: figures/ch_03/fig_3_2.pdf Graphic file (type pdf)
 <use figures/ch_03/fig_3_2.pdf>
 Package pdftex.def Info: figures/ch_03/fig_3_2.pdf  used on input line 59.
 (pdftex.def)             Requested size: 167.78804pt x 157.30888pt.
-<figures/ch_03/fig_3_3.pdf, id=1624, 109.22194pt x 148.36821pt>
+<figures/ch_03/fig_3_3.pdf, id=2275, 109.22194pt x 148.36821pt>
 File: figures/ch_03/fig_3_3.pdf Graphic file (type pdf)
 <use figures/ch_03/fig_3_3.pdf>
 Package pdftex.def Info: figures/ch_03/fig_3_3.pdf  used on input line 67.
@@ -2582,7 +2557,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning: pdflatex (file ./figures/ch_03/fig_3_3.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
 >]
-<figures/ch_03/fig_3_4.pdf, id=1644, 168.08955pt x 124.8667pt>
+<figures/ch_03/fig_3_4.pdf, id=2295, 168.08955pt x 124.8667pt>
 File: figures/ch_03/fig_3_4.pdf Graphic file (type pdf)
 <use figures/ch_03/fig_3_4.pdf>
 Package pdftex.def Info: figures/ch_03/fig_3_4.pdf  used on input line 84.
@@ -2605,96 +2580,1775 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Cochineal-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [82]
-
-LaTeX Warning: Reference `sec:5_3' on page 83 undefined on input line 147.
-
-
-LaTeX Warning: Reference `eq:5_18' on page 83 undefined on input line 147.
+ [82] [83]) [84] (04_energy_of_an_electric_field.tex
+Chapter 4.
+[85
 
 
-Underfull \vbox (badness 2229) has occurred while \output is active []
+]
+<figures/ch_04/fig_4_1.pdf, id=2373, 85.96936pt x 116.6563pt>
+File: figures/ch_04/fig_4_1.pdf Graphic file (type pdf)
+<use figures/ch_04/fig_4_1.pdf>
+Package pdftex.def Info: figures/ch_04/fig_4_1.pdf  used on input line 53.
+(pdftex.def)             Requested size: 85.96913pt x 116.656pt.
 
- [83])
-[84]
-<figures/pgc_2_bc.pdf, id=1704, 421.10078pt x 597.50786pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86 <./figures/ch_04/fig_4_1.pdf>]
+<figures/ch_04/fig_4_2.pdf, id=2404, 51.92545pt x 204.69463pt>
+File: figures/ch_04/fig_4_2.pdf Graphic file (type pdf)
+<use figures/ch_04/fig_4_2.pdf>
+Package pdftex.def Info: figures/ch_04/fig_4_2.pdf  used on input line 93.
+(pdftex.def)             Requested size: 51.92531pt x 204.6941pt.
+<figures/ch_04/fig_4_3.pdf, id=2405, 112.91423pt x 119.16168pt>
+File: figures/ch_04/fig_4_3.pdf Graphic file (type pdf)
+<use figures/ch_04/fig_4_3.pdf>
+Package pdftex.def Info: figures/ch_04/fig_4_3.pdf  used on input line 101.
+(pdftex.def)             Requested size: 112.91396pt x 119.16138pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+[88 <./figures/ch_04/fig_4_2.pdf> <./figures/ch_04/fig_4_3.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_04/fig_4_3.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90])
+[91] [92
+
+] (05_steady_electric_current.tex
+Chapter 5.
+[93
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+<figures/ch_05/fig_5_1.pdf, id=2494, 111.99037pt x 97.80785pt>
+File: figures/ch_05/fig_5_1.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_1.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_1.pdf  used on input line 100.
+(pdftex.def)             Requested size: 111.99008pt x 97.8076pt.
+<figures/ch_05/fig_5_2.pdf, id=2495, 113.56831pt x 82.60101pt>
+File: figures/ch_05/fig_5_2.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_2.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_2.pdf  used on input line 108.
+(pdftex.def)             Requested size: 113.56802pt x 82.6008pt.
+
+[96 <./figures/ch_05/fig_5_1.pdf> <./figures/ch_05/fig_5_2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_05/fig_5_2.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_05/fig_5_3.pdf, id=2520, 192.62671pt x 66.309pt>
+File: figures/ch_05/fig_5_3.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_3.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_3.pdf  used on input line 150.
+(pdftex.def)             Requested size: 192.62622pt x 66.30884pt.
+ [97 <./figures/ch_05/fig_5_3.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+[99]
+<figures/ch_05/fig_5_4.pdf, id=2559, 112.24557pt x 43.72981pt>
+File: figures/ch_05/fig_5_4.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_4.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_4.pdf  used on input line 255.
+(pdftex.def)             Requested size: 112.24529pt x 43.72969pt.
+
+Underfull \vbox (badness 5533) has occurred while \output is active []
+
+ [100 <./figures/ch_05/fig_5_4.pdf>]
+<figures/ch_05/fig_5_5.pdf, id=2574, 142.6646pt x 98.9707pt>
+File: figures/ch_05/fig_5_5.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_5.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_5.pdf  used on input line 284.
+(pdftex.def)             Requested size: 142.66425pt x 98.97046pt.
+ [101 <./figures/ch_05/fig_5_5.pdf>]
+<figures/ch_05/fig_5_6.pdf, id=2586, 111.45094pt x 60.29561pt>
+File: figures/ch_05/fig_5_6.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_6.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_6.pdf  used on input line 312.
+(pdftex.def)             Requested size: 111.45065pt x 60.29544pt.
+ [102 <./figures/ch_05/fig_5_6.pdf>]
+<figures/ch_05/fig_5_7.pdf, id=2601, 99.5426pt x 89.96503pt>
+File: figures/ch_05/fig_5_7.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_7.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_7.pdf  used on input line 378.
+(pdftex.def)             Requested size: 99.54236pt x 89.9648pt.
+<figures/ch_05/fig_5_8.pdf, id=2602, 189.15523pt x 129.67941pt>
+File: figures/ch_05/fig_5_8.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_8.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_8.pdf  used on input line 386.
+(pdftex.def)             Requested size: 189.15474pt x 129.67908pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104 <./figures/ch_05/fig_5_7.pdf> <./figures/ch_05/fig_5_8.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_05/fig_5_8.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_05/fig_5_9.pdf, id=2628, 170.78854pt x 149.87424pt>
+File: figures/ch_05/fig_5_9.pdf Graphic file (type pdf)
+<use figures/ch_05/fig_5_9.pdf>
+Package pdftex.def Info: figures/ch_05/fig_5_9.pdf  used on input line 446.
+(pdftex.def)             Requested size: 170.78812pt x 149.87386pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105 <./figures/ch_05/fig_5_9.pdf>] [106] [107]) [108] (06_magnetic_field_in_a
+_vacuum.tex
+Chapter 6.
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
+ [109
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+[112]
+<figures/ch_06/fig_6_1.pdf, id=2735, 117.14864pt x 92.12152pt>
+File: figures/ch_06/fig_6_1.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_1.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_1.pdf  used on input line 175.
+(pdftex.def)             Requested size: 117.14833pt x 92.12129pt.
+ [113 <./figures/ch_06/fig_6_1.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+<figures/ch_06/fig_6_2.pdf, id=2768, 164.44612pt x 122.1917pt>
+File: figures/ch_06/fig_6_2.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_2.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_2.pdf  used on input line 255.
+(pdftex.def)             Requested size: 164.44571pt x 122.19139pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+<figures/ch_06/fig_6_3.pdf, id=2780, 130.0088pt x 163.10866pt>
+File: figures/ch_06/fig_6_3.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_3.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_3.pdf  used on input line 279.
+(pdftex.def)             Requested size: 130.00847pt x 163.10825pt.
+
+[116 <./figures/ch_06/fig_6_2.pdf>] [117 <./figures/ch_06/fig_6_3.pdf>]
+<figures/ch_06/fig_6_4.pdf, id=2809, 129.0675pt x 187.9873pt>
+File: figures/ch_06/fig_6_4.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_4.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_4.pdf  used on input line 335.
+(pdftex.def)             Requested size: 129.06718pt x 187.98685pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118 <./figures/ch_06/fig_6_4.pdf>]
+<figures/ch_06/fig_6_5.pdf, id=2821, 157.80826pt x 119.1154pt>
+File: figures/ch_06/fig_6_5.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_5.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_5.pdf  used on input line 368.
+(pdftex.def)             Requested size: 157.80785pt x 119.1151pt.
+ [119 <./figures/ch_06/fig_6_5.pdf>]
+<figures/ch_06/fig_6_6.pdf, id=2893, 185.00507pt x 81.36092pt>
+File: figures/ch_06/fig_6_6.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_6.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_6.pdf  used on input line 415.
+(pdftex.def)             Requested size: 185.0046pt x 81.3607pt.
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
+ [120 <./figures/ch_06/fig_6_6.pdf>]
+<figures/ch_06/fig_6_7.pdf, id=2910, 165.24232pt x 86.80391pt>
+File: figures/ch_06/fig_6_7.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_7.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_7.pdf  used on input line 448.
+(pdftex.def)             Requested size: 165.24191pt x 86.8037pt.
+<figures/ch_06/fig_6_8.pdf, id=2911, 165.34912pt x 130.67484pt>
+File: figures/ch_06/fig_6_8.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_8.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_8.pdf  used on input line 456.
+(pdftex.def)             Requested size: 165.34871pt x 130.6745pt.
+ [121 <./figures/ch_06/fig_6_7.pdf> <./figures/ch_06/fig_6_8.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_8.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>] [122]
+<figures/ch_06/fig_6_9.pdf, id=2951, 119.85388pt x 143.8949pt>
+File: figures/ch_06/fig_6_9.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_9.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_9.pdf  used on input line 545.
+(pdftex.def)             Requested size: 119.85358pt x 143.89453pt.
+<figures/ch_06/fig_6_10.pdf, id=2952, 192.67035pt x 157.0167pt>
+File: figures/ch_06/fig_6_10.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_10.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_10.pdf  used on input line 553.
+(pdftex.def)             Requested size: 192.66986pt x 157.0163pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123 <./figures/ch_06/fig_6_9.pdf> <./figures/ch_06/fig_6_10.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_10.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_06/fig_6_11.pdf, id=2976, 164.5448pt x 60.29608pt>
+File: figures/ch_06/fig_6_11.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_11.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_11.pdf  used on input line 589.
+(pdftex.def)             Requested size: 164.54439pt x 60.29591pt.
+<figures/ch_06/fig_6_12.pdf, id=2977, 160.47888pt x 41.6457pt>
+File: figures/ch_06/fig_6_12.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_12.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_12.pdf  used on input line 597.
+(pdftex.def)             Requested size: 160.47847pt x 41.64558pt.
+ [124 <./figures/ch_06/fig_6_11.pdf> <./figures/ch_06/fig_6_12.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_12.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_06/fig_6_13.pdf, id=2993, 275.01642pt x 99.21596pt>
+File: figures/ch_06/fig_6_13.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_13.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_13.pdf  used on input line 630.
+(pdftex.def)             Requested size: 275.01573pt x 99.21571pt.
+ [125 <./figures/ch_06/fig_6_13.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+<figures/ch_06/fig_6_14.pdf, id=3061, 340.44666pt x 127.56645pt>
+File: figures/ch_06/fig_6_14.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_14.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_14.pdf  used on input line 857.
+(pdftex.def)             Requested size: 340.44582pt x 127.56613pt.
+
+[130]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131 <./figures/ch_06/fig_6_14.pdf>]
+<figures/ch_06/fig_6_15.pdf, id=3091, 130.70935pt x 128.46567pt>
+File: figures/ch_06/fig_6_15.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_15.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_15.pdf  used on input line 911.
+(pdftex.def)             Requested size: 130.70903pt x 128.46533pt.
+ [132 <./figures/ch_06/fig_6_15.pdf>]
+<figures/ch_06/fig_6_16.pdf, id=3105, 127.50313pt x 136.82495pt>
+File: figures/ch_06/fig_6_16.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_16.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_16.pdf  used on input line 947.
+(pdftex.def)             Requested size: 127.5028pt x 136.8246pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133 <./figures/ch_06/fig_6_16.pdf>]
+<figures/ch_06/fig_6_17.pdf, id=3123, 245.23868pt x 127.49545pt>
+File: figures/ch_06/fig_6_17.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_17.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_17.pdf  used on input line 1006.
+(pdftex.def)             Requested size: 245.23807pt x 127.49513pt.
+
+Underfull \vbox (badness 5622) has occurred while \output is active []
+
+ [134 <./figures/ch_06/fig_6_17.pdf>]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [135]
+<figures/ch_06/fig_6_18.pdf, id=3152, 116.71779pt x 139.55467pt>
+File: figures/ch_06/fig_6_18.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_18.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_18.pdf  used on input line 1058.
+(pdftex.def)             Requested size: 114.38264pt x 136.76263pt.
+<figures/ch_06/fig_6_19.pdf, id=3153, 214.6464pt x 88.15504pt>
+File: figures/ch_06/fig_6_19.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_19.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_19.pdf  used on input line 1066.
+(pdftex.def)             Requested size: 210.35202pt x 86.39134pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136 <./figures/ch_06/fig_6_18.pdf> <./figures/ch_06/fig_6_19.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_19.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_06/fig_6_20.pdf, id=3174, 130.23639pt x 210.763pt>
+File: figures/ch_06/fig_6_20.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_20.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_20.pdf  used on input line 1116.
+(pdftex.def)             Requested size: 130.23607pt x 210.76248pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137]
+[138 <./figures/ch_06/fig_6_20.pdf>]
+<figures/ch_06/fig_6_21.pdf, id=3198, 251.27557pt x 86.1796pt>
+File: figures/ch_06/fig_6_21.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_21.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_21.pdf  used on input line 1156.
+(pdftex.def)             Requested size: 276.40398pt x 94.79782pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139 <./figures/ch_06/fig_6_21.pdf>]
+<figures/ch_06/fig_6_22.pdf, id=3221, 221.94827pt x 87.9666pt>
+File: figures/ch_06/fig_6_22.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_22.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_22.pdf  used on input line 1193.
+(pdftex.def)             Requested size: 244.14384pt x 96.76353pt.
+<figures/ch_06/fig_6_23.pdf, id=3233, 129.41338pt x 62.5523pt>
+File: figures/ch_06/fig_6_23.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_23.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_23.pdf  used on input line 1234.
+(pdftex.def)             Requested size: 126.82422pt x 61.30083pt.
+
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+ [140 <./figures/ch_06/fig_6_22.pdf>] [141 <./figures/ch_06/fig_6_23.pdf>]
+Underfull \vbox (badness 2401) has occurred while \output is active []
+
+ [142]
+<figures/ch_06/fig_6_24.pdf, id=3288, 254.1521pt x 97.958pt>
+File: figures/ch_06/fig_6_24.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_24.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_24.pdf  used on input line 1321.
+(pdftex.def)             Requested size: 254.15146pt x 97.95775pt.
+<figures/ch_06/fig_6_25.pdf, id=3298, 142.20044pt x 100.6705pt>
+File: figures/ch_06/fig_6_25.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_25.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_25.pdf  used on input line 1355.
+(pdftex.def)             Requested size: 142.20007pt x 100.67024pt.
+<figures/ch_06/fig_6_26.pdf, id=3299, 171.44864pt x 118.55965pt>
+File: figures/ch_06/fig_6_26.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_26.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_26.pdf  used on input line 1363.
+(pdftex.def)             Requested size: 171.44821pt x 118.55934pt.
+
+[143 <./figures/ch_06/fig_6_24.pdf>]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [144 <./figures/ch_06/fig_6_25.pdf> <./figures/ch_06/fig_6_26.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_26.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+<figures/ch_06/fig_6_27b.pdf, id=3343, 132.95538pt x 96.52943pt>
+File: figures/ch_06/fig_6_27b.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_27b.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_27b.pdf  used on input line 1465.
+(pdftex.def)             Requested size: 132.95503pt x 96.52919pt.
+<figures/ch_06/fig_6_28.pdf, id=3344, 140.70656pt x 143.26024pt>
+File: figures/ch_06/fig_6_28.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_28.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_28.pdf  used on input line 1473.
+(pdftex.def)             Requested size: 140.70619pt x 143.25989pt.
+
+[146]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147 <./figures/ch_06/fig_6_27b.pdf> <./figures/ch_06/fig_6_28.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_28.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_06/fig_6_29.pdf, id=3433, 142.82027pt x 109.42863pt>
+File: figures/ch_06/fig_6_29.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_29.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_29.pdf  used on input line 1506.
+(pdftex.def)             Requested size: 142.81992pt x 109.42834pt.
+<figures/ch_06/fig_6_30.pdf, id=3434, 121.88232pt x 96.13794pt>
+File: figures/ch_06/fig_6_30.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_30.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_30.pdf  used on input line 1514.
+(pdftex.def)             Requested size: 121.882pt x 96.1377pt.
+
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+ [148 <./figures/ch_06/fig_6_29.pdf> <./figures/ch_06/fig_6_30.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_30.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_06/fig_6_31.pdf, id=3465, 137.70706pt x 129.97597pt>
+File: figures/ch_06/fig_6_31.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_31.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_31.pdf  used on input line 1555.
+(pdftex.def)             Requested size: 137.70671pt x 129.97563pt.
+<figures/ch_06/fig_6_32.pdf, id=3466, 135.61806pt x 119.60693pt>
+File: figures/ch_06/fig_6_32.pdf Graphic file (type pdf)
+<use figures/ch_06/fig_6_32.pdf>
+Package pdftex.def Info: figures/ch_06/fig_6_32.pdf  used on input line 1563.
+(pdftex.def)             Requested size: 135.6177pt x 119.60663pt.
+) [149 <./figures/ch_06/fig_6_31.pdf> <./figures/ch_06/fig_6_32.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_06/fig_6_32.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>] [150
+
+] (07_magnetic_field_in_a_substance.tex
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151
+
+]
+[152]
+<figures/ch_07/fig_7_1.pdf, id=3514, 136.68652pt x 53.44505pt>
+File: figures/ch_07/fig_7_1.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_1.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 136.68617pt x 53.4449pt.
+<figures/ch_07/fig_7_2.pdf, id=3515, 159.27443pt x 108.56871pt>
+File: figures/ch_07/fig_7_2.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_2.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_2.pdf  used on input line 104.
+(pdftex.def)             Requested size: 159.27402pt x 108.56844pt.
+
+Underfull \vbox (badness 7468) has occurred while \output is active []
+
+ [153 <./figures/ch_07/fig_7_1.pdf> <./figures/ch_07/fig_7_2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_07/fig_7_2.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_07/fig_7_3.pdf, id=3539, 141.29819pt x 123.86646pt>
+File: figures/ch_07/fig_7_3.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_3.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_3.pdf  used on input line 147.
+(pdftex.def)             Requested size: 141.29782pt x 123.86613pt.
+ [154 <./figures/ch_07/fig_7_3.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 1859) has occurred while \output is active []
+
+ [157]
+<figures/ch_07/fig_7_4.pdf, id=3608, 270.14368pt x 106.32414pt>
+File: figures/ch_07/fig_7_4.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_4.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_4.pdf  used on input line 339.
+(pdftex.def)             Requested size: 270.143pt x 106.32387pt.
+
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+ [158 <./figures/ch_07/fig_7_4.pdf>]
+LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 393.
+
+Underfull \vbox (badness 6300) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+ [160]
+<figures/ch_07/fig_7_5.pdf, id=3654, 112.71347pt x 68.34116pt>
+File: figures/ch_07/fig_7_5.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_5.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_5.pdf  used on input line 472.
+(pdftex.def)             Requested size: 112.71318pt x 68.34097pt.
+<figures/ch_07/fig_7_6.pdf, id=3655, 108.45682pt x 65.22427pt>
+File: figures/ch_07/fig_7_6.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_6.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_6.pdf  used on input line 480.
+(pdftex.def)             Requested size: 108.45654pt x 65.2241pt.
+
+[161 <./figures/ch_07/fig_7_5.pdf> <./figures/ch_07/fig_7_6.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_07/fig_7_6.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_07/fig_7_7.pdf, id=3675, 112.71347pt x 120.128pt>
+File: figures/ch_07/fig_7_7.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_7.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_7.pdf  used on input line 537.
+(pdftex.def)             Requested size: 123.98518pt x 132.14119pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162 <./figures/ch_07/fig_7_7.pdf>]
+<figures/ch_07/fig_7_8.pdf, id=3689, 137.9529pt x 116.68741pt>
+File: figures/ch_07/fig_7_8.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_8.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_8.pdf  used on input line 581.
+(pdftex.def)             Requested size: 137.95255pt x 116.6871pt.
+<figures/ch_07/fig_7_9.pdf, id=3690, 137.20007pt x 119.77861pt>
+File: figures/ch_07/fig_7_9.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_9.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_9.pdf  used on input line 589.
+(pdftex.def)             Requested size: 137.19972pt x 119.7783pt.
+ [163 <./figures/ch_07/fig_7_8.pdf> <./figures/ch_07/fig_7_9.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_07/fig_7_9.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_07/fig_7_10.pdf, id=3701, 112.755pt x 113.2051pt>
+File: figures/ch_07/fig_7_10.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_10.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_10.pdf  used on input line 638.
+(pdftex.def)             Requested size: 112.75473pt x 113.2048pt.
+ [164] [165 <./figures/ch_07/fig_7_10.pdf>]
+<figures/ch_07/fig_7_11.pdf, id=3723, 80.46442pt x 159.55603pt>
+File: figures/ch_07/fig_7_11.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_11.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_11.pdf  used on input line 700.
+(pdftex.def)             Requested size: 80.46422pt x 159.55562pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166 <./figures/ch_07/fig_7_11.pdf>]
+Underfull \vbox (badness 2173) has occurred while \output is active []
+
+ [167]
+<figures/ch_07/fig_7_12.pdf, id=3754, 144.06152pt x 77.22388pt>
+File: figures/ch_07/fig_7_12.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_12.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_12.pdf  used on input line 787.
+(pdftex.def)             Requested size: 144.06116pt x 77.22368pt.
+<figures/ch_07/fig_7_13.pdf, id=3755, 167.95984pt x 132.69672pt>
+File: figures/ch_07/fig_7_13.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_13.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_13.pdf  used on input line 795.
+(pdftex.def)             Requested size: 167.95941pt x 132.69638pt.
+
+Underfull \vbox (badness 1917) has occurred while \output is active []
+
+ [168]
+[169 <./figures/ch_07/fig_7_12.pdf> <./figures/ch_07/fig_7_13.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_07/fig_7_13.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_07/fig_7_14.pdf, id=3789, 267.22717pt x 176.11723pt>
+File: figures/ch_07/fig_7_14.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_14.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_14.pdf  used on input line 836.
+(pdftex.def)             Requested size: 267.22652pt x 176.11679pt.
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [170 <./figures/ch_07/fig_7_14.pdf>]
+<figures/ch_07/fig_7_15.pdf, id=3805, 129.29012pt x 129.60419pt>
+File: figures/ch_07/fig_7_15.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_15.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_15.pdf  used on input line 888.
+(pdftex.def)             Requested size: 129.28978pt x 129.60385pt.
+ [171 <./figures/ch_07/fig_7_15.pdf>]
+Underfull \vbox (badness 4454) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [173]
+<figures/ch_07/fig_7_16.pdf, id=3844, 140.62651pt x 98.52592pt>
+File: figures/ch_07/fig_7_16.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_16.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_16.pdf  used on input line 1000.
+(pdftex.def)             Requested size: 140.62616pt x 98.52568pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [174 <./figures/ch_07/fig_7_16.pdf>] [175]
+<figures/ch_07/fig_7_17.pdf, id=3869, 131.71149pt x 120.76797pt>
+File: figures/ch_07/fig_7_17.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_17.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_17.pdf  used on input line 1095.
+(pdftex.def)             Requested size: 131.71115pt x 120.76765pt.
+<figures/ch_07/fig_7_18.pdf, id=3870, 165.60826pt x 159.60986pt>
+File: figures/ch_07/fig_7_18.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_18.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_18.pdf  used on input line 1103.
+(pdftex.def)             Requested size: 165.60783pt x 159.60947pt.
+ [176 <./figures/ch_07/fig_7_17.pdf> <./figures/ch_07/fig_7_18.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_07/fig_7_18.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_07/fig_7_19.pdf, id=3890, 161.89995pt x 219.13489pt>
+File: figures/ch_07/fig_7_19.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_19.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_19.pdf  used on input line 1149.
+(pdftex.def)             Requested size: 161.89954pt x 219.13434pt.
+ [177] [178 <./figures/ch_07/fig_7_19.pdf>]
+<figures/ch_07/fig_7_20.pdf, id=3909, 92.72112pt x 145.10905pt>
+File: figures/ch_07/fig_7_20.pdf Graphic file (type pdf)
+<use figures/ch_07/fig_7_20.pdf>
+Package pdftex.def Info: figures/ch_07/fig_7_20.pdf  used on input line 1192.
+(pdftex.def)             Requested size: 92.72087pt x 145.10869pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179 <./figures/ch_07/fig_7_20.pdf>]) [180] (08_electromagnetic_induction.tex
+Chapter 8.
+<figures/ch_08/fig_8_1.pdf, id=3925, 191.49187pt x 150.0434pt>
+File: figures/ch_08/fig_8_1.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_1.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_1.pdf  used on input line 32.
+(pdftex.def)             Requested size: 191.4914pt x 150.04301pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181
+
+
+]
+[182 <./figures/ch_08/fig_8_1.pdf>]
+<figures/ch_08/fig_8_2.pdf, id=3941, 193.62224pt x 100.8534pt>
+File: figures/ch_08/fig_8_2.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_2.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_2.pdf  used on input line 85.
+(pdftex.def)             Requested size: 193.62175pt x 100.85313pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183 <./figures/ch_08/fig_8_2.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+<figures/ch_08/fig_8_3.pdf, id=3976, 105.12427pt x 88.79228pt>
+File: figures/ch_08/fig_8_3.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_3.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_3.pdf  used on input line 162.
+(pdftex.def)             Requested size: 105.124pt x 88.79205pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185 <./figures/ch_08/fig_8_3.pdf>]
+<figures/ch_08/fig_8_4.pdf, id=3988, 219.8161pt x 105.88899pt>
+File: figures/ch_08/fig_8_4.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_4.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_4.pdf  used on input line 254.
+(pdftex.def)             Requested size: 219.81557pt x 105.88872pt.
+ [186]
+<figures/ch_08/fig_8_5.pdf, id=4002, 148.42851pt x 73.35114pt>
+File: figures/ch_08/fig_8_5.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_5.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_5.pdf  used on input line 292.
+(pdftex.def)             Requested size: 148.42815pt x 73.35094pt.
+<figures/ch_08/fig_8_6.pdf, id=4003, 110.42021pt x 104.24557pt>
+File: figures/ch_08/fig_8_6.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_6.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_6.pdf  used on input line 300.
+(pdftex.def)             Requested size: 110.41994pt x 104.2453pt.
+ [187 <./figures/ch_08/fig_8_4.pdf>] [188 <./figures/ch_08/fig_8_5.pdf> <./figu
+res/ch_08/fig_8_6.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_08/fig_8_6.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>] [189]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [190]
+<figures/ch_08/fig_8_7.pdf, id=4065, 90.41908pt x 137.38762pt>
+File: figures/ch_08/fig_8_7.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_7.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_7.pdf  used on input line 446.
+(pdftex.def)             Requested size: 90.41885pt x 137.38728pt.
+
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+ [191 <./figures/ch_08/fig_8_7.pdf>]
+<figures/ch_08/fig_8_8.pdf, id=4092, 183.82622pt x 130.75545pt>
+File: figures/ch_08/fig_8_8.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_8.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_8.pdf  used on input line 512.
+(pdftex.def)             Requested size: 183.82576pt x 130.75511pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [192]
+[193 <./figures/ch_08/fig_8_8.pdf>]
+<figures/ch_08/fig_8_9.pdf, id=4120, 179.22035pt x 86.7304pt>
+File: figures/ch_08/fig_8_9.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_9.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_9.pdf  used on input line 580.
+(pdftex.def)             Requested size: 179.21991pt x 86.73018pt.
+ [194 <./figures/ch_08/fig_8_9.pdf>]
+<figures/ch_08/fig_8_10.pdf, id=4136, 140.39955pt x 161.91266pt>
+File: figures/ch_08/fig_8_10.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_10.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_10.pdf  used on input line 628.
+(pdftex.def)             Requested size: 140.3992pt x 161.91225pt.
+
+Underfull \vbox (badness 2600) has occurred while \output is active []
+
+ [195 <./figures/ch_08/fig_8_10.pdf>]
+<figures/ch_08/fig_8_11.pdf, id=4152, 153.48132pt x 130.94637pt>
+File: figures/ch_08/fig_8_11.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_11.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_11.pdf  used on input line 672.
+(pdftex.def)             Requested size: 145.80641pt x 124.39833pt.
+ [196 <./figures/ch_08/fig_8_11.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [197]
+[198]
+<figures/ch_08/fig_8_12.pdf, id=4204, 137.07187pt x 121.63461pt>
+File: figures/ch_08/fig_8_12.pdf Graphic file (type pdf)
+<use figures/ch_08/fig_8_12.pdf>
+Package pdftex.def Info: figures/ch_08/fig_8_12.pdf  used on input line 814.
+(pdftex.def)             Requested size: 137.07152pt x 121.63431pt.
+) [199 <./figures/ch_08/fig_8_12.pdf>] [200] (09_maxwells_equations.tex
+Chapter 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [201
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [202]
+<figures/ch_09/fig_9_1.pdf, id=4249, 222.61725pt x 127.9174pt>
+File: figures/ch_09/fig_9_1.pdf Graphic file (type pdf)
+<use figures/ch_09/fig_9_1.pdf>
+Package pdftex.def Info: figures/ch_09/fig_9_1.pdf  used on input line 112.
+(pdftex.def)             Requested size: 222.61668pt x 127.91708pt.
+
+[203 <./figures/ch_09/fig_9_1.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [204]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [205]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [206]
+[207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [208])
+[209pdfTeX warning (ext4): destination with the same identifier (name{equation.
+9.3.19}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.328 \cleardoublepage
+                      ] [210
+
+]
+(10_motion_of_charged_particles_in_E_and_B_fields.tex
+Chapter 10.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 7.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211
+
+]
+<figures/ch_10/fig_10_1.pdf, id=4383, 116.83015pt x 93.85957pt>
+File: figures/ch_10/fig_10_1.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_1.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_1.pdf  used on input line 64.
+(pdftex.def)             Requested size: 116.82985pt x 93.85933pt.
+<figures/ch_10/fig_10_2.pdf, id=4384, 140.58633pt x 83.05113pt>
+File: figures/ch_10/fig_10_2.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_2.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_2.pdf  used on input line 72.
+(pdftex.def)             Requested size: 140.58598pt x 83.05092pt.
+
+[212 <./figures/ch_10/fig_10_1.pdf> <./figures/ch_10/fig_10_2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_10/fig_10_2.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_10/fig_10_3.pdf, id=4399, 220.29799pt x 90.51012pt>
+File: figures/ch_10/fig_10_3.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_3.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_3.pdf  used on input line 112.
+(pdftex.def)             Requested size: 215.89055pt x 88.6993pt.
+ [213 <./figures/ch_10/fig_10_3.pdf>]
+<figures/ch_10/fig_10_4.pdf, id=4414, 220.29799pt x 99.54387pt>
+File: figures/ch_10/fig_10_4.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_4.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_4.pdf  used on input line 158.
+(pdftex.def)             Requested size: 215.89055pt x 97.5523pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [214 <./figures/ch_10/fig_10_4.pdf>]
+<figures/ch_10/fig_10_5.pdf, id=4431, 217.8415pt x 82.94992pt>
+File: figures/ch_10/fig_10_5.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_5.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_5.pdf  used on input line 189.
+(pdftex.def)             Requested size: 217.84096pt x 82.9497pt.
+ [215 <./figures/ch_10/fig_10_5.pdf>]
+<figures/ch_10/fig_10_6.pdf, id=4453, 223.12099pt x 82.87427pt>
+File: figures/ch_10/fig_10_6.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_6.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_6.pdf  used on input line 216.
+(pdftex.def)             Requested size: 223.12044pt x 82.87405pt.
+ [216 <./figures/ch_10/fig_10_6.pdf>]
+<figures/ch_10/fig_10_7.pdf, id=4470, 217.01942pt x 63.28836pt>
+File: figures/ch_10/fig_10_7.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_7.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_7.pdf  used on input line 273.
+(pdftex.def)             Requested size: 217.01889pt x 63.2882pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [217 <./figures/ch_10/fig_10_7.pdf>]
+<figures/ch_10/fig_10_8.pdf, id=4490, 138.71483pt x 81.53067pt>
+File: figures/ch_10/fig_10_8.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_8.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_8.pdf  used on input line 311.
+(pdftex.def)             Requested size: 138.71448pt x 81.53046pt.
+
+Underfull \vbox (badness 7451) has occurred while \output is active []
+
+ [218 <./figures/ch_10/fig_10_8.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [219]
+[220]
+<figures/ch_10/fig_10_9.pdf, id=4542, 173.13043pt x 129.3387pt>
+File: figures/ch_10/fig_10_9.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_9.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_9.pdf  used on input line 459.
+(pdftex.def)             Requested size: 173.13pt x 129.33838pt.
+
+Underfull \vbox (badness 6220) has occurred while \output is active []
+
+ [221 <./figures/ch_10/fig_10_9.pdf>]
+<figures/ch_10/fig_10_10.pdf, id=4559, 231.3366pt x 180.48856pt>
+File: figures/ch_10/fig_10_10.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_10.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_10.pdf  used on input line 498.
+(pdftex.def)             Requested size: 208.20099pt x 162.43819pt.
+
+Underfull \vbox (badness 7379) has occurred while \output is active []
+
+ [222 <./figures/ch_10/fig_10_10.pdf>]
+<figures/ch_10/fig_10_11.pdf, id=4570, 222.86642pt x 76.75903pt>
+File: figures/ch_10/fig_10_11.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_11.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_11.pdf  used on input line 511.
+(pdftex.def)             Requested size: 222.86586pt x 76.75883pt.
+<figures/ch_10/fig_10_12.pdf, id=4572, 219.39177pt x 93.59021pt>
+File: figures/ch_10/fig_10_12.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_12.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_12.pdf  used on input line 528.
+(pdftex.def)             Requested size: 204.03224pt x 87.03798pt.
+ [223 <./figures/ch_10/fig_10_11.pdf> <./figures/ch_10/fig_10_12.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_10/fig_10_12.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<figures/ch_10/fig_10_13.pdf, id=4600, 161.8034pt x 134.7893pt>
+File: figures/ch_10/fig_10_13.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_13.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_13.pdf  used on input line 550.
+(pdftex.def)             Requested size: 161.80301pt x 134.78896pt.
+
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+ [224 <./figures/ch_10/fig_10_13.pdf>]
+<figures/ch_10/fig_10_14.pdf, id=4609, 140.83078pt x 194.67093pt>
+File: figures/ch_10/fig_10_14.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_14.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_14.pdf  used on input line 583.
+(pdftex.def)             Requested size: 140.83043pt x 194.67044pt.
+
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+ [225 <./figures/ch_10/fig_10_14.pdf>]
+<figures/ch_10/fig_10_15.pdf, id=4627, 165.27814pt x 85.13058pt>
+File: figures/ch_10/fig_10_15.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_15.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_15.pdf  used on input line 621.
+(pdftex.def)             Requested size: 165.27771pt x 85.13037pt.
+
+Underfull \vbox (badness 2735) has occurred while \output is active []
+
+ [226 <./figures/ch_10/fig_10_15.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [227]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [228]
+<figures/ch_10/fig_10_16.pdf, id=4662, 123.47333pt x 99.33986pt>
+File: figures/ch_10/fig_10_16.pdf Graphic file (type pdf)
+<use figures/ch_10/fig_10_16.pdf>
+Package pdftex.def Info: figures/ch_10/fig_10_16.pdf  used on input line 727.
+(pdftex.def)             Requested size: 123.47302pt x 99.3396pt.
+
+[229 <./figures/ch_10/fig_10_16.pdf>]) [230]
+(11_classical_theory_of_electrical_conductance_metals.tex
+Chapter 11.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 7.
+
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+ [231
+
+
+]
+<figures/ch_11/fig_11_1.pdf, id=4707, 137.82611pt x 54.68338pt>
+File: figures/ch_11/fig_11_1.pdf Graphic file (type pdf)
+<use figures/ch_11/fig_11_1.pdf>
+Package pdftex.def Info: figures/ch_11/fig_11_1.pdf  used on input line 55.
+(pdftex.def)             Requested size: 137.82576pt x 54.68323pt.
+
+[232 <./figures/ch_11/fig_11_1.pdf>] [233]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [234]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [236]
+<figures/ch_11/fig_11_2.pdf, id=4765, 112.15965pt x 58.42992pt>
+File: figures/ch_11/fig_11_2.pdf Graphic file (type pdf)
+<use figures/ch_11/fig_11_2.pdf>
+Package pdftex.def Info: figures/ch_11/fig_11_2.pdf  used on input line 275.
+(pdftex.def)             Requested size: 112.15936pt x 58.42976pt.
+<figures/ch_11/fig_11_3.pdf, id=4766, 139.82082pt x 76.72412pt>
+File: figures/ch_11/fig_11_3.pdf Graphic file (type pdf)
+<use figures/ch_11/fig_11_3.pdf>
+Package pdftex.def Info: figures/ch_11/fig_11_3.pdf  used on input line 283.
+(pdftex.def)             Requested size: 139.82045pt x 76.72392pt.
+
+[237 <./figures/ch_11/fig_11_2.pdf> <./figures/ch_11/fig_11_3.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_11/fig_11_3.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [238]
+<figures/ch_11/fig_11_4.pdf, id=4803, 232.75641pt x 54.46494pt>
+File: figures/ch_11/fig_11_4.pdf Graphic file (type pdf)
+<use figures/ch_11/fig_11_4.pdf>
+Package pdftex.def Info: figures/ch_11/fig_11_4.pdf  used on input line 374.
+(pdftex.def)             Requested size: 232.75583pt x 54.4648pt.
+)
+[239 <./figures/ch_11/fig_11_4.pdf>] [240
+
+] (12_electric_current_in_gases.tex
+Chapter 12.
+[241
+
+]
+<figures/ch_12/fig_12_1.pdf, id=4830, 129.36485pt x 205.12509pt>
+File: figures/ch_12/fig_12_1.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_1.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_1.pdf  used on input line 37.
+(pdftex.def)             Requested size: 129.36452pt x 205.12459pt.
+ [242 <./figures/ch_12/fig_12_1.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [243]
+<figures/ch_12/fig_12_2.pdf, id=4869, 137.50952pt x 96.46037pt>
+File: figures/ch_12/fig_12_2.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_2.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_2.pdf  used on input line 159.
+(pdftex.def)             Requested size: 137.50919pt x 96.46013pt.
+
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+ [244 <./figures/ch_12/fig_12_2.pdf>]
+<figures/ch_12/fig_12_3.pdf, id=4880, 235.96164pt x 90.49925pt>
+File: figures/ch_12/fig_12_3.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_3.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_3.pdf  used on input line 187.
+(pdftex.def)             Requested size: 235.96106pt x 90.49901pt.
+ [245 <./figures/ch_12/fig_12_3.pdf>]
+<figures/ch_12/fig_12_4.pdf, id=4905, 176.79706pt x 125.67522pt>
+File: figures/ch_12/fig_12_4.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_4.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_4.pdf  used on input line 223.
+(pdftex.def)             Requested size: 176.79662pt x 125.6749pt.
+
+Underfull \vbox (badness 3098) has occurred while \output is active []
+
+ [246 <./figures/ch_12/fig_12_4.pdf>]
+<figures/ch_12/fig_12_5.pdf, id=4918, 107.77856pt x 95.35663pt>
+File: figures/ch_12/fig_12_5.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_5.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_5.pdf  used on input line 251.
+(pdftex.def)             Requested size: 107.77829pt x 95.35638pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [247 <./figures/ch_12/fig_12_5.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [248]
+[249] [250]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [251]
+<figures/ch_12/fig_12_6.pdf, id=4970, 137.99889pt x 100.91533pt>
+File: figures/ch_12/fig_12_6.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_6.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_6.pdf  used on input line 450.
+(pdftex.def)             Requested size: 137.99854pt x 100.91507pt.
+
+[252 <./figures/ch_12/fig_12_6.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [253]
+<figures/ch_12/fig_12_7.pdf, id=4989, 111.84209pt x 76.21855pt>
+File: figures/ch_12/fig_12_7.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_7.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_7.pdf  used on input line 509.
+(pdftex.def)             Requested size: 111.8418pt x 76.21835pt.
+
+Underfull \vbox (badness 6284) has occurred while \output is active []
+
+ [254 <./figures/ch_12/fig_12_7.pdf>] [255]
+<figures/ch_12/fig_12_8.pdf, id=5014, 202.83707pt x 96.76291pt>
+File: figures/ch_12/fig_12_8.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_8.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_8.pdf  used on input line 586.
+(pdftex.def)             Requested size: 202.83655pt x 96.76266pt.
+ [256]
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+ [257 <./figures/ch_12/fig_12_8.pdf>] [258]
+<figures/ch_12/fig_12_9.pdf, id=5048, 103.77766pt x 86.03638pt>
+File: figures/ch_12/fig_12_9.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_9.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_9.pdf  used on input line 681.
+(pdftex.def)             Requested size: 103.7774pt x 86.03616pt.
+
+Overfull \hbox (2.43143pt too wide) in paragraph at lines 688--696
+[]\T1/Cochineal-OsF/m/n/10.95 (-20) Apart from the thermionic arc de-scribed ab
+ove (\T1/Cochineal-OsF/m/it/10.95 (-20) i.e.\T1/Cochineal-OsF/m/n/10.95 (-20) ,
+ a dis-charge due to thermionic
+ []
+
+[259 <./figures/ch_12/fig_12_9.pdf>] [260]
+<figures/ch_12/fig_12_10.pdf, id=5062, 223.78113pt x 38.5263pt>
+File: figures/ch_12/fig_12_10.pdf Graphic file (type pdf)
+<use figures/ch_12/fig_12_10.pdf>
+Package pdftex.def Info: figures/ch_12/fig_12_10.pdf  used on input line 725.
+(pdftex.def)             Requested size: 223.78056pt x 38.5262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [261 <./figures/ch_12/fig_12_10.pdf>]) [262] [263] [264
+
+] (13_electrical_oscillations.tex
+Chapter 13.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [265
+
+]
+<figures/ch_13/fig_13_1.pdf, id=5105, 242.06363pt x 124.72726pt>
+File: figures/ch_13/fig_13_1.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_1.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_1.pdf  used on input line 44.
+(pdftex.def)             Requested size: 266.27081pt x 137.2004pt.
+
+[266 <./figures/ch_13/fig_13_1.pdf>]
+<figures/ch_13/fig_13_2.pdf, id=5170, 94.84221pt x 104.81047pt>
+File: figures/ch_13/fig_13_2.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_2.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_2.pdf  used on input line 91.
+(pdftex.def)             Requested size: 94.84196pt x 104.8102pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [267]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [268 <./figures/ch_13/fig_13_2.pdf>]
+<figures/ch_13/fig_13_3.pdf, id=5207, 91.15082pt x 105.50899pt>
+File: figures/ch_13/fig_13_3.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_3.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_3.pdf  used on input line 192.
+(pdftex.def)             Requested size: 91.15059pt x 105.50871pt.
+ [269 <./figures/ch_13/fig_13_3.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [270]
+<figures/ch_13/fig_13_4.pdf, id=5239, 155.66472pt x 114.75116pt>
+File: figures/ch_13/fig_13_4.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_4.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_4.pdf  used on input line 284.
+(pdftex.def)             Requested size: 155.66434pt x 114.75085pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [271 <./figures/ch_13/fig_13_4.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [272]
+<figures/ch_13/fig_13_5.pdf, id=5268, 141.8493pt x 60.91681pt>
+File: figures/ch_13/fig_13_5.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_5.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_5.pdf  used on input line 379.
+(pdftex.def)             Requested size: 141.84894pt x 60.91664pt.
+
+[273 <./figures/ch_13/fig_13_5.pdf>]
+Underfull \vbox (badness 5245) has occurred while \output is active []
+
+ [274]
+<figures/ch_13/fig_13_6.pdf, id=5316, 166.80486pt x 84.79831pt>
+File: figures/ch_13/fig_13_6.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_6.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_6.pdf  used on input line 492.
+(pdftex.def)             Requested size: 166.80443pt x 84.7981pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [275 <./figures/ch_13/fig_13_6.pdf>]
+<figures/ch_13/fig_13_7.pdf, id=5337, 110.77614pt x 116.01599pt>
+File: figures/ch_13/fig_13_7.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_7.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_7.pdf  used on input line 528.
+(pdftex.def)             Requested size: 110.77585pt x 116.0157pt.
+<figures/ch_13/fig_13_8.pdf, id=5338, 114.31505pt x 116.01599pt>
+File: figures/ch_13/fig_13_8.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_8.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_8.pdf  used on input line 536.
+(pdftex.def)             Requested size: 114.31476pt x 116.0157pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [276 <./figures/ch_13/fig_13_7.pdf> <./figures/ch_13/fig_13_8.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_13/fig_13_8.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_13/fig_13_9.pdf, id=5354, 144.721pt x 114.63756pt>
+File: figures/ch_13/fig_13_9.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_9.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_9.pdf  used on input line 570.
+(pdftex.def)             Requested size: 144.72063pt x 114.63727pt.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [277 <./figures/ch_13/fig_13_9.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [278]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [279]
+<figures/ch_13/fig_13_10.pdf, id=5406, 150.05731pt x 101.55203pt>
+File: figures/ch_13/fig_13_10.pdf Graphic file (type pdf)
+<use figures/ch_13/fig_13_10.pdf>
+Package pdftex.def Info: figures/ch_13/fig_13_10.pdf  used on input line 738.
+(pdftex.def)             Requested size: 150.05693pt x 101.55177pt.
+)
+[280 <./figures/ch_13/fig_13_10.pdf>] [281
+
+
+] [282] (14_elastics_waves.tex
+Chapter 14.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [283
+
+
+]
+<figures/ch_14/fig_14_1.pdf, id=5437, 213.60658pt x 137.73328pt>
+File: figures/ch_14/fig_14_1.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_1.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_1.pdf  used on input line 33.
+(pdftex.def)             Requested size: 213.60605pt x 137.73293pt.
+<figures/ch_14/fig_14_2.pdf, id=5438, 213.60658pt x 137.73328pt>
+File: figures/ch_14/fig_14_2.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_2.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_2.pdf  used on input line 42.
+(pdftex.def)             Requested size: 213.60605pt x 137.73293pt.
+
+Underfull \vbox (badness 1584) has occurred while \output is active []
+
+ [284 <./figures/ch_14/fig_14_1.pdf> <./figures/ch_14/fig_14_2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_14/fig_14_2.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_14/fig_14_3.pdf, id=5451, 171.72859pt x 57.3732pt>
+File: figures/ch_14/fig_14_3.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_3.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_3.pdf  used on input line 91.
+(pdftex.def)             Requested size: 171.72816pt x 57.37305pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [285 <./figures/ch_14/fig_14_3.pdf>]
+<figures/ch_14/fig_14_4.pdf, id=5465, 111.02519pt x 97.12907pt>
+File: figures/ch_14/fig_14_4.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_4.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_4.pdf  used on input line 134.
+(pdftex.def)             Requested size: 111.0249pt x 97.12883pt.
+ [286 <./figures/ch_14/fig_14_4.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [287]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [288]
+<figures/ch_14/fig_14_5.pdf, id=5508, 113.65721pt x 120.31274pt>
+File: figures/ch_14/fig_14_5.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_5.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_5.pdf  used on input line 262.
+(pdftex.def)             Requested size: 113.6569pt x 120.31244pt.
+
+Underfull \vbox (badness 3780) has occurred while \output is active []
+
+ [289 <./figures/ch_14/fig_14_5.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [290]
+[291]
+<figures/ch_14/fig_14_6.pdf, id=5560, 188.14798pt x 157.73134pt>
+File: figures/ch_14/fig_14_6.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_6.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_6.pdf  used on input line 418.
+(pdftex.def)             Requested size: 188.1475pt x 157.73094pt.
+ [292 <./figures/ch_14/fig_14_6.pdf>]
+<figures/ch_14/fig_14_7.pdf, id=5574, 137.26799pt x 96.50769pt>
+File: figures/ch_14/fig_14_7.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_7.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_7.pdf  used on input line 455.
+(pdftex.def)             Requested size: 150.99524pt x 106.15877pt.
+ [293 <./figures/ch_14/fig_14_7.pdf>]
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
+ [294]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [295]
+<figures/ch_14/fig_14_8.pdf, id=5616, 131.86414pt x 75.28377pt>
+File: figures/ch_14/fig_14_8.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_8.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_8.pdf  used on input line 621.
+(pdftex.def)             Requested size: 131.8638pt x 75.28357pt.
+
+Underfull \vbox (badness 5217) has occurred while \output is active []
+
+ [296 <./figures/ch_14/fig_14_8.pdf>]
+<figures/ch_14/fig_14_9.pdf, id=5636, 115.35228pt x 107.27652pt>
+File: figures/ch_14/fig_14_9.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_9.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_9.pdf  used on input line 683.
+(pdftex.def)             Requested size: 109.58401pt x 101.9121pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [297]
+[298 <./figures/ch_14/fig_14_9.pdf>]
+
+LaTeX Warning: Reference `sec:17_2' on page 299 undefined on input line 751.
+
+
+Underfull \vbox (badness 1533) has occurred while \output is active []
+
+ [299]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [300]
+<figures/ch_14/fig_14_10.pdf, id=5687, 168.94206pt x 94.68584pt>
+File: figures/ch_14/fig_14_10.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_10.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_10.pdf  used on input line 842.
+(pdftex.def)             Requested size: 165.56207pt x 92.79146pt.
+<figures/ch_14/fig_14_11.pdf, id=5688, 164.27516pt x 237.33922pt>
+File: figures/ch_14/fig_14_11.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_11.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_11.pdf  used on input line 850.
+(pdftex.def)             Requested size: 160.98854pt x 232.59084pt.
+
+[301 <./figures/ch_14/fig_14_10.pdf> <./figures/ch_14/fig_14_11.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_14/fig_14_11.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<figures/ch_14/fig_14_12.pdf, id=5717, 140.3952pt x 103.91139pt>
+File: figures/ch_14/fig_14_12.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_12.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_12.pdf  used on input line 903.
+(pdftex.def)             Requested size: 140.39485pt x 103.91112pt.
+ [302 <./figures/ch_14/fig_14_12.pdf>]
+<figures/ch_14/fig_14_13.pdf, id=5765, 166.83553pt x 147.45346pt>
+File: figures/ch_14/fig_14_13.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_13.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_13.pdf  used on input line 949.
+(pdftex.def)             Requested size: 166.83511pt x 147.45308pt.
+ [303] [304 <./figures/ch_14/fig_14_13.pdf>] [305]
+<figures/ch_14/fig_14_14.pdf, id=5802, 189.99648pt x 157.73134pt>
+File: figures/ch_14/fig_14_14.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_14.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_14.pdf  used on input line 1049.
+(pdftex.def)             Requested size: 189.99599pt x 157.73094pt.
+ [306 <./figures/ch_14/fig_14_14.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [307]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [308]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [309]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [310]
+<figures/ch_14/fig_14_15.pdf, id=5858, 192.11949pt x 51.73126pt>
+File: figures/ch_14/fig_14_15.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_15.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_15.pdf  used on input line 1276.
+(pdftex.def)             Requested size: 192.119pt x 51.73111pt.
+
+[311 <./figures/ch_14/fig_14_15.pdf>]
+<figures/ch_14/fig_14_16.pdf, id=5873, 193.14343pt x 65.13809pt>
+File: figures/ch_14/fig_14_16.pdf Graphic file (type pdf)
+<use figures/ch_14/fig_14_16.pdf>
+Package pdftex.def Info: figures/ch_14/fig_14_16.pdf  used on input line 1301.
+(pdftex.def)             Requested size: 193.14294pt x 65.13792pt.
+
+
+LaTeX Warning: Reference `sec:21_4' on page 312 undefined on input line 1316.
+
+) [312 <./figures/ch_14/fig_14_16.pdf>] (15_electromagnetic_waves.tex
+Chapter 15.
+
+Overfull \hbox (4.88823pt too wide) in paragraph at lines 17--19
+[]\T1/Cochineal-OsF/m/n/10.95 (-20) We shall show that the ex-is-tence of elec-
+tro-mag-netic waves fol-lows from Maxwell's
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [313
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [314]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [315]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [316]
+<figures/ch_15/fig_15_1.pdf, id=5974, 135.01387pt x 82.02304pt>
+File: figures/ch_15/fig_15_1.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_1.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_1.pdf  used on input line 231.
+(pdftex.def)             Requested size: 135.01352pt x 82.02283pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [317 <./figures/ch_15/fig_15_1.pdf>]
+<figures/ch_15/fig_15_2.pdf, id=6005, 100.76779pt x 113.77069pt>
+File: figures/ch_15/fig_15_2.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_2.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_2.pdf  used on input line 251.
+(pdftex.def)             Requested size: 100.76753pt x 113.7704pt.
+
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [318 <./figures/ch_15/fig_15_2.pdf>]
+
+LaTeX Warning: Reference `sec:19_3' on page 319 undefined on input line 272.
+
+[319]
+<figures/ch_15/fig_15_3.pdf, id=6037, 101.99658pt x 180.72728pt>
+File: figures/ch_15/fig_15_3.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_3.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_3.pdf  used on input line 339.
+(pdftex.def)             Requested size: 101.9963pt x 180.72682pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [320]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [321 <./figures/ch_15/fig_15_3.pdf>]
+<figures/ch_15/fig_15_4.pdf, id=6067, 111.70226pt x 116.84315pt>
+File: figures/ch_15/fig_15_4.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_4.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_4.pdf  used on input line 407.
+(pdftex.def)             Requested size: 111.70197pt x 116.84286pt.
+ [322 <./figures/ch_15/fig_15_4.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [323]
+<figures/ch_15/fig_15_5.pdf, id=6098, 29.30331pt x 130.6264pt>
+File: figures/ch_15/fig_15_5.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_5.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_5.pdf  used on input line 516.
+(pdftex.def)             Requested size: 29.30322pt x 130.62607pt.
+<figures/ch_15/fig_15_6.pdf, id=6099, 102.58635pt x 110.77852pt>
+File: figures/ch_15/fig_15_6.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_6.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_6.pdf  used on input line 524.
+(pdftex.def)             Requested size: 102.58609pt x 110.77824pt.
+
+[324] [325 <./figures/ch_15/fig_15_5.pdf> <./figures/ch_15/fig_15_6.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_15/fig_15_6.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_15/fig_15_7.pdf, id=6120, 162.96432pt x 71.37929pt>
+File: figures/ch_15/fig_15_7.pdf Graphic file (type pdf)
+<use figures/ch_15/fig_15_7.pdf>
+Package pdftex.def Info: figures/ch_15/fig_15_7.pdf  used on input line 575.
+(pdftex.def)             Requested size: 162.96391pt x 71.3791pt.
+ [326 <./figures/ch_15/fig_15_7.pdf>]) [327] [328
+
+] [329
+
+] [330]
+(16_general.tex
+Chapter 16.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [331
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [332]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [333]
+<figures/ch_16/fig_16_1.pdf, id=6189, 96.25307pt x 57.96347pt>
+File: figures/ch_16/fig_16_1.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_1.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_1.pdf  used on input line 146.
+(pdftex.def)             Requested size: 96.2528pt x 57.9633pt.
+
+
+LaTeX Warning: Reference `chap:17' on page 334 undefined on input line 162.
+
+
+LaTeX Warning: Reference `chap:18' on page 334 undefined on input line 162.
+
+
+LaTeX Warning: Reference `chap:19' on page 334 undefined on input line 164.
+
+
+Underfull \vbox (badness 6792) has occurred while \output is active []
+
+ [334 <./figures/ch_16/fig_16_1.pdf>]
+Underfull \vbox (badness 2486) has occurred while \output is active []
+
+ [335]
+<figures/ch_16/fig_16_2.pdf, id=6227, 129.7288pt x 129.1016pt>
+File: figures/ch_16/fig_16_2.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_2.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_2.pdf  used on input line 268.
+(pdftex.def)             Requested size: 129.72847pt x 129.10127pt.
+
+[336]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [337 <./figures/ch_16/fig_16_2.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [338]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [339]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [340]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [341]
+<figures/ch_16/fig_16_3.pdf, id=6306, 169.74226pt x 114.88023pt>
+File: figures/ch_16/fig_16_3.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_3.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_3.pdf  used on input line 522.
+(pdftex.def)             Requested size: 169.74184pt x 114.87994pt.
+
+[342] [343 <./figures/ch_16/fig_16_3.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [344]
+<figures/ch_16/fig_16_4.pdf, id=6341, 101.38116pt x 91.3451pt>
+File: figures/ch_16/fig_16_4.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_4.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_4.pdf  used on input line 634.
+(pdftex.def)             Requested size: 101.3809pt x 91.34486pt.
+
+[345 <./figures/ch_16/fig_16_4.pdf>]
+<figures/ch_16/fig_16_5.pdf, id=6357, 112.16266pt x 107.00475pt>
+File: figures/ch_16/fig_16_5.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_5.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_5.pdf  used on input line 673.
+(pdftex.def)             Requested size: 112.16238pt x 107.00447pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [346 <./figures/ch_16/fig_16_5.pdf>]
+<figures/ch_16/fig_16_6.pdf, id=6374, 100.6455pt x 68.27122pt>
+File: figures/ch_16/fig_16_6.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_6.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_6.pdf  used on input line 754.
+(pdftex.def)             Requested size: 100.64523pt x 68.27104pt.
+<figures/ch_16/fig_16_7.pdf, id=6375, 121.45412pt x 127.84953pt>
+File: figures/ch_16/fig_16_7.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_7.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_7.pdf  used on input line 763.
+(pdftex.def)             Requested size: 121.4538pt x 127.8492pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [347]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [348 <./figures/ch_16/fig_16_6.pdf> <./figures/ch_16/fig_16_7.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_16/fig_16_7.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_16/fig_16_8.pdf, id=6402, 136.5056pt x 117.70845pt>
+File: figures/ch_16/fig_16_8.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_8.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_8.pdf  used on input line 849.
+(pdftex.def)             Requested size: 136.50526pt x 117.70815pt.
+<figures/ch_16/fig_16_9.pdf, id=6403, 142.23204pt x 85.32397pt>
+File: figures/ch_16/fig_16_9.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_9.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_9.pdf  used on input line 858.
+(pdftex.def)             Requested size: 142.23169pt x 85.32375pt.
+ [349 <./figures/ch_16/fig_16_8.pdf> <./figures/ch_16/fig_16_9.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_16/fig_16_9.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_16/fig_16_10.pdf, id=6426, 146.83643pt x 59.3621pt>
+File: figures/ch_16/fig_16_10.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_10.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_10.pdf  used on input line 889.
+(pdftex.def)             Requested size: 146.83606pt x 59.36195pt.
+<figures/ch_16/fig_16_11.pdf, id=6427, 131.54271pt x 143.05275pt>
+File: figures/ch_16/fig_16_11.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_11.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_11.pdf  used on input line 898.
+(pdftex.def)             Requested size: 131.54239pt x 143.0524pt.
+ [350 <./figures/ch_16/fig_16_10.pdf> <./figures/ch_16/fig_16_11.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_16/fig_16_11.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<figures/ch_16/fig_16_12.pdf, id=6453, 138.76974pt x 89.63374pt>
+File: figures/ch_16/fig_16_12.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_12.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_12.pdf  used on input line 932.
+(pdftex.def)             Requested size: 138.7694pt x 89.63351pt.
+ [351 <./figures/ch_16/fig_16_12.pdf>]
+<figures/ch_16/fig_16_13.pdf, id=6463, 193.05296pt x 86.1616pt>
+File: figures/ch_16/fig_16_13.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_13.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_13.pdf  used on input line 974.
+(pdftex.def)             Requested size: 193.05249pt x 86.16138pt.
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+ [352 <./figures/ch_16/fig_16_13.pdf>]
+<figures/ch_16/fig_16_14.pdf, id=6475, 194.68161pt x 94.00005pt>
+File: figures/ch_16/fig_16_14.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_14.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_14.pdf  used on input line 1001.
+(pdftex.def)             Requested size: 194.68114pt x 93.9998pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [353 <./figures/ch_16/fig_16_14.pdf>]
+<figures/ch_16/fig_16_15.pdf, id=6489, 203.26064pt x 53.59218pt>
+File: figures/ch_16/fig_16_15.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_15.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_15.pdf  used on input line 1026.
+(pdftex.def)             Requested size: 203.26013pt x 53.59203pt.
+<figures/ch_16/fig_16_16h.pdf, id=6492, 302.20576pt x 102.75568pt>
+File: figures/ch_16/fig_16_16h.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_16h.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_16h.pdf  used on input line 1062.
+
+(pdftex.def)             Requested size: 302.20502pt x 102.7554pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [354 <./figures/ch_16/fig_16_15.pdf>]
+<figures/ch_16/fig_16_17.pdf, id=6502, 136.42293pt x 92.83182pt>
+File: figures/ch_16/fig_16_17.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_17.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_17.pdf  used on input line 1079.
+(pdftex.def)             Requested size: 136.42258pt x 92.83159pt.
+ [355 <./figures/ch_16/fig_16_16h.pdf> <./figures/ch_16/fig_16_17.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_16/fig_16_17.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<figures/ch_16/fig_16_18.pdf, id=6516, 245.8454pt x 134.52211pt>
+File: figures/ch_16/fig_16_18.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_18.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_18.pdf  used on input line 1123.
+(pdftex.def)             Requested size: 245.84479pt x 134.52177pt.
+ [356 <./figures/ch_16/fig_16_18.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [357]
+<figures/ch_16/fig_16_19.pdf, id=6548, 138.0465pt x 93.36456pt>
+File: figures/ch_16/fig_16_19.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_19.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_19.pdf  used on input line 1218.
+(pdftex.def)             Requested size: 138.04614pt x 93.36432pt.
+
+[358 <./figures/ch_16/fig_16_19.pdf>]
+<figures/ch_16/fig_16_20.pdf, id=6566, 116.8899pt x 120.58812pt>
+File: figures/ch_16/fig_16_20.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_20.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_20.pdf  used on input line 1251.
+(pdftex.def)             Requested size: 116.88959pt x 120.5878pt.
+ [359 <./figures/ch_16/fig_16_20.pdf>]
+<figures/ch_16/fig_16_21.pdf, id=6580, 93.3274pt x 125.55428pt>
+File: figures/ch_16/fig_16_21.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_21.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_21.pdf  used on input line 1273.
+(pdftex.def)             Requested size: 93.32715pt x 125.55396pt.
+<figures/ch_16/fig_16_22.pdf, id=6581, 170.54333pt x 76.81801pt>
+File: figures/ch_16/fig_16_22.pdf Graphic file (type pdf)
+<use figures/ch_16/fig_16_22.pdf>
+Package pdftex.def Info: figures/ch_16/fig_16_22.pdf  used on input line 1282.
+(pdftex.def)             Requested size: 170.54291pt x 76.81781pt.
+
+
+LaTeX Warning: Reference `sec:18_1' on page 360 undefined on input line 1297.
+
+) [360 <./figures/ch_16/fig_16_21.pdf> <./figures/ch_16/fig_16_22.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_16/fig_16_22.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+<figures/pgc_2_bc.pdf, id=6712, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf>
-Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 353.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf>
-Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 353.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_2_bc.pdf, id=1707, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_2_bc.pdf, id=6715, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 353.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 353.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 353.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 353.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
 File: figures/pgc_2_bc.pdf Graphic file (type pdf)
 <use figures/pgc_2_bc.pdf, page 1>
-Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 325.
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 353.
 (pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
- [85
-
+ [361
 
  <./figures/pgc_2_bc.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
  (saveliev_physics_general_course_2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 354.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 354.
 Package rerunfilecheck Info: File `saveliev_physics_general_course_2.out' has n
 ot changed.
-(rerunfilecheck)             Checksum: D2617DFAA43701402C5A257CD579A949;2438.
+(rerunfilecheck)             Checksum: 0D8A62F692709096F268F03ADD4623EA;10657.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 41383 strings out of 492895
- 813497 string characters out of 3133476
- 860392 words of memory out of 3000000
- 43933 multiletter control sequences out of 15000+200000
- 1503451 words of font info for 614 fonts, out of 3000000 for 9000
+ 44627 strings out of 492895
+ 870871 string characters out of 3133476
+ 915737 words of memory out of 3000000
+ 45667 multiletter control sequences out of 15000+200000
+ 1542670 words of font info for 716 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,18n,94p,1303b,986s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochineal/coch_ts
-1.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochineal/coc
-h_ermyhb.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochin
-eal/coch_crbsby.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
-/cochineal/coch_zetixv.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/en
-c/dvips/cochineal/coch_in37z4.enc}<C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/f
-onts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/flvisa/AppData/Roaming
-/MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/flvisa/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:
-/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/NewTXMI.pfb><
-C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/cochBMI
-.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/c
-ochMI.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochin
-eal/cochMRM.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
-newtx/txbsys.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public
-/newtx/txexs.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public
-/newtx/txmiaX.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
-c/txfonts/txsya.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/pub
-lic/newtx/txsys.pfb>
-Output written on saveliev_physics_general_course_2.pdf (93 pages, 1011914 byte
-s).
+ 61i,19n,94p,1303b,1119s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochineal/coch_bi
+2nei.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/inconsolat
+a/i4-t1-7.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cochi
+neal/coch_ts1.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/c
+ochineal/coch_gcpa6j.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/enc/
+dvips/cochineal/coch_crbsby.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fon
+ts/enc/dvips/cochineal/coch_2lyzki.enc}{C:/Users/flvisa/AppData/Roaming/MiKTeX/
+2.9/fonts/enc/dvips/cochineal/coch_eluacw.enc}<C:/Users/flvisa/AppData/Roaming/
+MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/flvisa/App
+Data/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/U
+sers/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cochineal/Cochineal-R
+oman.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/inconso
+lata/Inconsolata-zi4r.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/typ
+e1/public/newtx/NewTXMI.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/fonts/t
+ype1/public/cochineal/cochBMI.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/2.9/f
+onts/type1/public/cochineal/cochMI.pfb><C:/Users/flvisa/AppData/Roaming/MiKTeX/
+2.9/fonts/type1/public/cochineal/cochMRM.pfb><C:/Users/flvisa/AppData/Roaming/M
+iKTeX/2.9/fonts/type1/public/newtx/txbsys.pfb><C:/Users/flvisa/AppData/Roaming/
+MiKTeX/2.9/fonts/type1/public/newtx/txexs.pfb><C:/Users/flvisa/AppData/Roaming/
+MiKTeX/2.9/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/flvisa/AppData/Roaming
+/MiKTeX/2.9/fonts/type1/public/txfonts/txsya.pfb><C:/Users/flvisa/AppData/Roami
+ng/MiKTeX/2.9/fonts/type1/public/newtx/txsys.pfb><C:/Users/flvisa/AppData/Roami
+ng/MiKTeX/2.9/fonts/type1/public/boondox/zxxrw8a.pfb>
+Output written on saveliev_physics_general_course_2.pdf (371 pages, 3726859 byt
+es).
 PDF statistics:
- 1846 PDF objects out of 2073 (max. 8388607)
- 379 named destinations out of 1000 (max. 500000)
- 79974 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 7110 PDF objects out of 7423 (max. 8388607)
+ 1561 named destinations out of 1728 (max. 500000)
+ 87776 words of extra memory for PDF output out of 89155 (max. 10000000)
 

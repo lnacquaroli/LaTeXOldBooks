@@ -23,11 +23,117 @@
 \contentsline {section}{\numberline {2.4}Space and Surface Bound Charges}{57}{section.2.4}% 
 \contentsline {section}{\numberline {2.5}Electric Displacement Vector}{62}{section.2.5}% 
 \contentsline {section}{\numberline {2.6}Examples of Calculating the Field in Dielectrics}{65}{section.2.6}% 
-\contentsline {section}{\numberline {2.7}Conditions on the Interface Between Two Dielectrics}{70}{section.2.7}% 
-\contentsline {section}{\numberline {2.8}Forces Acting on a Charge in a Dielectric}{73}{section.2.8}% 
+\contentsline {section}{\numberline {2.7}Conditions on the Interface Between Two Dielectrics}{69}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Forces Acting on a Charge in a Dielectric}{72}{section.2.8}% 
 \contentsline {section}{\numberline {2.9}Ferroelectrics}{74}{section.2.9}% 
 \contentsline {chapter}{\numberline {3}CONDUCTORS IN AN ELECTRIC FIELD}{77}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Equilibrium of Charges on a Conductor}{77}{section.3.1}% 
 \contentsline {section}{\numberline {3.2}A Conductor in an External Electric Field}{80}{section.3.2}% 
 \contentsline {section}{\numberline {3.3}Capacitance}{80}{section.3.3}% 
 \contentsline {section}{\numberline {3.4}Capacitors}{82}{section.3.4}% 
+\contentsline {chapter}{\numberline {4}ENERGY OF AN ELECTRIC FIELD}{85}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Energy of a Charged Conductor}{85}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Energy of a Charged Capacitor}{85}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Energy of an Electric Field}{88}{section.4.3}% 
+\contentsline {chapter}{\numberline {5}STEADY ELECTRIC CURRENT}{93}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Electric Current}{93}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Continuity Equation}{96}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Electromotive Force}{97}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Ohm's Law. Resistance of Conductors}{99}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Ohm's Law for an Inhomogeneous Circuit Section}{101}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Multiloop Circuits. Kirchhoff's Rules}{103}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Power of a Current}{106}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}The Joule-Lenz Law}{107}{section.5.8}% 
+\contentsline {chapter}{\numberline {6}MAGNETIC FIELD IN A VACUUM}{109}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Interaction of Currents}{109}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Magnetic Field}{112}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Field of a Moving Charge}{113}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}The Biot-Savart Law}{116}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}The Lorentz Force}{119}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}Ampere's Law}{122}{section.6.6}% 
+\contentsline {section}{\numberline {6.7}Magnetism as a Relativistic Effect}{124}{section.6.7}% 
+\contentsline {section}{\numberline {6.8}Current Loop in a Magnetic Field}{130}{section.6.8}% 
+\contentsline {section}{\numberline {6.9}Magnetic Field of a Current Loop}{135}{section.6.9}% 
+\contentsline {section}{\numberline {6.10}Work Done When a Current Moves in a Magnetic Field}{138}{section.6.10}% 
+\contentsline {section}{\numberline {6.11}Divergence and Curl of a Magnetic Field}{142}{section.6.11}% 
+\contentsline {section}{\numberline {6.12}Field of a Solenoid and Toroid}{146}{section.6.12}% 
+\contentsline {chapter}{\numberline {7}MAGNETIC FIELD IN A SUBSTANCE}{151}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Magnetization of a Magnetic}{151}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Magnetic Field Strength}{152}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Calculation of the Field in Magnetics}{158}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Conditions at the Interface of Two Magnetics}{160}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Kinds of Magnetics}{164}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}Gyromagnetic Phenomena}{164}{section.7.6}% 
+\contentsline {section}{\numberline {7.7}Diamagnetism}{169}{section.7.7}% 
+\contentsline {section}{\numberline {7.8}Paramagnetism}{173}{section.7.8}% 
+\contentsline {section}{\numberline {7.9}Ferromagnetism}{175}{section.7.9}% 
+\contentsline {chapter}{\numberline {8}ELECTROMAGNETIC INDUCTION}{181}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}The Phenomenon of Electromagnetic Induction}{181}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Induced E.M.F.}{182}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Ways of Measuring the Magnetic Induction}{186}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Eddy Currents}{187}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Self-Induction}{189}{section.8.5}% 
+\contentsline {section}{\numberline {8.6}Current When a Circuit Is Opened or Closed}{191}{section.8.6}% 
+\contentsline {section}{\numberline {8.7}Mutual Induction}{194}{section.8.7}% 
+\contentsline {section}{\numberline {8.8}Energy of a Magnetic Field}{196}{section.8.8}% 
+\contentsline {section}{\numberline {8.9}Work in Magnetic Reversal of a Ferromagnetic}{198}{section.8.9}% 
+\contentsline {chapter}{\numberline {9}MAXWELL'S EQUATIONS}{201}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Vortex Electric Field}{201}{section.9.1}% 
+\contentsline {section}{\numberline {9.2}Displacement Current}{203}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Maxwell's Equations}{207}{section.9.3}% 
+\contentsline {chapter}{\numberline {10}MOTION OF CHARGED PARTICLES IN ELECTRIC\\ AND MAGNETIC FIELDS}{211}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Motion of a Charged Particle in a Homogeneous Magnetic Field}{211}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}Deflection of Moving Charged Particles by an Electric and a Magnetic Field}{213}{section.10.2}% 
+\contentsline {section}{\numberline {10.3}Determination of the Charge and Mass of an Electron}{216}{section.10.3}% 
+\contentsline {section}{\numberline {10.4}Determination of the Specific Charge of Ions. Mass Spectrographs}{221}{section.10.4}% 
+\contentsline {section}{\numberline {10.5}Charged Particle Accelerators}{225}{section.10.5}% 
+\contentsline {chapter}{\numberline {11}THE CLASSICAL THEORY OF ELECTRICAL CONDUCTANCE\\ OF METALS}{231}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}The Nature of Current Carriers in Metals}{231}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}The Elementary Classical Theory of Metals}{233}{section.11.2}% 
+\contentsline {section}{\numberline {11.3}The Hall Effect}{237}{section.11.3}% 
+\contentsline {chapter}{\numberline {12}ELECTRIC CURRENT IN GASES}{241}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}Semi-Self-Sustained and Self-Sustained Conduction}{241}{section.12.1}% 
+\contentsline {section}{\numberline {12.2}Semi-Self-Sustained Gas Discharge}{241}{section.12.2}% 
+\contentsline {section}{\numberline {12.3}Ionization Chambers and Counters}{245}{section.12.3}% 
+\contentsline {section}{\numberline {12.4}Processes Leading to the Appearance of Current Carriers}{250}{section.12.4}% 
+\contentsline {section}{\numberline {12.5}Gas-Discharge Plasma}{254}{section.12.5}% 
+\contentsline {section}{\numberline {12.6}Glow Discharge}{256}{section.12.6}% 
+\contentsline {section}{\numberline {12.7}Arc Discharge}{259}{section.12.7}% 
+\contentsline {section}{\numberline {12.8}Spark and Corona Discharges}{260}{section.12.8}% 
+\contentsline {chapter}{\numberline {13}ELECTRICAL OSCILLATIONS}{265}{chapter.13}% 
+\contentsline {section}{\numberline {13.1}Quasistationary Currents}{265}{section.13.1}% 
+\contentsline {section}{\numberline {13.2}Free Oscillations in a Circuit Without a Resistance}{266}{section.13.2}% 
+\contentsline {section}{\numberline {13.3}Free Damped Oscillations}{269}{section.13.3}% 
+\contentsline {section}{\numberline {13.4}Forced Electrical Oscillations}{273}{section.13.4}% 
+\contentsline {section}{\numberline {13.5}Alternating Current}{277}{section.13.5}% 
+\contentsline {part}{II\hspace {1em}WAVES}{281}{part.2}% 
+\contentsline {chapter}{\numberline {14}ELASTIC WAVES}{283}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}Propagation of Waves in an Elastic Medium}{283}{section.14.1}% 
+\contentsline {section}{\numberline {14.2}Equations of a Plane and a Spherical Wave}{286}{section.14.2}% 
+\contentsline {section}{\numberline {14.3}Equation of a Plane Wave Propagating in an Arbitrary Direction}{289}{section.14.3}% 
+\contentsline {section}{\numberline {14.4}The Wave Equation}{291}{section.14.4}% 
+\contentsline {section}{\numberline {14.5}Velocity of Elastic Waves in a Solid Medium}{292}{section.14.5}% 
+\contentsline {section}{\numberline {14.6}Energy of an Elastic Wave}{294}{section.14.6}% 
+\contentsline {section}{\numberline {14.7}Standing Waves}{299}{section.14.7}% 
+\contentsline {section}{\numberline {14.8}Oscillations of a String}{302}{section.14.8}% 
+\contentsline {section}{\numberline {14.9}Sound}{303}{section.14.9}% 
+\contentsline {section}{\numberline {14.10}The Velocity of Sound in Gases}{306}{section.14.10}% 
+\contentsline {section}{\numberline {14.11}The Doppler Effect for Sound Waves}{311}{section.14.11}% 
+\contentsline {chapter}{\numberline {15}ELECTROMAGNETIC WAVES}{313}{chapter.15}% 
+\contentsline {section}{\numberline {15.1}The Wave Equation for an Electromagnetic Field}{313}{section.15.1}% 
+\contentsline {section}{\numberline {15.2}Plane Electromagnetic Wave}{315}{section.15.2}% 
+\contentsline {section}{\numberline {15.3}Experimental Investigation of Electromagnetic Waves}{318}{section.15.3}% 
+\contentsline {section}{\numberline {15.4}Energy of Electromagnetic Waves}{319}{section.15.4}% 
+\contentsline {section}{\numberline {15.5}Momentum of Electromagnetic Field}{322}{section.15.5}% 
+\contentsline {section}{\numberline {15.6}Dipole Emission}{324}{section.15.6}% 
+\contentsline {part}{III\hspace {1em}OPTICS}{329}{part.3}% 
+\contentsline {chapter}{\numberline {16}OPTICS}{331}{chapter.16}% 
+\contentsline {section}{\numberline {16.1}The Light Wave}{331}{section.16.1}% 
+\contentsline {section}{\numberline {16.2}Representation of Harmonic Functions Using Exponents}{334}{section.16.2}% 
+\contentsline {section}{\numberline {16.3}Reflection and Refraction of a Plane Wave at the Interface Between Two Dielectrics}{336}{section.16.3}% 
+\contentsline {section}{\numberline {16.4}Luminous Flux}{342}{section.16.4}% 
+\contentsline {section}{\numberline {16.5}Photometric Quantities and Units}{343}{section.16.5}% 
+\contentsline {section}{\numberline {16.6}Geometrical Optics}{347}{section.16.6}% 
+\contentsline {section}{\numberline {16.7}Centered Optical System}{351}{section.16.7}% 
+\contentsline {section}{\numberline {16.8}Thin Lenses}{358}{section.16.8}% 
+\contentsline {section}{\numberline {16.9}Huygens' Principle}{359}{section.16.9}% 

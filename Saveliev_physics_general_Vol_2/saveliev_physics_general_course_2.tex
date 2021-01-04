@@ -16,7 +16,8 @@
 % load babel here
 \usepackage[english]{babel}
 \usepackage[protrusion=true,expansion]{microtype}
-\usepackage[p,osf,swashQ,sups]{cochineal}
+% \usepackage[p,osf,swashQ,sups]{cochineal}
+\usepackage[p,osf,sups]{cochineal}
 \usepackage[varqu,varl,var0]{inconsolata}
 \usepackage[scale=.95,type1]{cabin}
 \usepackage[cochineal,vvarbb,slantedGreek]{newtxmath}
@@ -27,9 +28,13 @@
 \numberwithin{equation}{chapter}
 
 \usepackage{xcolor}
-\definecolor{brownfigs}{rgb}{0.6196078431372549,0.4705882352941176,0.403921568627451}
-\definecolor{bluefigs}{rgb}{0.3137254901960784,0.3843137254901961,0.4392156862745098}
-\definecolor{greenfigs}{rgb}{0.2274509803921569,0.2862745098039216,0.2470588235294118}
+%\definecolor{brownfigs}{rgb}{0.6196078431372549,0.4705882352941176,0.403921568627451}
+%\definecolor{bluefigs}{rgb}{0.3137254901960784,0.3843137254901961,0.4392156862745098}
+%\definecolor{greenfigs}{rgb}{0.2274509803921569,0.2862745098039216,0.2470588235294118}
+\definecolor{brownfigs}{rgb}{0.7607843137254902,0.5607843137254902,0.2823529411764706}
+\definecolor{bluefigs}{rgb}{0.2392156862745098,0.403921568627451,0.4823529411764706}
+\definecolor{greyfigs}{rgb}{0.6509803921568627,0.6549019607843137,0.6392156862745098}
+
 
 \let\oldvec=\vec % \oldvec tiene la flecha
 \renewcommand{\vec}[1]{\boldsymbol{#1}}
@@ -40,7 +45,9 @@
 \newcommand{\inicial}{\text{inicial}}
 \newcommand{\fig}[1]{Fig.~\ref{fig:#1}}
 \newcommand{\eqn}[1]{Eq.~\eqref{eq:#1}}
-\newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
+\newcommand{\eqns}[2]{Eqs. \eqref{eq:#1} and \eqref{eq:#2}}
+% \newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
+\newcommand{\vecdot}[2]{\boldsymbol{#1\cdot#2}}
 \newcommand{\vecdotind}[4]{\boldsymbol{#1}_{#2}\boldsymbol{\cdot}\boldsymbol{#3}_{#4}}
 \newcommand{\vecunidot}[2]{\hat{\boldsymbol{e}}_{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
 \newcommand{\vectordotunit}[2]{\vec{#1}\!\boldsymbol{\cdot}\!\hat{\boldsymbol{e}}_{#2}}
@@ -52,6 +59,7 @@
 \newcommand{\ie}{\textit{i.e.}}
 \newcommand{\upd}{\mathrm{d}}
 \newcommand{\deriv}[1]{\upd#1}
+\newcommand{\derivec}[1]{\upd\vec{#1}}
 \newcommand{\derivp}[1]{\upd'\!#1}
 \newcommand{\Deltap}[1]{\Delta'\!#1}
 \newcommand{\diffin}[2]{\upd#1/\upd#2}
@@ -59,7 +67,11 @@
 \newcommand{\diffsec}[2]{\dfrac{\upd^2#1}{\upd#2^2}}
 \newcommand{\diffinpartial}[2]{\uppartial#1/\uppartial#2}
 \newcommand{\diffpartial}[2]{\dfrac{\uppartial#1}{\uppartial#2}}
+\newcommand{\diffpartialin}[2]{\uppartial#1/\uppartial#2}
 \newcommand{\diffsecpartial}[2]{\dfrac{\uppartial^2#1}{\uppartial#2^2}}
+\newcommand{\diffn}[3]{\dfrac{\upd^{#3}#1}{\upd#2^{#3}}}
+\newcommand{\diffnpartial}[3]{\dfrac{\uppartial^{#3}#1}{\uppartial#2^{#3}}}
+\newcommand{\diffnpartialin}[3]{\uppartial^{#3}#1/\uppartial#2^{#3}}
 \newcommand{\mr}{m_{\text{r}}}
 \newcommand{\bra}[1]{\left.\left\langle #1 \right.\right|}
 \newcommand{\ket}[1]{\left|\left\. #1 \right\rangle\right.}
@@ -87,7 +99,15 @@
 \newcommand{\tab}[1]{Table~\ref{table:#1}}
 
 \usepackage[a5paper]{geometry}
-\geometry{textheight=17cm, textwidth=10.8cm, top=1.5cm, left=1.6cm, right=0.9cm, bottom=1.0cm}
+\geometry{
+    % textheight=17cm,
+    % textwidth=10.8cm,
+    top=1.5cm,
+    left=1.6cm,
+    right=0.9cm,
+    bottom=1.0cm,
+    heightrounded,
+}
 
 \usepackage{booktabs}
 \usepackage{threeparttable}
@@ -108,7 +128,11 @@
 \DeclareSIUnit\hp{hp}
 \DeclareSIUnit\poise{P}
 \DeclareSIUnit\faraday{F}
+\DeclareSIUnit\gauss{Gs}
+\DeclareSIUnit\oersted{Oe}
+\DeclareSIUnit\maxwell{Mx}
 \newcommand{\cgse}[1]{\text{~cgse$_{#1}$}}
+\newcommand{\cgs}[2]{\text{~cgs#1$_{#2}$}}
 
 \usepackage{nicefrac}
 \usepackage{soul}
@@ -225,8 +249,7 @@
 \setlength{\parskip}{0pt}
 \setcounter{secnumdepth}{1}
 
-\usepackage{caption}
-\usepackage[font={color=black!70,small,bf},figurename=Fig.]{caption}
+\usepackage[labelfont={color=black!80,footnotesize,bf}, textfont={color=black!80,small},figurename=Fig.]{caption}
 
 \usepackage[shortlabels]{enumitem}
 \setlist{nosep}
@@ -291,33 +314,38 @@
 \cleardoublepage
 \input{03_conductors_in_an_electric_field}
 \cleardoublepage
-% \input{04_non_inertial_reference_frames}
-% \cleardoublepage
-% \input{05_mechanics_of_a_rigid_body}
-% \cleardoublepage
-% \input{06_universal_gravitation}
-% \cleardoublepage
-% \input{07_oscillatory_motion}
-% \cleardoublepage
-% \input{08_relativistic_mechanics}
-% \cleardoublepage
-% \input{09_hydrodynamics}
-%
-% \part{MOLECULAR PHYSICS AND THERMODYNAMICS}\label{part:B}
-% \cleardoublepage
-% \input{10_general_information}
-% \cleardoublepage
-% \input{11_statistical_physics}
-% \cleardoublepage
-% \input{12_thermodynamics}
-% \cleardoublepage
-% \input{13_the_crystalline_state}
-% \cleardoublepage
-% \input{14_the_liquid_state}
-% \cleardoublepage
-% \input{15_phase_equilibria_and_transitions}
-% \cleardoublepage
-% \input{16_physical_kinetics}
+\input{04_energy_of_an_electric_field}
+\cleardoublepage
+\input{05_steady_electric_current}
+\cleardoublepage
+\input{06_magnetic_field_in_a_vacuum}
+\cleardoublepage
+\input{07_magnetic_field_in_a_substance}
+\cleardoublepage
+\input{08_electromagnetic_induction}
+\cleardoublepage
+\input{09_maxwells_equations}
+\cleardoublepage
+\input{10_motion_of_charged_particles_in_E_and_B_fields}
+\cleardoublepage
+\input{11_classical_theory_of_electrical_conductance_metals}
+\cleardoublepage
+\input{12_electric_current_in_gases}
+\cleardoublepage
+\input{13_electrical_oscillations}
+\cleardoublepage
+
+\part{WAVES}\label{part:B}
+\cleardoublepage
+\input{14_elastics_waves}
+\cleardoublepage
+\input{15_electromagnetic_waves}
+\cleardoublepage
+
+\part{OPTICS}\label{part:C}
+\cleardoublepage
+\input{16_general}
+
 % \cleardoublepage
 % \input{A_appendices}
 
