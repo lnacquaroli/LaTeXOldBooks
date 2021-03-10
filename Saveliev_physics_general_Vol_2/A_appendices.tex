@@ -1,4 +1,4 @@
-% !TEX root = saveliev_physics_general_course_1.tex
+% !TEX root = saveliev_physics_general_course_2.tex
 %!TEX TS-program = pdflatex
 %!TEX encoding = UTF-8 Unicode
 
@@ -15,7 +15,8 @@
 \setcounter{equation}{0}
 \renewcommand{\theequation}{\thechapter.\arabic{equation}}
 \setcounter{figure}{0}
-% \setcounter{table}{0}
+\setcounter{table}{0}
+\renewcommand{\thetable}{\thechapter.\arabic{table}}
 
 \section{List of Symbols}\label{sec:A_1}
 
@@ -27,38 +28,28 @@
 	\begin{center}\resizebox{\linewidth}{!}{
         \begin{threeparttable}[b]
 			\begin{tabular}{p{0.5cm} p{11cm}}
-                $A$ & amplitude; atomic mass; work\\
-                $a$ &  distance\\
-                $\vec{a}$ & acceleration\tnote{${\dagger}$}$\,\,$; vector\\
-                $B$ & amplitude\\
-                $b$ & distance; thickness\\
-                $\vec{b}$ & vector\\
-                $C$ &  curvature; molar heat capacity\\
-                $c$ &  distance; relative concentration; specific heat capacity; speed of light\\
-                $\vec{c}$ &  vector\\
-                $D$ &  diffusion coefficient\\
-                $d$ &  collision diameter; diameter\\
-                $\vec{d}$ &  vector\\
-                $E$ &  energy; mechanical equivalent of heat; Young's modulus\\
-                $e$ &  base of natural logarithms\\
+                $A$ & amplitude; gas amplification; work\\
+				$\vec{A}$ & vector potential of magnetic field\tnote{${\dagger}$}$\,\,$\\
+                $a$ &  amplitude\\
+				$\vec{a}$ & acceleration; vector\\
+                $B$ & Kerr constant\\
+				$\vec{B}$ & magnetic induction\\
+                $C$ &  capacitance; circulation of vector; Curie constant\\
+                $c$ &  electromagnetic constant; speed of light\\
+                $D$ &  angular dispersion\\
+				$\vec{D}$ & electric displacement\\
+                $d$ &  period of diffraction grating; separation distance of capacitor plates\\
+                $\div$ &  divergence\\
+                $E$ &  illuminance; Young's modulus\\
+				$\vec{E}$ & electric field strength\\
+				$\vec{E}^*$ & strength of extraneous force field\\
+				$\mathcal{E}$ & electromotive force (e.m.f.)\\
+                $e$ &  base of natural logarithms; positive elementary charge\\
                 $\hatvec{e}$ &  unit vector\\
-                $F$ &  free (Helmholtz) energy\\
+                $F$ &  Faraday constant\\
                 $\vec{F}$ &  force\\
-                $\vec{F}^*$ & non-conservative force\\
-                $f$ &  coefficient of friction; relative fluctuation\\
-                $\vec{f}$ &  force\\
-                % $G$ &  Gibbs thermodynamic potential (Gibbs energy); gravitational constant; shear modulus\\
-                % $\vec{g}$ &  acceleration of free fall\\
-                % $\vec{g}'$ &  gravitational field vector, gravitational intensity\\
-               % $H$ &  curvature; enthalpy\\
-               % $h$ &  height; Planck's constant\\
-               % $\hbar$ &  Planck's constant divided by $2\pi$ ($h/2\pi$)\\
-               % $I$ &  moment of inertia\\
-               % $\Im$ & imaginary\\
-               % $i$ & imaginary unity ($i=\sqrt{-1}$)\\
-               % $K$ & momentum (also $p$); momentum flux\\
-               % $k$ & Boltzmann constant; constant of proportionality; quasi-elastic force coefficient; spring constant\\
-               % $L$ & heat of transition
+                $f$ &  focal length\\
+                $G$ &  shear modulus\\
 			\end{tabular}
             \begin{tablenotes}
     			\item [${\dagger}$] The magnitude of a vector is denoted by the same symbol as the vector itself, but in ordinary italic (sloping) type.
@@ -74,41 +65,45 @@
 	% \label{table:12_1}
 	\begin{center}\resizebox{\linewidth}{!}{
 			\begin{tabular}{p{0.5cm} p{11cm}}
-                $G$ &  Gibbs thermodynamic potential (Gibbs energy); gravitational constant; shear modulus\\
-                $\vec{g}$ &  acceleration of free fall\\
-                $\vec{g}'$ &  gravitational field vector, gravitational intensity\\
-                $H$ &  curvature; enthalpy\\
-                $h$ &  height; Planck's constant\\
-                $\hbar$ &  Planck's constant divided by $2\pi$ ($h/2\pi$)\\
-                $I$ &  moment of inertia\\
-                $\Im$ & imaginary\\
-                $i$ & imaginary unity ($i=\sqrt{-1}$)\\
-                $K$ & momentum (also $p$); momentum flux\\
-                $k$ & Boltzmann constant; constant of proportionality; quasi-elastic force coefficient; spring constant\\
-                $L$ & heat of transition\\
-                $\vec{L}$ & angular momentum\\
-                L & dimension of length\\
-                $l$ & length; mean free path of molecule\\
-                $M$ & mass\\
-                $\vec{M}$ & moment of force (torque)\\
-                M & dimension of mass\\
-                $m$ & mass\\
-                $N$ & number of molecules, particles, etc.\\
-                $\ab{N}{A}$ & Avogadro constant\\
-                $n$ & number of molecules or particles per unit volume; polytropic exponent\\
-                $p$ & power; probability\\
-                $\vec{P}$ & force of gravity\\
-                $p$ & pressure\\
-                $\vec{p}$ & momentum (also $\vec{K}$)\\
-                $Q$ & amount of heat; quality; rate of flow\\
-                $q$ & heat flux\\
-                $R$ & molar gas constant; radius of curvature\\
-                $\reynolds$ & Reynolds number\\
-                $\Re$ & real\\
-                $r$ & radius; resistance coefficient\\
-                $\vec{r}$ & displacement; position (radius) vector\\
-                $S$ & area; entropy\\
-                $s$ & distance; "interval"\\
+				$\vec{H}$ & magnetic field strength\\
+				$\hslash$ & Planck's constant $h$ divided by $2\pi$\\
+				$I$ &  current; luminous intensity; sound intensity\\
+                $i$ &  imaginary unity ($i=\sqrt{-1}$)\\
+                $\vec{j}$ &  current density; density of energy flux\\
+				$\vec{K}$ & momentum\\
+				$k$ & constant of proportionality; wavenumber\\
+				$\vec{k}$ & wavevector\\
+				$L$ & inductance; loudness level; luminance; optical path\\
+				$\vec{L}$ & angular momentum\\
+				$l$ & length; mean free path\\
+				$\vec{l}$ & displacement\\
+				$M$ & luminous emittance; magnification; mass of mole\\
+				$\vec{M}$ & magnetization; moment of force\\
+				$m$ & mass\\
+				$N$ & demagnetization factor; number\\
+				$\ab{N}{A}$ & Avogadro constant\\
+				$n$ & number; refractive index\\
+				$P$ & degree of polarization; optical power; power; probability; radiated power\\
+				$\vec{P}$ & force of gravity; polarization\\
+				$p$ & pressure\\
+				$\vec{p}$ & dipole moment; electric moment\\
+				$Q$ & amount of heat; quality of oscillator circuit\\
+				$q$ & charge\\
+				$R$ & molar gas constant; radius; resistance; resolving power\\
+				$\ab{R}{H}$ & Hall coefficient\\
+				$\Re$ & real number\\
+				$r$ & distance; radius\\
+				$\vec{r}$ & position vector\\
+				$S$ & area\\
+				$\vec{S}$ & Poynting vector\\
+				$T$ & absolute temperature; period\\
+				$\vec{T}$ & torque\\
+				$t$ & time\\
+				$U$ & voltage\\
+				$u$ & mobility of ion\\
+				$\vec{u}$ & velocity\\
+				$V$ & Verdet constant; visibility\\
+				$\vec{v}$ & velocity\\
 			\end{tabular}
 	}\end{center}
 \end{table}
@@ -120,127 +115,516 @@
 	% \label{table:12_1}
 	\begin{center}\resizebox{\linewidth}{!}{
 			\begin{tabular}{p{0.5cm} p{11cm}}
-                $T$ & absolute temperature; period of revolution\\
-                T & dimension of time\\
-                $t$ & temperature, Celsius scale; time\\
-                $U$ & internal energy\\
-                $u$ & velocity\\
-                $V$ & potential function; volume\\
-                $\vec{v}$ & velocity\\
-                $\vec{W}$ & weight\\
-                $w$ & energy density\\
-                $x$ & coordinate\\
-                $y$ & coordinate\\
-                $z$ & complex number; coordinate\\
-                $\alpha$ & angle; coefficient of elastic compliance; constant; initial phase of oscillations\\
-                $\vec{\alpha}$ & angular acceleration\\
-                $\beta$ & angle; damping factor; refrigerating factor (coefficient of performance)\\
-                $\gamma$ & angle; ratio of heat capacities $C_p/C_V$; relative shear\\
-                $\Delta$ & increment\\
-                $\Delta'$ & elementary amount\\
-                $\varepsilon$ & energy; strain\\
-                $\eta$ & efficiency; viscosity (dynamic)\\
-                $\Theta$ & thermodynamic temperature\\
-                $\theta$ & angle; temperature\\
-                $\varkappa$ & thermal conductivity coefficient\\
-                $\Lambda$ & volume of cell in $v$-space\\
-                $\lambda$ & logarithmic decrement\\
-                $\mu$ & reduced mass\\
-                $\nu$ & frequency; kinematic viscosity; number of revolutions per unit time\\
-                $\pi$ & ratio of circumference to diameter, $\pi=3.14+$\\
-                $\rho$ & density; polar coordinate\\
-                $\sigma$ & effective section of molecule; stress; surface tension\\
-                $\tau$ & proper time; tangential or shear stress\\
-                $\hatvec{\tau}$ & unit vector of tangent to trajectory\\
-                $\varphi$ & angle; polar coordinate\\
-                $\Omega$ & solid angle; statistical weight\\
-                $\omega$ & cyclic frequency\\
-                $\vec{\omega}$ & angular velocity\\
+				$W$ & energy\\
+				$w$ & energy density\\
+				$X$ & reactance\\
+				$x$ & coordinate\\
+				$y$ & coordinate\\
+				$Z$ & atomic number of element; impedance\\
+				$z$ & coordinate; valence\\
+				$\alpha$ & angle; drag coefficient; initial phase of oscillations; rotational constant\\
+				$\beta$ & angle; polarizability of molecule; relative velocity\\
+				$\gamma$ & angle; attenuation coefficient\\
+				$\Delta$ & difference in optical path; increment; Laplacian operator\\
+				$\delta$ & density of metal; fraction of energy; phase difference\\
+				$\varepsilon$ & relative permittivity; strain\\
+				$\varepsilon_0$ & electric constant\\
+				$\theta$ & angle; polar angle; polar coordinate\\
+				$\varkappa$ & thermal conductivity; wave absorption coefficient\\
+				$\varkappa'$ &  extinction coefficient\\
+				$\lambda$ & linear charge density; logarithmic decrement; wavelength\\
+				$\mu$ & permeability\\
+				$\ab{\mu}{B}$ & Bohr magneton\\
+				$\mu_0$ & magnetic constant\\
+				$\nu$ & frequency\\
+				$\xi$ & displacement of wave point\\
+				$\pi$ & ratio of circumference to diameter\\
+				$\rho$ & coherence radius; density; reflection coefficient; resistivity; volume density of charge\\
+				$\sigma$ & conductivity; cross-sectional area; stress; surface charge density\\
+				$\tau$ & retardation time; time; time constant of a circuit; transmission coefficient\\
+				$\Phi$ & flux\\
+				$\varphi$ & angle; azimuthal angle; potential\\
+				$\chi$ & electric susceptibility\\
+				$\ab{\chi}{m}$ & magnetic susceptibility\\
+				$\Psi$ & flux linkage; total magnetic flux\\
+				$\psi$ & angle\\
+				$\Omega$ & solid angle\\
+				$\omega$ & angular frequency\\
+				$\vec{\omega}$ & angular velocity\\
+				$\nabla$ & del (Hamiltonian) operator\\
 			\end{tabular}
 	}\end{center}
 \end{table}
 
 \clearpage
 
+\section[Units of Electrical and Magnetic Quantities]{Units of Electrical and Magnetic Quantities in the International System (SI)
+and in the Gaussian System}\label{sec:A_2}
 
-\section{Calculation of Selected Integrals}\label{sec:A_2}
-
-$\quad$1. The improper integral
-\begin{equation}\label{eq:A_1}
-    I(\beta) = \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}\,\deriv{x}
-\end{equation}
-
-\noindent
-is called the \textit{Poisson integral}. Denoting the integration variable by the letter $y$, we can write this integral in the form
+The electric constant
 \begin{equation*}
-    I(\beta) = \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta y^2}\,\deriv{y}.
+	\varepsilon_0 = \frac{1}{4\pi (2.997925)^2 \times \num{e9}} \si{F.m^{-1}} \approx \frac{1}{4\pi \times \num{9e9}} \si{F.m^{-1}}.
 \end{equation*}
 
-\noindent
-Multiplying the two expressions, we arrive at the double integral
-\begin{align}
-    \bracket{I(\beta)}^2 &= \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}\,\deriv{x} \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta y^2}\,\deriv{y}\nonumber\\
-    &= \int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty} \exp\bracket{-\beta\parenthesis{x^2+y^2}}\,\deriv{x}\,\deriv{y}.\label{eq:A_2}
-\end{align}
-
-It is easy to calculate this integral by considering the variables $x$ and $y$ as Cartesian coordinates in a plane and passing over from these coordinates to the polar ones $r$ and $\varphi$. When $x$ and $y$ vary from $-\infty$ to $+\infty$, the coordinate $r$ varies within the limits from $0$ to $\infty$, and $\varphi$ within the limits from $0$ to $2\pi$.
-The sum $x^2+y^2$ equals $r^2$, while the surface element $\deriv{x}\,\deriv{y}$ in polar coordinates has the form $r\,\deriv{r}\,\deriv{\varphi}$. Performing this substitution in \eqn{A_2}, we arrive at the expression
+The magnetic constant
 \begin{equation*}
-    \bracket{I(\beta)}^2 = \int_0^{2\pi}\int_0^{\infty} \exp\parenthesis{-\beta r^2} r\,\deriv{r} = 2\pi \frac{1}{2\beta} = \frac{\pi}{\beta}.
+	\mu_0 = 4\pi \times \num{e-7} \si{H.m^{-1}}.
 \end{equation*}
 
-\noindent
-Hence, for the integral~\eqref{eq:A_1}, we get the value $I(\beta)=\sqrt{\pi/\beta}$. Thus,
-\begin{equation}\label{eq:A_3}
-    \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}\,\deriv{x} = \parenthesis{\frac{\pi}{\beta}}^{1/2}.
-\end{equation}
-
-2. Both sides of \eqn{A_3} can be considered as a function of the parameter $\beta$. Differentiating with respect to this parameter (at the left we differentiate the integrand function), we find that
-\begin{equation}\label{eq:A_4}
-    \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}x^2\,\deriv{x} = \frac{1}{2}\parenthesis{\frac{\pi}{\beta^3}}^{1/2}.
-\end{equation}
-
-\noindent
-Repeated differentiation with respect to $\beta$ yields
-\begin{equation}\label{eq:A_5}
-    \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}x^4\,\deriv{x} = \frac{3}{4}\parenthesis{\frac{\pi}{\beta^5}}^{1/2}.
-\end{equation}
-
-The integrand functions in the integrals \eqref{eq:A_3}, \eqref{eq:A_4}, and \eqref{eq:A_5} are even ones. Therefore, the contributions to these integrals of the intervals $[-\infty,0]$ and $[0,+\infty]$ are the same. Hence it follows that, for example,
-\begin{equation}\label{eq:A_6}
-    \int_{-\infty}^{+\infty} \exp\parenthesis{-\beta x^2}x^4\,\deriv{x} = \frac{3}{8}\parenthesis{\frac{\pi}{\beta^5}}^{1/2}.
-\end{equation}
-
-\section{The Stirling Formula}\label{sec:A_3}
-
-With great values of $N$, we can obtain a simple approximate formula for $N!$. In accordance with the definition of $N!$, we have
+The electromagnetic constant
 \begin{equation*}
-    \ln{N!} = \ln(1\times 2\times\ldots\times N) = \ln{1} + \ln{2} + \ldots + \ln{N} = \sum_{m=1}^N \ln{m}.
+	c = \frac{1}{\sqrt{\varepsilon_0\mu_0}} = 2.997925 \times \num{e8} \si{m.s^{-1}} \approx \SI{3e8}{m.s^{-1}}.
 \end{equation*}
 
-\noindent
-The sum we have written equals the sum of the areas of the columns depicted in \fig{A_1}. At great values of N, the sum of the areas of
-these columns differs very slightly from the area confined by the dash curve, which is a graph of the function $\ln{x}$. Hence,
+The relations between the units are given approximately.
+To obtain the exact values, substitute $2.997925$ for $3$ and $(2.997925)^2$ for $9$.
+
+\begin{table}[b]
+	\renewcommand{\arraystretch}{1.2}
+	\caption{}
+	\vspace{-0.6cm}
+	\label{table:A_1}
+	\begin{center}\resizebox{0.98\linewidth}{!}{
+			\begin{tabular}{llll}
+				\toprule[1pt]
+				\multirow{2}{*}{\textbf{Quantity and aymbol}} & \multicolumn{2}{c}{\textbf{Unit and symbol}} & \multirow{2}{*}{\textbf{Relation}}\\
+				\cline{2-3}
+				& \textbf{SI} & \textbf{Gaussian} & \\
+				\midrule[0.5pt]\midrule[0.5pt]
+				Force $F$ & newton (N) & dyne (dyn) & $\SI{1}{N} = \SI{e5}{dyn}$\\
+				Work $A$ and energy $W$ & joule (J) & erg (erg) & $\SI{1}{J}=\SI{e7}{erg}$\\
+				Charge $q$ & coulomb (C) & \cgse{q} & $\SI{1}{C}= \SI{3e9}{\cgse{q}}$\\
+				Electric field strength $E$ & volt per metre (\si{V.m^{-1}}) & \cgse{E} & $\SI{1}{C}=\SI{3e4}{.m^{-1}}$\\
+				Potential $\varphi$, voltage $U$, e.m.f. $\mathcal{E}$ & volt (V) & \cgse{\varphi,U, \mathcal{E}} & $\SI{1}{\cgse{\varphi,U,\mathcal{E}}}=\SI{300}{V}$\\
+				Electric moment of dipole $p$ & coulomb-metre (\si{C.m}) & \cgse{p} & $\SI{1}{C.m}=\SI{3e11}{\cgse{q}}$\\
+				Polarization $P$ & coulomb per metre squared (\si{C.m^{-2}}) & \cgse{P} & $\SI{1}{C.m^{-2}}=\SI{3e5}{\cgse{P}}$\\
+				 Electric susceptibility $\chi$ & SI$_{\chi}$ & \cgse{\chi} & $\SI{1}{\cgse{\chi}}=4\pi$ SI$_{\chi}$\\
+				 Electric displacement $D$ & coulomb per metre squared (\si{C.m^{-2}}) & \cgse{D} & $\SI{1}{C.m^{-2}}=4\pi\SI{3e5}{\cgse{D}}$\\
+				 Flux of electric displacement $\Phi$ & coulomb (C) & \cgse{\Phi} & $\SI{1}{C}= 4\pi\SI{3e9}{\cgse{\Phi}}$\\
+				 Capacitance $C$ & farad (F) & centimetre (cm) & $\SI{1}{F}= \SI{e11}{cm}$\\
+				 Current $I$ & ampere (A) & \cgse{I} & $\SI{1}{A}= \SI{3e9}{\cgse{I}}$\\
+				 Current density $j$ & ampere per metre squared (\si{A.m^{-2}}) & \cgse{j} & $\SI{1}{A.m^{-2}}= \SI{3e5}{\cgse{j}}$\\
+				 Resistance $R$ & ohm (\si{\ohm}) & \cgse{R} & $\SI{1}{\cgse{R}}= \SI{9e11}{\ohm}$\\
+				 Resistivity $\rho$ & ohm-metre (\si{\ohm.m}) & \cgse{\rho} & $\SI{1}{\cgse{\rho}}= \SI{9e9}{\ohm.m}$\\
+				 Conductivity $\sigma$ & siemens per metre (\si{S.m^{-1}}) & \cgse{\sigma} & $\SI{1}{S.m^{-1}}= \SI{9e9}{\cgse{\sigma}}$\\
+				 Magnetic induction $B$ & tesla (T) & gauss (Gs) & $\SI{1}{T}=\SI{e4}{Gs}$\\
+				 Flux of magnetic induction $\Phi$ & weber (Wb) & maxwell (Mx) & $\SI{1}{Wb}= \SI{e8}{Mx}$\\
+				 Flux linkage $\Psi$ & weber (Wb) & maxwell (Mx) & $\SI{1}{Wb}=\SI{e8}{Mx}$\\
+				 Magnetic moment $\ab{p}{m}$ & ampere-metre squared (\si{A.m^2}) & \cgs{m}{\ab{p}{m}} & $\SI{1}{A.m^2}= \SI{e3}{\cgs{m}{\ab{p}{m}}}$\\
+				 Magnetization $M$ & ampere per metre (\si{A.m^{-1}}) & \cgs{m}{M} & $\SI{1}{\cgs{m}{M}}= \SI{e3}{A.m^{-1}}$\\
+				 Magnetic field strength $H$ & ampere per metre (\si{A.m^{-1}}) & oersted (Oe) & $\SI{1}{A.m^{-1}}= 4\pi\SI{e-3}{Oe}$\\
+				 Magnetic susceptibility $\ab{\chi}{m}$ & SI$_{\ab{\chi}{m}}$ & \cgs{m}{{\ab{\chi}{m}}} & $\SI{1}{\cgs{m}{{\ab{\chi}{m}}}}= 4\pi$ SI$_{\ab{\chi}{m}}$\\
+				 Inductance $L$ & henry (H) & centimetre (cm) & $\SI{1}{H}= \SI{e9}{cm}$\\
+				 Mutual inductance $L_{12}$ & henry (H) & centimetre (cm) & $\SI{1}{H}= \SI{e9}{cm}$\\
+				\bottomrule[1pt]
+			\end{tabular}
+	}\end{center}
+\end{table}
+
+\clearpage
+
+\section[Basic Formulas of Electricity and Magnetism]{Basic Formulas of Electricity and Magnetism in the SI and in the Gaussian System}\label{sec:A_3}
+\parindent 0mm
+
+1. Coulomb's law:
 \begin{equation*}
-    \ln{N!} \approx \int_1^N \ln{x}\,\deriv{x} = [x\ln{x} - x]_1^N = N\ln{N} - N + 1.
+	F = \dfrac{1}{4\pi\varepsilon_0} \dfrac{q_1q_2}{r^2} \siun F = \dfrac{q_1q_2}{r^2} \gsun.
 \end{equation*}
 
-\noindent
-With great values of $N$, we may disregard unity, and we arrive at the formula
-\begin{equation}\label{eq:A_7}
-    \ln{N!} \approx N \ln{N} - N
-\end{equation}
+2. Electric field strength (definition):
+\begin{equation*}
+	\vec{E} = \dfrac{\vec{F}}{q}.
+\end{equation*}
 
-\noindent
-which is called the \textbf{Stirling formula}.
+3. Field strength of point charge:
+\begin{equation*}
+	E = \dfrac{1}{4\pi\varepsilon_0} \dfrac{q}{\varepsilon r^2} \siun E=\dfrac{q}{\varepsilon r^2} \gsun.
+\end{equation*}
 
-We must note that, strictly speaking, the Stirling formula has another addend equal to $\ln(2\pi N)/2$. With great values of $N$, however, this addend may be disregarded in comparison with the other two addends.
+4. Field strength between charged planes and near surface of charged conductor:
+\begin{equation*}
+	E=\frac{\sigma}{\varepsilon_0\varepsilon} \siun E=\frac{4\pi\sigma}{\varepsilon} \gsun.
+\end{equation*}
 
-\begin{figure}[t]
-	\begin{center}
-		\includegraphics[scale=1]{figures/appendix/fig_A_1.pdf}
-		\caption[]{}
-		\label{fig:A_1}
-	\end{center}
-	\vspace{-0.8cm}
-\end{figure}
+5. Potential (definition):
+\begin{equation*}
+	\varphi = \frac{\ab{W}{p}}{q}.
+\end{equation*}
+
+6. Potential of field of point charge:
+\begin{equation*}
+	\varphi=\frac{1}{4\pi\varepsilon_0} \frac{q}{\varepsilon r} \siun \varphi=\frac{q}{\varepsilon r} \gsun.
+\end{equation*}
+
+7. Work of field forces on charge:
+\begin{equation*}
+	A = q (\varphi_1 - \varphi_2).
+\end{equation*}
+
+8. Relation between $\vec{E}$ and $\varphi$:
+\begin{equation*}
+	\vec{E} = - \gradop{\varphi}.
+\end{equation*}
+
+9. Relation between $\varphi$ and $\vec{E}$:
+\begin{equation*}
+	\varphi_1 - \varphi_2 = \int_1^2 \vec{E}\ccdot\derivec{l}.
+\end{equation*}
+
+10. Curl of vector $\vec{E}$ for electrostatic field:
+\begin{equation*}
+	\curlop{\vec{E}} = 0.
+\end{equation*}
+
+11. Circulation of vector $\vec{E}$ for electrostatic field:
+\begin{equation*}
+	\oint \vec{E}\ccdot\derivec{l} = 0.
+\end{equation*}
+
+12. Electric moment of dipole:
+\begin{equation*}
+	p = ql.
+\end{equation*}
+
+13. Torque acting on dipole in electric field:
+\begin{equation*}
+	\vec{T} = \vecprod{p}{E}.
+\end{equation*}
+
+14. Energy of dipole in field:
+\begin{equation*}
+	W = - \vecprod{p}{E}.
+\end{equation*}
+
+15. Dipole moment of ``elastic'' molecule:
+\begin{equation*}
+	\vec{p}=\beta\varepsilon_0\vec{E} \siun  \vec{p}=\beta\vec{E} \gsun.
+\end{equation*}
+
+16. Polarization (definition):
+\begin{equation*}
+	\vec{P} = \frac{1}{\Delta{V}}\sum{\vec{p}}.
+\end{equation*}
+
+17. Relation between $\vec{P}$ and $\vec{E}$:
+\begin{equation*}
+	\vec{P}=\chi\varepsilon_0\vec{E} \siun \vec{P}=\chi\vec{E} \gsun.
+\end{equation*}
+
+18. Relation between $\vec{P}$ and volume density of bound charges:
+\begin{equation*}
+	\rho' = - \divop{\vec{P}}.
+\end{equation*}
+
+19. Relation between $\vec{P}$ and surface density of bound charges:
+\begin{equation*}
+	\sigma' = \ab{P}{n}.
+\end{equation*}
+
+20. Electric displacement (definition):
+\begin{equation*}
+	\vec{D} = \varepsilon_0\vec{E} + \vec{P} \siun \vec{D} = \vec{E} + 4\pi\vec{P} \gsun.
+\end{equation*}
+
+21. Divergence of vector $\vec{D}$:
+\begin{equation*}
+	\divop{\vec{D}}=\rho \siun \divop{\vec{D}}=4\pi\rho \gsun.
+\end{equation*}
+
+22. Gauss's theorem for $\vec{D}$:
+\begin{equation*}
+	\oint \vec{D}\ccdot\derivec{S}=\sum q \siun \oint \vec{D}\ccdot\derivec{S}=4\pi\sum q \gsun.
+\end{equation*}
+
+23. Relation between permittivity $\varepsilon$ and electric susceptibility $\chi$:
+\begin{equation*}
+	\varepsilon = 1+\chi \siun \varepsilon = 1+4\pi\chi \gsun.
+\end{equation*}
+
+24. Relation between values of $\chi$ in the SI and in the Gaussian system:
+\begin{equation*}
+	\ab{\chi}{SI} = 4\pi\ab{\chi}{GS}.
+\end{equation*}
+
+25. Relation between $\vec{D}$ and $\vec{E}$:
+\begin{equation*}
+	\vec{D}=\varepsilon\varepsilon_0\vec{E} \siun \vec{D}=\varepsilon\vec{E} \gsun.
+\end{equation*}
+
+26. Relation between $\vec{D}$ and $\vec{E}$ in
+a vacuum:
+\begin{equation*}
+	\vec{D}=\varepsilon_0\vec{E} \siun \vec{D}=\vec{E} \gsun.
+\end{equation*}
+
+27. $\vec{D}$ of point charge field:
+\begin{equation*}
+	D=\frac{1}{4\pi} \frac{q}{r^2} \siun D=\frac{q}{r^2} \gsun.
+\end{equation*}
+
+28. Capacitance of capacitor (definition):
+\begin{equation*}
+	C = \frac{q}{U}.
+\end{equation*}
+
+29. Capacitance of plane capacitor:
+\begin{equation*}
+	C=\frac{\varepsilon_0\varepsilon S}{d} \siun C=\frac{\varepsilon_0\varepsilon S}{4\pi d} \gsun.
+\end{equation*}
+
+30. Energy of system of charges:
+\begin{equation*}
+	W = \frac{1}{2} \sum q\varphi.
+\end{equation*}
+
+31. Energy of charged capacitor:
+\begin{equation*}
+	W = \frac{CU^2}{2}.
+\end{equation*}
+
+32. Density of electric field energy:
+\begin{equation*}
+	w=\frac{\varepsilon_0\varepsilon E^2}{2} \siun w=\frac{\varepsilon E^2}{8\pi} \gsun.
+\end{equation*}
+
+33. Current (definition):
+\begin{equation*}
+	I = \diff{q}{t}.
+\end{equation*}
+
+34. Current density (definition):
+\begin{equation*}
+	j = \diff{I}{S_{\perp}}.
+\end{equation*}
+
+35. Continuity equation:
+\begin{equation*}
+	\divop{\vec{j}} = - \diffpartial{\rho}{t}.
+\end{equation*}
+
+36. Voltage (definition):
+\begin{equation*}
+	U = \varphi_1 - \varphi_2 + \mathcal{E}_{12}.
+\end{equation*}
+
+37. Ohm's law:
+\begin{equation*}
+	I = \frac{U}{R}.
+\end{equation*}
+
+38. Ohm's law in differential form
+\begin{equation*}
+	\vec{j} = \frac{1}{\rho} \vec{E} = \sigma\vec{E}.
+\end{equation*}
+
+39. Joule-Lenz law:
+\begin{equation*}
+	Q = \int_0^t RI^2\, \deriv{t}.
+\end{equation*}
+
+40. Joule-Lenz law in differential form:
+\begin{equation*}
+	w = \rho j^2.
+\end{equation*}
+
+41. Force of interaction of two parallel currents in a vacuum (per unit length):
+\begin{equation*}
+	F=\frac{\mu_0}{4\pi}\frac{2I_1I_2}{b} \siun F=\frac{1}{c^2}\frac{2I_1I_2}{b} \gsun.
+\end{equation*}
+
+42. Field of freely moving charge:
+\begin{equation*}
+	\vec{B} = \frac{\mu_0}{4\pi}\frac{q (\vecprod{v}{r})}{r^3} \siun
+	\vec{B} = \frac{1}{c}\frac{q (\vecprod{v}{r})}{r^3}.
+\end{equation*}
+
+43. Biot-Savart law:
+\begin{equation*}
+	\derivec{B}=\frac{\mu_0}{4\pi} \frac{I (\derivec{l}\times\vec{r})}{r^3} \siun \derivec{B}=\frac{1}{c} \frac{I (\derivec{l}\times\vec{r})}{r^3} \gsun.
+\end{equation*}
+
+44. Lorentz force:
+\begin{equation*}
+	\vec{F}=q\vec{E} + q (\vecprod{v}{B}) \siun \vec{F}=q\vec{E} + \frac{q}{c} (\vecprod{v}{B}) \gsun.
+\end{equation*}
+
+45. Ampere's law:
+\begin{equation*}
+	\derivec{F}=I (\derivec{l}\times\vec{B}) \siun \derivec{F}=\frac{1}{c} I (\derivec{l}\times\vec{B}) \gsun.
+\end{equation*}
+
+46. Magnetic moment of loop with current:
+\begin{equation*}
+	\ab{p}{m}=IS \siun \ab{p}{m}=\frac{1}{c}IS \gsun.
+\end{equation*}
+
+47. Angular momentum exerted on magnetic moment in a magnetic field:
+\begin{equation*}
+	\vec{L} = \ab{\vec{p}}{m} \times \vec{B}.
+\end{equation*}
+
+48. ``Mechanical'' energy of magnetic moment in a magnetic field:
+\begin{equation*}
+	W = -\ab{\vec{p}}{m}\ccdot\vec{B}.
+\end{equation*}
+
+49. Divergence of vector $\vec{B}$:
+\begin{equation*}
+	\divop{\vec{B}} = 0.
+\end{equation*}
+
+50. Gauss's theorem for $\vec{B}$:
+\begin{equation*}
+	\oint\vec{B}\ccdot\derivec{S} = 0.
+\end{equation*}
+
+51. Magnetization (definition):
+\begin{equation*}
+	\vec{M} = \frac{1}{\Delta{V}} \sum\ab{\vec{p}}{m}.
+\end{equation*}
+
+52. Magnetic field strength (definition):
+\begin{equation*}
+	\vec{H}=\frac{1}{\mu_0} \vec{B} - \vec{M} \siun \vec{H}=\vec{B} - 4\pi\vec{M} \gsun.
+\end{equation*}
+
+53. Relation between $\vec{M}$ and $\vec{H}$:
+\begin{equation*}
+	\vec{M} = \ab{\chi}{m} \vec{H}.
+\end{equation*}
+
+54. Relation between permeability $\mu$ and magnetic susceptibility $\ab{\chi}{m}$:
+\begin{equation*}
+	\mu=1+\ab{\chi}{m} \siun \mu=1+4\pi\ab{\chi}{m} \gsun.
+\end{equation*}
+
+55. Relation between values of $\ab{\chi}{m}$ in the SI and in the Gaussian system:
+\begin{equation*}
+	\ab{\chi}{m,SI} = 4\pi\ab{\chi}{m,GS}.
+\end{equation*}
+
+56. Relation between $\vec{B}$ and $\vec{H}$:
+\begin{equation*}
+	\vec{B}=\mu\mu_0\vec{H} \siun \vec{B}=\mu\vec{H} \gsun.
+\end{equation*}
+
+57. Relation between $\vec{B}$ and $\vec{H}$ a vacuum:
+\begin{equation*}
+	\vec{B}=\mu_0\vec{H} \siun \vec{B}=\vec{H} \gsun.
+\end{equation*}
+
+58. Curl of vector $\vec{H}$ for a stationary field:
+\begin{equation*}
+	\curlop{\vec{H}} = \vec{j} \siun \curlop{\vec{H}} = \frac{4\pi}{c} \vec{j} \gsun.
+\end{equation*}
+
+59. Circulation of vector $\vec{H}$ for a stationary field:
+\begin{equation*}
+	\oint \vec{H}\ccdot\derivec{l} = \sum I \siun \oint \vec{H}\ccdot\derivec{l} = \frac{4\pi}{c}\sum I \gsun.
+\end{equation*}
+
+60. Magnetic field strength of straight current:
+\begin{equation*}
+	H = \frac{1}{4\pi}\frac{2I}{b} \siun H = \frac{1}{c}\frac{2I}{b} \gsun.
+\end{equation*}
+
+61. Magnetic field strength at centre of ring current:
+\begin{equation*}
+	H = \frac{I}{2R} \siun H = \frac{1}{c} \frac{2\pi I}{R} \gsun.
+\end{equation*}
+
+62. Field strength of solenoid:
+\begin{equation*}
+	H = nI \siun H = \frac{4\pi}{c} nI \gsun.
+\end{equation*}
+
+63. Flux of magnetic induction (definition):
+\begin{equation*}
+	\Phi = \int_S \vec{B}\ccdot\derivec{S}.
+\end{equation*}
+
+64. Work done on loop with current when it is moved in a magnetic field:
+\begin{equation*}
+	A = I \Delta{\Phi} \siun A = \frac{1}{c} I \Delta{\Phi} \gsun.
+\end{equation*}
+
+65. Flux linkage or total magnetic flux (definition):
+\begin{equation*}
+	\Psi = \sum\Phi.
+\end{equation*}
+
+66. Induced e.m.f.:
+\begin{equation*}
+	\ab{\mathcal{E}}{i}=-\diff{\Psi}{t} \siun \ab{\mathcal{E}}{i}=- \frac{1}{c}\diff{\Psi}{t} \gsun.
+\end{equation*}
+
+67. Inductance (definition):
+\begin{equation*}
+	L = \frac{\Psi}{I} \siun L = c \frac{\Psi}{I} \gsun.
+\end{equation*}
+
+68. Inductance of solenoid:
+\begin{equation*}
+	L = \mu_\mu n^2l S \siun L = 4\pi\mu_\mu n^2l S \gsun.
+\end{equation*}
+
+69. E.m.f. of self-induction (in absence of ferromagnetics):
+\begin{equation*}
+	\ab{\mathcal{E}}{s}=-L\diff{I}{t} \siun \ab{\mathcal{E}}{s}=-\frac{1}{c^2}L\diff{I}{t} \gsun.
+\end{equation*}
+
+70. Energy of magnetic fteld of current:
+\begin{equation*}
+	W=\frac{LI^2}{2} \siun W=\frac{1}{c^2}\frac{LI^2}{2} \gsun.
+\end{equation*}
+
+71. Density of energy of magnetic field:
+\begin{equation*}
+	w=\frac{\mu_0\mu H^2}{2} \siun w=\frac{\mu H^2}{8\pi} \gsun.
+\end{equation*}
+
+72. Energy of linked loops with current:
+\begin{equation*}
+	W = \frac{1}{2} \sum_{i,k} L_{ik} I_i I_k \siun W = \frac{1}{2c^2} \sum_{i,k} L_{ik} I_i I_k \gsun.
+\end{equation*}
+
+73. Density of displacement current:
+\begin{equation*}
+	\ab{\vec{j}}{dis} = \dot{\vec{D}} \siun \ab{\vec{j}}{dis} = \frac{1}{4\pi}\dot{\vec{D}} \gsun.
+\end{equation*}
+
+74. Maxwell's equations in differential form:
+\begin{align*}
+	\curlop{\vec{E}}&=-\diffpartial{\vec{B}}{t}\siun \curlop{\vec{E}}=-\frac{1}{c}\diffpartial{\vec{B}}{t}\siun\\
+	\divop{\vec{B}}&=0\siun  \divop{\vec{B}}=0\gsun\\
+	\curlop{\vec{H}}&=\vec{j}+\diffpartial{\vec{D}}{t} \siun \curlop{\vec{H}}=\frac{4\pi}{c}\vec{j}+\frac{1}{c}\diffpartial{\vec{D}}{t} \gsun\\
+	\divop{\vec{D}}&=\rho \siun \divop{\vec{D}}=4\pi\rho \gsun.
+\end{align*}
+
+75. Maxwell s equations in integral form:
+\begin{align*}
+	\oint_{\Gamma}\vec{E}\ccdot\derivec{l}&=-\int_S\diffpartial{\vec{B}}{t}\ccdot\derivec{S} \siun \oint_{\Gamma}\vec{E}\ccdot\derivec{l}=-\frac{1}{c}\int_S\diffpartial{\vec{B}}{t}\ccdot\derivec{S} \gsun \\
+	\oint_S\vec{B}\ccdot\derivec{S}&=0 \siun \oint_S\vec{B}\ccdot\derivec{S}=0 \gsun\\
+	\oint_{\Gamma}\vec{H}\ccdot\derivec{l}&=\int_S\vec{j}\ccdot\derivec{S}+\int_S\diffpartial{\vec{D}}{t}\ccdot\derivec{S} \siun \\ \oint_{\Gamma}\vec{H}\ccdot\derivec{l}&=\frac{4\pi}{c}\int_S\vec{j}\ccdot\derivec{S}+\frac{1}{c}\int_S\diffpartial{\vec{D}}{t}\ccdot\derivec{S} \gsun\\
+	\oint_S \vec{D}\ccdot\derivec{S}&=\int_V\rho\,\deriv{V} \siun \oint_S \vec{D}\ccdot\derivec{S}=4\pi\int_V\rho\,\deriv{V} \gsun.
+\end{align*}
+
+76. Velocity of electromagnetic waves:
+\begin{equation*}
+	v = \frac{c}{\sqrt{\varepsilon\mu}}.
+\end{equation*}
+
+77. Relation between amplitudes of vectors $\vec{E}$ and $\vec{H}$ in an electromagnetic wave:
+\begin{equation*}
+	\ab{E}{m}=\sqrt{\varepsilon_0\varepsilon}=\ab{H}{m}\sqrt{\mu_0\mu} \siun \ab{E}{m}=\sqrt{\varepsilon}=\ab{H}{m}\sqrt{\mu} \gsun.
+\end{equation*}
+
+78. Poynting vector:
+\begin{equation*}
+	\vec{S} = \vecprod{E}{H} \siun \vec{S} = \frac{1}{4\pi c}\vecprod{E}{H} \gsun.
+\end{equation*}
+
+79. Density of electromagnetic field momentum:
+\begin{equation*}
+	\vec{K}=\frac{1}{c^2}\vecprod{E}{H} \siun \vec{K}=\frac{1}{4\pi c^2}\vecprod{E}{H} \gsun.
+\end{equation*}

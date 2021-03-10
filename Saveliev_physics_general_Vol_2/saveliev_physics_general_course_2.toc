@@ -137,3 +137,45 @@
 \contentsline {section}{\numberline {16.7}Centered Optical System}{351}{section.16.7}% 
 \contentsline {section}{\numberline {16.8}Thin Lenses}{358}{section.16.8}% 
 \contentsline {section}{\numberline {16.9}Huygens' Principle}{359}{section.16.9}% 
+\contentsline {chapter}{\numberline {17}INTERFERENCE OF LIGHT}{361}{chapter.17}% 
+\contentsline {section}{\numberline {17.1}Interference of Light Waves}{361}{section.17.1}% 
+\contentsline {section}{\numberline {17.2}Coherence}{366}{section.17.2}% 
+\contentsline {section}{\numberline {17.3}Ways of Observing the Interference of Light}{374}{section.17.3}% 
+\contentsline {section}{\numberline {17.4}Interference of Light Reflected from Thin Plates}{376}{section.17.4}% 
+\contentsline {section}{\numberline {17.5}The Michelson Interferometer}{386}{section.17.5}% 
+\contentsline {section}{\numberline {17.6}Multibeam Interference}{389}{section.17.6}% 
+\contentsline {chapter}{\numberline {18}DIFFRACTION OF LIGHT}{397}{chapter.18}% 
+\contentsline {section}{\numberline {18.1}Introduction}{397}{section.18.1}% 
+\contentsline {section}{\numberline {18.2}Huygens-Fresnel Principle}{398}{section.18.2}% 
+\contentsline {section}{\numberline {18.3}Fresnel Zones}{401}{section.18.3}% 
+\contentsline {section}{\numberline {18.4}Fresnel Diffraction from Simple Barriers}{406}{section.18.4}% 
+\contentsline {section}{\numberline {18.5}Fraunhofer Diffraction from a Slit}{417}{section.18.5}% 
+\contentsline {section}{\numberline {18.6}Diffraction Grating}{425}{section.18.6}% 
+\contentsline {section}{\numberline {18.7}Diffraction of X-Rays}{434}{section.18.7}% 
+\contentsline {section}{\numberline {18.8}Resolving Power of an Objective}{440}{section.18.8}% 
+\contentsline {section}{\numberline {18.9}Holography}{443}{section.18.9}% 
+\contentsline {chapter}{\numberline {19}POLARIZATION OF LIGHT}{447}{chapter.19}% 
+\contentsline {section}{\numberline {19.1}Natural and Polarized Light}{447}{section.19.1}% 
+\contentsline {section}{\numberline {19.2}Polarization in Reflection and Refraction}{451}{section.19.2}% 
+\contentsline {section}{\numberline {19.3}Polarization in Double Refraction}{455}{section.19.3}% 
+\contentsline {section}{\numberline {19.4}Interference of Polarized Rays}{459}{section.19.4}% 
+\contentsline {section}{\numberline {19.5}Passing of Plane-Polarized Light Through a Crystal Plate}{461}{section.19.5}% 
+\contentsline {section}{\numberline {19.6}A Crystal Plate Between Two Polarizers}{463}{section.19.6}% 
+\contentsline {section}{\numberline {19.7}Artificial Double Refraction}{467}{section.19.7}% 
+\contentsline {section}{\numberline {19.8}Rotation of Polarization Plane}{469}{section.19.8}% 
+\contentsline {chapter}{\numberline {20}INTERACTION OF ELECTROMAGNETIC WAVES WITH A \\ SUBSTANCE}{473}{chapter.20}% 
+\contentsline {section}{\numberline {20.1}Dispersion of Light}{473}{section.20.1}% 
+\contentsline {section}{\numberline {20.2}Group Velocity}{474}{section.20.2}% 
+\contentsline {section}{\numberline {20.3}Elementary Theory of Dispersion}{479}{section.20.3}% 
+\contentsline {section}{\numberline {20.4}Absorption of Light}{483}{section.20.4}% 
+\contentsline {section}{\numberline {20.5}Scattering of Light}{485}{section.20.5}% 
+\contentsline {section}{\numberline {20.6}The Vavilov-Cerenkov Effect}{488}{section.20.6}% 
+\contentsline {chapter}{\numberline {21}MOVING-MEDIA OPTICS}{491}{chapter.21}% 
+\contentsline {section}{\numberline {21.1}The Speed of Light}{491}{section.21.1}% 
+\contentsline {section}{\numberline {21.2}Fizeau's Experiment}{494}{section.21.2}% 
+\contentsline {section}{\numberline {21.3}Michelson's Experiment}{497}{section.21.3}% 
+\contentsline {section}{\numberline {21.4}The Doppler Effect}{500}{section.21.4}% 
+\contentsline {chapter}{APPENDICES}{505}{appendix*.288}% 
+\contentsline {section}{\numberline {A.1}List of Symbols}{505}{section.Alph0.1}% 
+\contentsline {section}{\numberline {A.2}Units of Electrical and Magnetic Quantities}{508}{section.Alph0.2}% 
+\contentsline {section}{\numberline {A.3}Basic Formulas of Electricity and Magnetism}{510}{section.Alph0.3}% 

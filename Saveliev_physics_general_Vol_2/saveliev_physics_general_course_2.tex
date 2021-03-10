@@ -65,6 +65,7 @@
 \newcommand{\diffin}[2]{\upd#1/\upd#2}
 \newcommand{\diff}[2]{\dfrac{\upd#1}{\upd#2}}
 \newcommand{\diffsec}[2]{\dfrac{\upd^2#1}{\upd#2^2}}
+\newcommand{\diffsecin}[2]{\upd^2#1/\upd#2^2}
 \newcommand{\diffinpartial}[2]{\uppartial#1/\uppartial#2}
 \newcommand{\diffpartial}[2]{\dfrac{\uppartial#1}{\uppartial#2}}
 \newcommand{\diffpartialin}[2]{\uppartial#1/\uppartial#2}
@@ -93,6 +94,8 @@
 \newcommand{\diverg}[1]{\text{div~}#1}
 \newcommand{\curl}[1]{\text{curl~}#1}
 \newcommand{\grad}[1]{\text{grad~}#1}
+\newcommand{\siun}{\,\,\,\text{(SI)}\quad\quad\quad}
+\newcommand{\gsun}{\,\,\,\text{(GS)}}
 
 \newcommand{\sect}[1]{Sec.~\ref{sec:#1}}
 \newcommand{\app}[1]{Appendix.~\ref{sec:#1}}
@@ -345,9 +348,18 @@
 \part{OPTICS}\label{part:C}
 \cleardoublepage
 \input{16_general}
-
-% \cleardoublepage
-% \input{A_appendices}
+\cleardoublepage
+\input{17_interference_of_light}
+\cleardoublepage
+\input{18_diffraction_of_light}
+\cleardoublepage
+\input{19_polarization_of_light}
+\cleardoublepage
+\input{20_interaction_of_emw_with_substance}
+\cleardoublepage
+\input{21_moving_media_optics}
+\cleardoublepage
+\input{A_appendices}
 
 \cleardoublepage
 \includepdf{figures/pgc_2_bc.pdf}
